@@ -24,18 +24,23 @@ def clean(body):
     body = body.replace('https://topabcnews.com/wp-content/uploads/', '/wp-content/uploads/')
     body = body.replace('http://topabcnews.com/wp-content/uploads/', '/wp-content/uploads/')
     body = re.sub(r'(<img\b)(?![^>]*\bloading=)', r'\1 loading="lazy"', body)
-    # WordPress stores paragraphs without <p>; wrap loose text blocks
-    blocks = re.split(r'\n\s*\n', body.strip())
-    out = []
-    for b in blocks:
-        b = b.strip()
-        if not b:
-            continue
-        if re.match(r'^<(p|h\d|ul|ol|li|div|figure|table|blockquote|img|iframe|section|hr|pre)\b', b, re.I):
-            out.append(b)
+    # WordPress stores paragraphs without <p> (wpautop). Wrap only runs of inline text.
+    BLOCK = r'(p|h\d|ul|ol|li|div|figure|figcaption|table|thead|tbody|tr|td|th|blockquote|iframe|section|hr|pre|form|label)'
+    out, buf = [], []
+    def flush():
+        if buf:
+            out.append('<p>' + '<br>\n'.join(buf) + '</p>')
+            buf.clear()
+    for line in body.split('\n'):
+        t = line.strip()
+        if not t:
+            flush(); continue
+        if re.match(r'^</?' + BLOCK + r'\b', t, re.I) or re.search(r'</' + BLOCK + r'>$', t, re.I):
+            flush(); out.append(t)
         else:
-            out.append('<p>' + b.replace('\n', '<br>\n') + '</p>')
-    return '\n\n'.join(out)
+            buf.append(t)
+    flush()
+    return '\n'.join(out)
 
 def yq(s):
     return json.dumps(s, ensure_ascii=False)

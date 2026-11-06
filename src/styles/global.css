@@ -98,3 +98,7 @@ img { max-width: 100%; height: auto; display: block; }
 .footer-grid p { font-size: .9rem; }
 .copyright { border-top: 1px solid #333; margin-top: 24px; padding-top: 14px; font-size: .85rem; text-align: center; }
 @media (max-width: 760px) { .footer-grid { grid-template-columns: 1fr 1fr; } }
+.prose li > p { margin: 0; }
+.prose li { margin: 4px 0; }
+.prose figure { margin: 16px 0; }
+.prose figcaption { font-size: .88rem; color: var(--muted); text-align: center; }

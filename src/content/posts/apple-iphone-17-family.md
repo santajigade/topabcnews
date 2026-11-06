@@ -131,16 +131,16 @@ author: "Editorial Staff"
 <li>
 <p>Sold in silver, cosmic orange, and deep blue. Pre-orders start <strong>September 9</strong>, shipping begins <strong>September 18</strong></p>
 </li>
-</ul>			<h4>Comparison Table</h4>		<table><thead><tr><th>Model</th><th>Highlights</th><th>Price in India</th></tr></thead><tbody><tr><td><strong>iPhone Air</strong></td><td>Thinnest, titanium frame, A19 Pro chip, Wi-Fi 7, 48 MP cam</td><td>₹1,19,900 – ₹1,59,900</td></tr><tr><td><strong>iPhone 17</strong></td><td>120 Hz display, dual-fusion cam, A19 chip</td><td>₹82,900 – ₹1,02,900</td></tr><tr><td><strong>iPhone 17 Pro</strong></td><td>Triple cam with 8× zoom, A19 Pro, ProMotion, Apple AI</td><td>₹1,34,900 – ₹1,74,900</td></tr><tr><td><strong>iPhone 17 Pro Max</strong></td><td>Biggest screen, 40% better performance, 2 TB option</td><td>₹1,49,900 – ₹2,29,900</td></tr></tbody></table>		
-		<figure>
-			<blockquote>
-				Please check with your local authorized dealer or distributor for prices and offers.			
-			</blockquote>
-				<figcaption>
-					<cite>
-						Editorial Staff					
-					</cite>
-				</figcaption>
-		</figure>
-					<h4>What Makes This Launch Special?</h4>		<ul><li><p><strong>Design &amp; Innovation</strong>: The introduction of an <strong>ultra-thin Air model</strong>, the return of <strong>aluminium frames</strong>, and the strongest Ceramic Shield yet.</p></li><li><p><strong>Powerful Chips</strong>: The lineup features the all-new <strong>A19 chip</strong> across the board, with the <strong>A19 Pro</strong> delivering top-tier performance.</p></li><li><p><strong>Camera Upgrades</strong>: Every model now sports a <strong>48 MP main camera</strong>. The Pro series brings advanced <a href="https://topabcnews.com/category/technology/" target="_blank" rel="noopener">technology </a>tools for creators, including 8K video and genlock.</p></li><li><p><strong>Display &amp; Connectivity</strong>: All models boast <strong>120 Hz ProMotion displays</strong> and next-gen <strong>Wi-Fi 7</strong> and <strong>Bluetooth 6</strong>.</p></li><li><p><strong>Pro Features Go Mainstream</strong>: Innovations like Always-On displays, Center Stage, and Apple Intelligence (iOS 26) are now widespread across the lineup.</p></li><li><p><strong>Battery and Charging</strong>: Especially for Pro Max, this means <strong>longer battery life</strong>, <strong>fast charging</strong>, and more power thanks to improved cooling.</p></li><li><p><strong>Launch &amp; Availability</strong>: The new models went up for <strong>pre-order in India starting September 9–12</strong>, with all versions on sale beginning <strong>September 19</strong></p></li></ul>					
-				<p>Apple’s <strong>iPhone 17 series</strong> raises the bar for smartphones. From the elegant and featherweight iPhone Air to the powerhouse Pro Max made for creators and professionals, there’s something for everyone. With powerful new chips, superior cameras, faster connectivity, and smart new software, Apple has delivered a line-up that blends performance, innovation, and style.</p>
+</ul>			<h4>Comparison Table</h4>		<table><thead><tr><th>Model</th><th>Highlights</th><th>Price in India</th></tr></thead><tbody><tr><td><strong>iPhone Air</strong></td><td>Thinnest, titanium frame, A19 Pro chip, Wi-Fi 7, 48 MP cam</td><td>₹1,19,900 – ₹1,59,900</td></tr><tr><td><strong>iPhone 17</strong></td><td>120 Hz display, dual-fusion cam, A19 chip</td><td>₹82,900 – ₹1,02,900</td></tr><tr><td><strong>iPhone 17 Pro</strong></td><td>Triple cam with 8× zoom, A19 Pro, ProMotion, Apple AI</td><td>₹1,34,900 – ₹1,74,900</td></tr><tr><td><strong>iPhone 17 Pro Max</strong></td><td>Biggest screen, 40% better performance, 2 TB option</td><td>₹1,49,900 – ₹2,29,900</td></tr></tbody></table>
+<figure>
+<blockquote>
+<p>Please check with your local authorized dealer or distributor for prices and offers.</p>
+</blockquote>
+<figcaption>
+<p><cite><br>
+Editorial Staff<br>
+</cite></p>
+</figcaption>
+</figure>
+<h4>What Makes This Launch Special?</h4>		<ul><li><p><strong>Design &amp; Innovation</strong>: The introduction of an <strong>ultra-thin Air model</strong>, the return of <strong>aluminium frames</strong>, and the strongest Ceramic Shield yet.</p></li><li><p><strong>Powerful Chips</strong>: The lineup features the all-new <strong>A19 chip</strong> across the board, with the <strong>A19 Pro</strong> delivering top-tier performance.</p></li><li><p><strong>Camera Upgrades</strong>: Every model now sports a <strong>48 MP main camera</strong>. The Pro series brings advanced <a href="https://topabcnews.com/category/technology/" target="_blank" rel="noopener">technology </a>tools for creators, including 8K video and genlock.</p></li><li><p><strong>Display &amp; Connectivity</strong>: All models boast <strong>120 Hz ProMotion displays</strong> and next-gen <strong>Wi-Fi 7</strong> and <strong>Bluetooth 6</strong>.</p></li><li><p><strong>Pro Features Go Mainstream</strong>: Innovations like Always-On displays, Center Stage, and Apple Intelligence (iOS 26) are now widespread across the lineup.</p></li><li><p><strong>Battery and Charging</strong>: Especially for Pro Max, this means <strong>longer battery life</strong>, <strong>fast charging</strong>, and more power thanks to improved cooling.</p></li><li><p><strong>Launch &amp; Availability</strong>: The new models went up for <strong>pre-order in India starting September 9–12</strong>, with all versions on sale beginning <strong>September 19</strong></p></li></ul>
+<p>Apple’s <strong>iPhone 17 series</strong> raises the bar for smartphones. From the elegant and featherweight iPhone Air to the powerhouse Pro Max made for creators and professionals, there’s something for everyone. With powerful new chips, superior cameras, faster connectivity, and smart new software, Apple has delivered a line-up that blends performance, innovation, and style.</p>
