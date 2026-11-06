@@ -57,6 +57,7 @@ jobs:
           ssh srv "cat $DATA/vapid.json" > /tmp/vapid.json
           node -e "process.stdout.write(require('/tmp/vapid.json').publicKey)" | ssh srv "cat > $WEB/push-key.txt"
           echo "Public key published at https://topabcnews.com/push-key.txt"
+          echo "Subscribers now: $(ssh srv "ls $DATA/subs | wc -l")"
 
       - name: Send today's alert
         if: github.event_name == 'schedule' || inputs.mode == 'send'
