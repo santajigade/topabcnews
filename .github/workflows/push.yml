@@ -2,7 +2,7 @@ name: Daily push notification
 
 on:
   schedule:
-    - cron: '37 14 * * *'   # 8:07 PM IST, once a day
+    - cron: '30 5 * * *'   # 11:00 AM IST, once a day
   workflow_dispatch:
     inputs:
       mode:
