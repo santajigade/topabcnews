@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+import Ad from '../components/Ad.astro';
+import { allPosts } from '../lib/posts';
+import { SITE, CATEGORIES, PER_PAGE } from '../lib/site';
+const posts = await allPosts();
+const [lead, ...rest] = posts;
+const latest = rest.slice(0, 8);
+const sections = CATEGORIES.map((c) => ({ c, items: posts.filter((p) => p.data.category === c.name).slice(0, 4) })).filter((s) => s.items.length);
+const jsonld = { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: SITE.url,
+  potentialAction: { '@type': 'SearchAction', target: `${SITE.url}/search/?q={q}`, 'query-input': 'required name=q' } };
+---
+<Base title={SITE.name} description={`${SITE.name}: latest news on technology, finance, health, education, government yojana, sports, automobile and Bollywood.`} jsonld={jsonld}>
+  <section class="wrap home-top">
+    {lead && <PostCard post={lead} big />}
+    <div class="latest-list">
+      <h2>Latest News</h2>
+      <div class="grid grid-2">{latest.map((p) => <PostCard post={p} />)}</div>
+    </div>
+  </section>
+  <Ad />
+  {sections.map(({ c, items }) => (
+    <section class="wrap cat-section">
+      <div class="sec-head"><h2 style={`border-color:${c.color}`}>{c.name}</h2><a href={`/category/${c.slug}/`}>View all →</a></div>
+      <div class="grid">{items.map((p) => <PostCard post={p} />)}</div>
+    </section>
+  ))}
+  {posts.length > PER_PAGE && <div class="wrap center"><a class="btn" href="/page/2/">More news →</a></div>}
+</Base>

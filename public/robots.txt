@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://topabcnews.com/sitemap-index.xml
+Sitemap: https://topabcnews.com/news-sitemap.xml

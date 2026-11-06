@@ -1,0 +1,46 @@
+# Top ABC News static site (replaces WordPress)
+DirectoryIndex index.html
+Options -Indexes
+ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8
+AddType application/rss+xml .xml
+AddType image/webp .webp
+
+# Block old WordPress PHP files left on the server
+<FilesMatch "\.php$">
+  Require all denied
+</FilesMatch>
+
+RewriteEngine On
+RewriteBase /
+
+# Force https and non-www
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^(.*)$ https://topabcnews.com/$1 [R=301,L]
+
+# Old WordPress URLs
+RewriteRule ^feed/?$ /rss.xml [R=301,L]
+RewriteRule ^(.+)/feed/?$ /$1/ [R=301,L]
+RewriteRule ^category/([^/]+)/feed/?$ /category/$1/ [R=301,L]
+RewriteRule ^(sitemap_index|post-sitemap|page-sitemap|category-sitemap)\.xml$ /sitemap-index.xml [R=301,L]
+RewriteRule ^(wp-admin|wp-login\.php|wp-json|xmlrpc\.php)(/.*)?$ / [R=301,L]
+RewriteRule ^(home-[0-9]+|sample-page|refund_returns|bookmarks|content-widgets|our-team|categories-list|login|login-custom|newsletter|landing|reviews|blog|out-authors|authors-list|resources|maintenance|coming-soon|footer-styles|advanced-search|catalogue|faq)/?$ / [R=301,L]
+RewriteRule ^(bollywood|technology|health|finance|education|yojana|sports|automobile)/?$ /category/$1/ [R=301,L]
+RewriteRule ^tag/.*$ / [R=301,L]
+
+# Caching
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html "access plus 5 minutes"
+  ExpiresByType application/xml "access plus 10 minutes"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json application/xml application/rss+xml image/svg+xml
+</IfModule>

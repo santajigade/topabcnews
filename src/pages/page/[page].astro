@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import Listing from '../../components/Listing.astro';
+import { allPosts } from '../../lib/posts';
+import { PER_PAGE } from '../../lib/site';
+export async function getStaticPaths({ paginate }) {
+  const posts = await allPosts();
+  return paginate(posts, { pageSize: PER_PAGE }).filter((p) => p.props.page.currentPage > 1);
+}
+const { page } = Astro.props;
+---
+<Base title={`Latest News, Page ${page.currentPage}`} description="All the latest news stories from Top ABC News." noindex>
+  <Listing page={page} base="/" heading={`Latest News: Page ${page.currentPage}`} />
+</Base>

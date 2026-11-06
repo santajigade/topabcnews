@@ -1,0 +1,65 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+import Ad from '../components/Ad.astro';
+import { allPosts } from '../lib/posts';
+import { SITE, catByName, fmtDate } from '../lib/site';
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  const pages = await getCollection('pages');
+  return [
+    ...posts.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry, kind: 'post', posts } })),
+    ...pages.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry, kind: 'page' } })),
+  ];
+}
+const { entry, kind, posts } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+let jsonld, related = [], cat;
+if (kind === 'post') {
+  cat = catByName(d.category);
+  related = posts.filter((p) => p.data.category === d.category && p.data.slug !== d.slug).slice(0, 4);
+  const url = `${SITE.url}/${d.slug}/`;
+  jsonld = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      { '@type': 'NewsArticle', headline: d.title, description: d.description, mainEntityOfPage: url,
+        image: d.image ? [new URL(d.image, SITE.url).href] : undefined,
+        datePublished: d.date.toISOString(), dateModified: (d.updated ?? d.date).toISOString(),
+        articleSection: d.category, keywords: d.keywords,
+        author: { '@type': 'Organization', name: 'Top ABC News Editorial Staff', url: `${SITE.url}/author/editorialstaff/` },
+        publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: `${SITE.url}/logo.png` } } },
+      { '@type': 'BreadcrumbList', itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/` },
+        { '@type': 'ListItem', position: 2, name: d.category, item: `${SITE.url}/category/${cat.slug}/` },
+        { '@type': 'ListItem', position: 3, name: d.title, item: url } ] },
+    ],
+  };
+}
+---
+<Base title={d.title} description={d.description} image={kind === 'post' ? d.image : undefined} type={kind === 'post' ? 'article' : 'website'} jsonld={jsonld}>
+  <article class="wrap article">
+    {kind === 'post' && (
+      <>
+        <nav class="crumbs"><a href="/">Home</a> › <a href={`/category/${cat.slug}/`}>{d.category}</a></nav>
+        <a href={`/category/${cat.slug}/`} class="badge" style={`background:${cat.color}`}>{d.category}</a>
+      </>
+    )}
+    <h1>{d.title}</h1>
+    {kind === 'post' && (
+      <div class="meta">By <a href="/author/editorialstaff/">Editorial Staff</a> · <time datetime={d.date.toISOString()}>{fmtDate(d.date)}</time>
+        {d.updated && <> · Updated <time datetime={d.updated.toISOString()}>{fmtDate(d.updated)}</time></>}</div>
+    )}
+    {kind === 'post' && d.image && <img class="hero" src={d.image} alt={d.imageAlt ?? d.title} width="1200" height="675" fetchpriority="high" />}
+    <div class="prose"><Content /></div>
+    {kind === 'post' && d.sources.length > 0 && (
+      <aside class="sources"><h2>Sources</h2><ul>{d.sources.map((s) => <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.name}</a></li>)}</ul></aside>
+    )}
+    <Ad />
+  </article>
+  {related.length > 0 && (
+    <section class="wrap cat-section"><div class="sec-head"><h2 style={`border-color:${cat.color}`}>More {d.category} News</h2></div>
+      <div class="grid">{related.map((p) => <PostCard post={p} />)}</div></section>
+  )}
+</Base>

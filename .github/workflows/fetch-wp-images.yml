@@ -1,0 +1,30 @@
+name: One-time fetch of WordPress images
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download images used by migrated posts
+        run: |
+          while read -r url; do
+            [ -z "$url" ] && continue
+            path="public${url#https://topabcnews.com}"
+            path=$(python3 -c "import sys,urllib.parse;print(urllib.parse.unquote(sys.argv[1]))" "$path")
+            mkdir -p "$(dirname "$path")"
+            curl -fsSL --retry 3 -o "$path" "$url" || echo "FAILED $url"
+          done < scripts/wp_images.txt
+          find public/wp-content -type f | wc -l
+      - name: Commit images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/wp-content
+          git commit -m "Add migrated WordPress images" || echo "nothing to commit"
+          git push

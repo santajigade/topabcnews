@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="Search" description="Search Top ABC News" noindex>
+  <section class="wrap listing">
+    <h1>Search</h1>
+    <form id="sf" class="searchbox"><input id="q" name="q" type="search" placeholder="Enter some keywords..." autofocus /><button>Search</button></form>
+    <p id="count" class="intro"></p>
+    <div id="results" class="grid"></div>
+  </section>
+  <script is:inline>
+    const q = new URLSearchParams(location.search).get('q') || '';
+    document.getElementById('q').value = q;
+    const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+    if (q.trim()) fetch('/search.json').then((r) => r.json()).then((all) => {
+      const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+      const hits = all.filter((p) => words.every((w) => (p.t + ' ' + p.d + ' ' + p.c).toLowerCase().includes(w)));
+      document.getElementById('count').textContent = hits.length + ' results found';
+      document.getElementById('results').innerHTML = hits.map((p) =>
+        `<article class="card"><a class="card-img" href="/${encodeURI(p.s)}/">${p.i ? `<img src="${esc(p.i)}" alt="" loading="lazy">` : ''}</a><div class="card-body"><span class="badge">${esc(p.c)}</span><h3><a href="/${encodeURI(p.s)}/">${esc(p.t)}</a></h3></div></article>`).join('');
+    });
+  </script>
+</Base>

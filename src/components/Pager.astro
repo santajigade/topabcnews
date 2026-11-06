@@ -1,0 +1,11 @@
+---
+const { page, base } = Astro.props; // base like '/' or '/category/tech/'
+const href = (n: number) => (n === 1 ? base : `${base}page/${n}/`);
+---
+{page.lastPage > 1 && (
+  <nav class="pager">
+    {page.currentPage > 1 && <a href={href(page.currentPage - 1)}>← Newer</a>}
+    <span>Page {page.currentPage} of {page.lastPage}</span>
+    {page.currentPage < page.lastPage && <a href={href(page.currentPage + 1)}>Older →</a>}
+  </nav>
+)}

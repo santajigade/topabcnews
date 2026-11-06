@@ -1,0 +1,62 @@
+---
+import { SITE, CATEGORIES } from '../lib/site';
+import '../styles/global.css';
+interface Props { title: string; description: string; image?: string; type?: string; jsonld?: object; noindex?: boolean }
+const { title, description, image, type = 'website', jsonld, noindex } = Astro.props;
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const ogImage = new URL(image ?? '/og-default.png', SITE.url).href;
+const fullTitle = title === SITE.name ? `${SITE.name} | ${SITE.tagline}` : `${title} | ${SITE.name}`;
+const year = new Date().getFullYear();
+---
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  {noindex && <meta name="robots" content="noindex,follow" />}
+  {!noindex && <meta name="robots" content="index,follow,max-image-preview:large" />}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={ogImage} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="theme-color" content="#e10600" />
+  {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+  {SITE.adsenseClient && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`} crossorigin="anonymous"></script>}
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a href="/" class="logo" aria-label="Top ABC News home"><img src="/logo.svg" alt="ABC News" width="86" height="50" /></a>
+      <button class="menu-btn" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button>
+      <nav class="main-nav">
+        <a href="/">Home</a>
+        {CATEGORIES.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
+      </nav>
+      <a href="/search/" class="search-link" aria-label="Search">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </a>
+    </div>
+  </header>
+  <main><slot /></main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <img src="/logo.svg" alt="ABC News" width="86" height="50" />
+        <p>{SITE.tagline}. Daily updates on technology, finance, health, education, government schemes, sports, automobiles and entertainment.</p>
+      </div>
+      <div><h4>Categories</h4>{CATEGORIES.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}</div>
+      <div><h4>About</h4><a href="/about-us/">About Us</a><a href="/our-mission/">Our Mission</a><a href="/editorial-policy/">Editorial Policy</a><a href="/dnpa-code-of-ethics/">DNPA Code of Ethics</a><a href="/career/">Careers</a></div>
+      <div><h4>Support</h4><a href="/contact/">Contact Us</a><a href="/faqs/">FAQs</a><a href="/advertise-with-us/">Advertise With Us</a><a href="/privacy-policy/">Privacy Policy</a><a href="/terms-conditions/">Terms &amp; Conditions</a><a href="/legal-info/">Legal Info</a></div>
+    </div>
+    <div class="wrap copyright">© {year} {SITE.name}. All rights reserved.</div>
+  </footer>
+</body>
+</html>

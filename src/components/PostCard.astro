@@ -1,0 +1,17 @@
+---
+import { catByName, fmtDate } from '../lib/site';
+const { post, big = false } = Astro.props;
+const d = post.data;
+const cat = catByName(d.category);
+---
+<article class={big ? 'card card-big' : 'card'}>
+  <a href={`/${d.slug}/`} class="card-img">
+    {d.image ? <img src={d.image} alt={d.imageAlt ?? d.title} loading="lazy" width="640" height="360" /> : <div class="img-ph" style={`background:${cat.color}`}>{d.category}</div>}
+  </a>
+  <div class="card-body">
+    <a href={`/category/${cat.slug}/`} class="badge" style={`background:${cat.color}`}>{d.category}</a>
+    <h3><a href={`/${d.slug}/`}>{d.title}</a></h3>
+    {big && <p>{d.description}</p>}
+    <time datetime={d.date.toISOString()}>{fmtDate(d.date)}</time>
+  </div>
+</article>

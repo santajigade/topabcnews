@@ -1,0 +1,15 @@
+---
+import PostCard from './PostCard.astro';
+import Pager from './Pager.astro';
+import Ad from './Ad.astro';
+const { page, base, heading, intro } = Astro.props;
+---
+<section class="wrap listing">
+  <h1>{heading}</h1>
+  {intro && <p class="intro">{intro}</p>}
+  <div class="grid">
+    {page.data.map((p, i) => <PostCard post={p} big={i === 0 && page.currentPage === 1} />)}
+  </div>
+  <Ad />
+  <Pager page={page} base={base} />
+</section>

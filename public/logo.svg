@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 116" role="img" aria-label="ABC News">
+  <rect width="200" height="116" fill="#ffd60a"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <rect x="18" y="10" width="50" height="48" fill="#e10600"/><text x="43" y="49" font-size="42" fill="#fff">A</text>
+    <rect x="75" y="10" width="50" height="48" fill="#e10600"/><text x="100" y="49" font-size="42" fill="#fff">B</text>
+    <rect x="132" y="10" width="50" height="48" fill="#e10600"/><text x="157" y="49" font-size="42" fill="#fff">C</text>
+    <text x="100" y="104" font-size="46" fill="#111" letter-spacing="3">NEWS</text>
+  </g>
+</svg>
