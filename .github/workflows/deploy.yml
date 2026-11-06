@@ -9,6 +9,14 @@ concurrency:
   group: deploy
   cancel-in-progress: false
 
+env:
+  SSH_HOST: 92.249.46.120
+  SSH_PORT: 65002
+  SSH_USER: u557329885
+  REMOTE_DIR: domains/topabcnews.com/public_html/
+  # ED25519 host key fingerprint shown in Hostinger hPanel > SSH Access
+  HOST_FP: SHA256:NVYjqWkmDu8zJlqJ47rWJWGWev9j1Rqius7bBICJVWw
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -21,7 +29,33 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - name: Upload to Hostinger via FTP
+
+      - name: Choose deploy method
+        id: method
+        env:
+          HAS_KEY: ${{ secrets.SSH_KEY != '' }}
+        run: echo "ssh=$HAS_KEY" >> "$GITHUB_OUTPUT"
+
+      # Preferred: encrypted rsync over SSH
+      - name: Deploy via SSH (rsync)
+        if: steps.method.outputs.ssh == 'true'
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/id_ed25519 && chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p "$SSH_PORT" -t ed25519 "$SSH_HOST" > /tmp/hostkey 2>/dev/null
+          GOT=$(ssh-keygen -lf /tmp/hostkey | awk '{print $2}')
+          echo "Server host key: $GOT"
+          if [ "$GOT" != "$HOST_FP" ]; then echo "Host key fingerprint mismatch, aborting"; exit 1; fi
+          cat /tmp/hostkey >> ~/.ssh/known_hosts
+          rsync -rlz --checksum --omit-dir-times --no-perms --chmod=D755,F644 \
+            -e "ssh -p $SSH_PORT -i ~/.ssh/id_ed25519" \
+            dist/ "$SSH_USER@$SSH_HOST:$REMOTE_DIR"
+
+      # Fallback: plain FTP (used only while SSH_KEY secret is not set)
+      - name: Deploy via FTP
+        if: steps.method.outputs.ssh != 'true'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
