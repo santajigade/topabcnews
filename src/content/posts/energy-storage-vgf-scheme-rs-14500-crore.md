@@ -73,7 +73,7 @@ The scheme does not give money directly to households. Its benefit will reach pe
 
 For job seekers and students, growth in battery manufacturing and pumped hydro construction may open new opportunities in engineering, construction and clean energy. You can also read about other government support schemes such as the [PM Vidya Lakshmi education loan scheme](/pm-vidya-lakshmi-education-loan-scheme-2025/) on our site.
 
-## Conclusion
+## What the Scheme Means for India's Power Sector
 
 The Rs 14,500 crore Viability Gap Funding scheme for grid-scale energy storage is one of the biggest steps yet to make India's growing renewable power more dependable. With 92 GWh of planned storage, a 40% local content rule for batteries and a five year timeline, the scheme aims to make clean power available when it is needed most.
 

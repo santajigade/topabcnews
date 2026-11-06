@@ -83,7 +83,7 @@ Traders should note that brokerage views are short term. One brokerage suggested
 
 You can also read our earlier report on how [gold crossed Rs 1.28 lakh in India](/gold-price-today-hits-%E2%82%B91-28-lakh-in-india/) to see how much prices have moved over the past year.
 
-## Conclusion
+## Should You Buy Gold This Dhanteras?
 
 Gold became cheaper on Dhanteras 2026, with 24 carat gold at Rs 14,346 per gram and 22 carat at Rs 13,150 per gram. The dip follows a short rally and a weak global trend. Prices can change through the day, so check the latest rate with your jeweller before you buy.
 

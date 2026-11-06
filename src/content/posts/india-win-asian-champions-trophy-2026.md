@@ -70,6 +70,6 @@ Winning a continental title at home, without a single defeat, is a big confidenc
 
 Fans who enjoy big India wins can also read our report on [India's win over Pakistan in the Asia Cup 2025](/india-vs-pakistan-asia-cup-2025/).
 
-## Conclusion
+## A Record Sixth Title for India
 
 India's 4-1 win over Japan in Mohali capped a perfect Asian Champions Trophy 2026 campaign. Coming back from a goal down, the team scored four times to win a record sixth title and complete a hat-trick of trophies. It was a night for Indian hockey fans to remember.

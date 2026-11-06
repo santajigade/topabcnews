@@ -93,6 +93,6 @@ With about three weeks left before the exam, here are a few practical tips:
 
 If you are planning to fund your MBA with a loan, you may find our guide to the [PM Vidya Lakshmi education loan scheme](/pm-vidya-lakshmi-education-loan-scheme-2025/) useful.
 
-## Conclusion
+## Next Steps for CAT 2026 Candidates
 
 The CAT 2026 admit card is scheduled for release on November 6 at iimcat.ac.in, and the exam will be held on November 29 in three slots. Download your hall ticket as soon as the link is live, check every detail and keep a printed copy safe. Always confirm updates on the official CAT website before acting on any information.

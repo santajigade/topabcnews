@@ -111,7 +111,7 @@ author: "Editorial Staff"
 <p>However, others warn that job losses may occur before new opportunities emerge.</p>
 <p>Chinese labour economist Cai Fang recently noted that technological progress often destroys jobs before creating new ones.</p>
 <p>Because of this, experts recommend increased investment in education, workforce training, and social welfare programs to help workers adapt to rapid technological changes.</p>
-<h1>Final Takeaway</h1>
+<h2>What the AI Jobs Plan Means for China</h2>
 <p>China’s <strong>China AI Jobs Plan</strong> represents one of the most ambitious national strategies to integrate artificial intelligence into an economy.</p>
 <p>The government hopes AI will increase productivity, create new jobs, and help the country address economic challenges such as an ageing population and slower growth.</p>
 <p>However, economists remain divided about how artificial intelligence will affect employment in the long term.</p>

@@ -21,6 +21,9 @@ Static Astro news site. Every push to `main` builds and deploys to Hostinger by 
 4. **Write** an original article, 750 to 1100 words, in simple English for Indian readers.
    - Structure: short intro paragraph answering what/when/why, then 3 to 6 `##` sections, a "Key highlights" bullet list or a table where useful, and a short conclusion.
    - Do not copy sentences from sources. Rewrite fully in your own words. Quotes max 1 per source, under 15 words.
+   - Headings must be specific to the story (e.g. "What the RBI Decision Means for Home Loans"). Never use generic AI style headings like Conclusion, Final Takeaway, Final Thoughts, Summary, Key Takeaways, Wrapping Up, The Bottom Line, In Conclusion.
+   - Never start the body with an H1 (the title is already the H1). Use `##` and `###` only.
+   - Avoid AI cliches such as "in today's fast-paced world", "delve", "game-changer", "it is worth noting", "landscape", "navigate".
    - Never use em dash or en dash characters. Hyphens inside words are fine.
    - No clickbait, no invented quotes, no speculation presented as fact.
    - Health / Finance / Yojana: add one line at the end saying it is general information, not professional advice.
