@@ -1,6 +1,14 @@
 # Top ABC News static site (replaces WordPress)
 DirectoryIndex index.html
 Options -Indexes
+
+# Stop serving old WordPress pages from LiteSpeed server cache
+<IfModule LiteSpeed>
+  CacheLookup off
+</IfModule>
+<IfModule mod_headers.c>
+  Header set X-LiteSpeed-Cache-Control "no-cache"
+</IfModule>
 ErrorDocument 404 /404.html
 AddDefaultCharset UTF-8
 AddType application/rss+xml .xml
