@@ -17,7 +17,7 @@ Static Astro news site. Every push to `main` builds and deploys to Hostinger by 
 2. **Pick topics** that are trending in India today, spread across categories:
    Health, Technology, Finance, Education, Bollywood, Yojana, Sports, Automobile.
    Yojana = Indian government schemes. Education includes exams, results, recruitment.
-3. **Research** with web search. Use at least 2 reliable sources (official sites like pib.gov.in, rbi.org.in, company press releases, and major news outlets). Every number, date, price and name must come from a source you actually read in this run. If you cannot verify a fact, leave it out.
+3. **Research** with web search. Use at least 2 reliable sources (official sites like pib.gov.in, rbi.org.in, company press releases, and major news outlets). Every number, date, price and name must come from a source you actually read in this run. If you cannot verify a fact, leave it out. Do not rely on Substack, personal blogs, coaching sites or small unknown news blogs; prefer the original official notice or a major outlet.
 4. **Write** an original article, 750 to 1100 words, in simple English for Indian readers.
    - Structure: short intro paragraph answering what/when/why, then 3 to 6 `##` sections, a "Key highlights" bullet list or a table where useful, and a short conclusion.
    - Do not copy sentences from sources. Rewrite fully in your own words. Quotes max 1 per source, under 15 words.
