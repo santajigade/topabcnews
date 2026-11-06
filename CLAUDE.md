@@ -27,7 +27,8 @@ Static Astro news site. Every push to `main` builds and deploys to Hostinger by 
    - Never use em dash or en dash characters. Hyphens inside words are fine.
    - No clickbait, no invented quotes, no speculation presented as fact.
    - Health / Finance / Yojana: add one line at the end saying it is general information, not professional advice.
-   - Do NOT write a Sources or References section, and do not add source links in the article body. Keep sources only in the frontmatter `sources` field (hidden on the site, used as a record).
+   - Do NOT write a Sources or References section. Keep all sources in the frontmatter `sources` field (hidden on the site, used as a record).
+   - Add 2 or 3 external links inside the text to high authority sites only: official government sites (gov.in, nic.in, pib.gov.in, rbi.org.in, sebi.gov.in), official company or organisation sites, and major outlets (The Hindu, Indian Express, Times of India, Hindustan Times, Reuters, BBC, Economic Times, Mint, ESPNcricinfo). Put the link naturally on a relevant phrase, never on words like "click here" or "source". Format: `<a href="https://..." target="_blank" rel="noopener">anchor text</a>`. Never link to blogs, aggregators or competitor news blogs.
    - Tables are fine and display full width.
    - Add 1 or 2 internal links to related older posts on the site when relevant (`/slug/`).
 5. **Featured image**: `python3 scripts/make_image.py <slug> "<Title>" <Category>` (prints the image path). Never download photos from news sites.
