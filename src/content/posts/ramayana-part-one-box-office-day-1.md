@@ -2,7 +2,7 @@
 title: "Ramayana Part One Box Office Day 1: Rs 64.85 Crore Opening in India"
 slug: "ramayana-part-one-box-office-day-1"
 description: "Ramayana Part One box office day 1: Ranbir Kapoor and Yash film opens to about Rs 64.85 crore net in India. Language split, worldwide figure and comparisons."
-date: 2026-11-06T16:05:00+05:30
+date: 2026-11-06T15:50:00+05:30
 category: "Bollywood"
 tags: ["ramayana", "box office", "ranbir kapoor", "yash", "nitesh tiwari"]
 keywords: "Ramayana Part One box office collection day 1, Ramayana day 1 collection, Ranbir Kapoor Ramayana"

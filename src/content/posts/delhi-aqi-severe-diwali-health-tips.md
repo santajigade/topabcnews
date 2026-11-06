@@ -2,7 +2,7 @@
 title: "Delhi AQI Nears Severe Before Diwali: Health Tips to Protect Lungs"
 slug: "delhi-aqi-severe-diwali-health-tips"
 description: "Delhi AQI touched 391 on Friday with 30 stations in severe zone before Diwali. Forecast, causes, green cracker rules and health tips to stay safe."
-date: 2026-11-06T16:20:00+05:30
+date: 2026-11-06T15:53:00+05:30
 category: "Health"
 tags: ["delhi pollution", "aqi", "air quality", "diwali", "health tips"]
 keywords: "Delhi AQI today, Delhi air pollution health tips, Delhi AQI severe Diwali 2026"

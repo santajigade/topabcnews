@@ -2,7 +2,7 @@
 title: "TRAI Direct-to-Device Plan: Phones Could Soon Connect via Satellite"
 slug: "trai-satellite-direct-to-device-recommendations"
 description: "TRAI has recommended satellite direct-to-device services in India and a new 20-year satcom network authorisation with an 8% AGR fee. What it means for users."
-date: 2026-11-06T16:15:00+05:30
+date: 2026-11-06T15:52:00+05:30
 category: "Technology"
 tags: ["trai", "satellite internet", "direct to device", "telecom", "starlink"]
 keywords: "TRAI direct to device satellite, satellite connectivity smartphones India, TRAI satcom recommendations"

@@ -2,7 +2,7 @@
 title: "Mercedes GLC Electric Launched in India at Rs 78.5 Lakh, 711 km Range"
 slug: "mercedes-glc-electric-launched-india"
 description: "Mercedes-Benz GLC Electric launched in India at Rs 78.5 lakh ex-showroom with 94 kWh battery, 711 km WLTP range, 490 hp and a 39.1-inch Hyperscreen."
-date: 2026-11-06T16:10:00+05:30
+date: 2026-11-06T15:51:00+05:30
 category: "Automobile"
 tags: ["mercedes-benz", "glc electric", "electric suv", "ev launch"]
 keywords: "Mercedes GLC Electric price in India, Mercedes GLC 400 4Matic, electric SUV India"
