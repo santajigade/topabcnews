@@ -18,7 +18,7 @@ sources:
     url: "https://thebridge.in/hockey/asian-champions-trophy-final-india-japan-live-blog-updates-58282"
 ---
 
-The Indian men's hockey team are champions of Asia once again. On Thursday night, November 5, 2026, India came from a goal down to beat Japan 4-1 in the final of the Men's Asian Champions Trophy at the Olympian Balbir Singh International Hockey Stadium in Mohali. The win gave India a record sixth Asian Champions Trophy title and their third in a row, after the 2023 and 2024 editions. India also finished the tournament without losing a single match, in front of home fans.
+The <a href="https://hockeyindia.org/" target="_blank" rel="noopener">Indian men's hockey team</a> are champions of Asia once again. On Thursday night, November 5, 2026, India came from a goal down to beat Japan 4-1 in the final of the Men's <a href="https://www.espn.com/field-hockey/story/_/id/50386830/india-vs-japan-live-asian-champions-trophy-final-november-5-2026-scores-updates-commentary-news" target="_blank" rel="noopener">Asian Champions Trophy</a> at the Olympian Balbir Singh International Hockey Stadium in Mohali. The win gave India a record sixth Asian Champions Trophy title and their third in a row, after the 2023 and 2024 editions. India also finished the tournament without losing a single match, in front of home fans.
 
 ## How the final was won
 

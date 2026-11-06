@@ -20,7 +20,7 @@ sources:
     url: "https://www.careerindia.com/features/delhi-air-quality-2026-grap-ii-curbs-travel-safety-supreme-court-cracker-rules-011-68155.html"
 ---
 
-Delhi's air has turned dangerous just days before Diwali. On Friday morning, November 6, 2026, the city's overall Air Quality Index (AQI) stood at 391, right at the edge of the "severe" category, as per The Week. About 30 of Delhi's 59 monitoring stations were already in the severe zone at 9 am. Forecasts say the air could stay severe through the Diwali weekend, so doctors' usual advice on masks, outdoor activity and indoor air has become important for every family in Delhi NCR.
+Delhi's air has turned dangerous just days before Diwali. On Friday morning, November 6, 2026, the city's overall Air Quality Index (<a href="https://www.theweek.in/news/india/2026/11/06/delhi-air-quality-to-stay-severe-ahead-of-diwali-aqi-hits-389-at-several-stations-despite-grap-measures.html" target="_blank" rel="noopener">AQI</a>) stood at 391, right at the edge of the "severe" category, as per The Week. About 30 of Delhi's 59 monitoring stations were already in the severe zone at 9 am. Forecasts say the air could stay severe through the Diwali weekend, so doctors' usual advice on masks, outdoor activity and indoor air has become important for every family in Delhi NCR.
 
 ## How bad is the air in Delhi right now
 
@@ -34,7 +34,7 @@ Delhi has been in the "very poor" band (AQI 301 to 400) for several days in a ro
 | Thursday, Nov 5 (4 pm) | 369 | Very poor |
 | Friday, Nov 6 (9 am) | 391 | Very poor, near severe |
 
-Some areas were much worse. The Week said Rohini recorded an AQI of 475 and IIT Delhi 472 on Friday morning. On Wednesday, Business Today reported readings of 458 at IIT Delhi and 448 at both Jahangirpuri and Punjabi Bagh. Just a week earlier, on October 30, rain linked to Cyclone Montha had pushed the AQI down to 60, which is "satisfactory", showing how quickly conditions changed.
+Some areas were much worse. The Week said Rohini recorded an AQI of 475 and IIT Delhi 472 on Friday morning. On Wednesday, <a href="https://www.businesstoday.in/india/story/delhi-pollution-aqi-nears-400-ahead-of-diwali-stubble-burning-drives-worsening-air-quality-565800-2026-11-05" target="_blank" rel="noopener">Business Today</a> reported readings of 458 at IIT Delhi and 448 at both Jahangirpuri and Punjabi Bagh. Just a week earlier, on October 30, rain linked to Cyclone Montha had pushed the AQI down to 60, which is "satisfactory", showing how quickly conditions changed.
 
 Nearby cities were also affected. On Wednesday morning, Noida recorded 330 and Gurugram 322, both very poor, according to Business Today.
 
@@ -52,7 +52,7 @@ Several factors are coming together at the same time:
 
 The Air Quality Early Warning System expects Delhi's AQI to cross 400 and stay severe from Friday to Sunday, according to The Week. Outlook reported that severe levels are expected from November 6 to 8, and air quality may move between severe and very poor through the following week. Diwali falls on Sunday, November 8.
 
-GRAP Stage II curbs have been in force since November 2, as per CareerIndia. These include tighter dust control at building sites, mechanical road sweeping, water sprinkling and stricter checks on open burning and polluting vehicles. Stage III, which brings curbs on non essential construction and some goods vehicles, can be invoked if the AQI stays in the 401 to 450 range.
+<a href="https://caqm.nic.in/" target="_blank" rel="noopener">GRAP</a> Stage II curbs have been in force since November 2, as per CareerIndia. These include tighter dust control at building sites, mechanical road sweeping, water sprinkling and stricter checks on open burning and polluting vehicles. Stage III, which brings curbs on non essential construction and some goods vehicles, can be invoked if the AQI stays in the 401 to 450 range.
 
 ## Green cracker rules for Diwali
 

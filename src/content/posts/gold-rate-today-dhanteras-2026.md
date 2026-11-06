@@ -16,7 +16,7 @@ sources:
     url: "https://www.sangritoday.com/business/dhanteras-2026-gold-prices-ease-silver-trades-near-191-lakh-per-kg-check-latest-rates"
 ---
 
-Gold buyers got a pleasant surprise on Dhanteras this year. On Friday, November 6, 2026, gold prices in India fell sharply in morning trade, just as families headed out to jewellery shops for the festival. The price of 24 carat gold dropped to Rs 14,346 per gram, about 1.8% lower than the previous day, after a four day rally earlier in the week. The fall came from both the domestic market and global markets, where gold also traded lower.
+Gold buyers got a pleasant surprise on <a href="https://www.goodreturns.in/news/gold-rate-today-falls-by-rs-25-600-100g-on-dhanteras-2026-check-latest-24k-22k-18k-gold-prices-1545637.html" target="_blank" rel="noopener">Dhanteras</a> this year. On Friday, November 6, 2026, gold prices in India fell sharply in morning trade, just as families headed out to jewellery shops for the festival. The price of 24 carat gold dropped to Rs 14,346 per gram, about 1.8% lower than the previous day, after a four day rally earlier in the week. The fall came from both the domestic market and global markets, where gold also traded lower.
 
 Dhanteras is considered one of the most auspicious days of the year to buy gold, silver and utensils in India, so any change in price on this day is closely watched by households.
 
@@ -55,7 +55,7 @@ Delhi was slightly costlier than the other metros, while Chennai was the cheapes
 
 The drop came after a strong run in the first week of November. 24 carat gold had climbed from Rs 14,288 per gram on November 1 to Rs 14,602 per gram on November 5. Some of that gain was given up on Dhanteras morning. Reports did not point to one single cause, but described the move as a correction after a sudden jump in prices on Thursday.
 
-The futures market showed the same trend. On the Multi Commodity Exchange (MCX), gold for December delivery fell by up to Rs 1,900 to around Rs 1,42,150 per 10 grams. In the international market, Comex gold slipped 1.31% to about $4,059.90 per ounce.
+The futures market showed the same trend. On the Multi Commodity Exchange (MCX), gold for December delivery fell by up to Rs 1,900 to around Rs 1,42,150 per 10 grams. In the international market, <a href="https://www.cmegroup.com/markets/metals/precious/gold.html" target="_blank" rel="noopener">Comex</a> gold slipped 1.31% to about $4,059.90 per ounce.
 
 Even after this fall, gold is still about 3.3% higher for the month so far, so prices remain close to record levels.
 

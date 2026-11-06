@@ -18,7 +18,7 @@ sources:
     url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474"
 ---
 
-The Union Cabinet has approved a new Viability Gap Funding (VGF) scheme to build large energy storage systems for India's power grid. Cleared in the Cabinet meeting of November 4, 2026, the scheme offers Rs 14,500 crore in financial support to help set up 92 gigawatt hours (GWh) of storage capacity by 2030-31. The aim is simple: store extra solar and wind power when it is produced and supply it when people need it, so that clean energy can keep the lights on even after sunset.
+The <a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474" target="_blank" rel="noopener">Union Cabinet</a> has approved a new <a href="https://mnre.gov.in/" target="_blank" rel="noopener">Viability Gap Funding</a> (VGF) scheme to build large energy storage systems for India's power grid. Cleared in the Cabinet meeting of November 4, 2026, the scheme offers Rs 14,500 crore in financial support to help set up 92 gigawatt hours (GWh) of storage capacity by 2030-31. The aim is simple: store extra solar and wind power when it is produced and supply it when people need it, so that clean energy can keep the lights on even after sunset.
 
 The scheme is expected to attract total investment of about Rs 97,600 crore.
 

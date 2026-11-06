@@ -16,7 +16,7 @@ sources:
     url: "https://www.careerlauncher.com/blogs/cat-mba/cat-admit-card/"
 ---
 
-MBA aspirants across India are waiting for one link today. The Indian Institute of Management (IIM) Indore, which is conducting the Common Admission Test (CAT) 2026, rescheduled the admit card release from November 4 to Friday, November 6, 2026. Once live, candidates can download the hall ticket from the official website, iimcat.ac.in. The exam itself will be held on November 29, 2026, in three slots.
+MBA aspirants across India are waiting for one link today. The Indian Institute of Management (IIM) Indore, which is conducting the Common Admission Test (CAT) 2026, rescheduled the admit card release from November 4 to Friday, November 6, 2026. Once live, candidates can download the hall ticket from the official website, <a href="https://iimcat.ac.in/" target="_blank" rel="noopener">iimcat.ac.in</a>. The exam itself will be held on November 29, 2026, in three slots.
 
 The admit card is the most important document for exam day. Without a printed copy and a valid photo ID, no candidate will be allowed inside the test centre.
 
@@ -32,7 +32,7 @@ The admit card is the most important document for exam day. Without a printed co
 | Number of slots | 3 |
 | Result | Expected late December 2026 or early January 2027 (tentative) |
 
-Coaching websites tracking the release listed noon as a tentative time, but IIM Indore has not confirmed an exact hour. Candidates should keep checking the official website through the day.
+Coaching websites tracking the release listed noon as a tentative time, but <a href="https://www.iimidr.ac.in/" target="_blank" rel="noopener">IIM Indore</a> has not confirmed an exact hour. Candidates should keep checking the official website through the day.
 
 ## How to download the CAT 2026 admit card
 

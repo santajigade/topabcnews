@@ -18,7 +18,7 @@ sources:
     url: "https://inc42.com/"
 ---
 
-The Telecom Regulatory Authority of India (TRAI) has recommended that mobile phones in India should be allowed to connect directly to satellites. On Thursday, November 5, 2026, the regulator released a set of recommendations that back satellite direct-to-device, or D2D, services and propose a brand new licence category for companies that run satellite networks. If the government accepts the plan, it could one day help people get mobile signal in places where there is no tower, such as remote villages, hills, forests and the open sea.
+The <a href="https://www.trai.gov.in/" target="_blank" rel="noopener">Telecom Regulatory Authority of India</a> (TRAI) has recommended that mobile phones in India should be allowed to connect directly to satellites. On Thursday, November 5, 2026, the regulator released a set of recommendations that back satellite direct-to-device, or D2D, services and propose a brand new licence category for companies that run satellite networks. If the government accepts the plan, it could one day help people get mobile signal in places where there is no tower, such as remote villages, hills, forests and the open sea.
 
 ## What is direct-to-device satellite connectivity
 
@@ -33,7 +33,7 @@ According to Business Standard, TRAI has suggested that D2D be allowed on six IM
 
 ## A new licence for satellite network providers
 
-The second big part of the recommendations is a new authorisation under the Telecommunications Act, 2023. TelecomLead calls it the Satellite Communication Network (SCN) Provider Authorisation, while Business Standard describes the business model as Satellite Communication Network as a Service (SCNaaS).
+The second big part of the <a href="https://www.business-standard.com/amp/industry/news/trai-proposes-new-satcom-provider-category-issues-d2d-connectivity-norms-126110502012_1.html" target="_blank" rel="noopener">recommendations</a> is a new authorisation under the Telecommunications Act, 2023. TelecomLead calls it the Satellite Communication Network (SCN) Provider Authorisation, while Business Standard describes the business model as Satellite Communication Network as a Service (SCNaaS).
 
 Under this model, a company that owns or operates satellite capacity can offer it to telecom operators and satellite service providers. However, these network providers cannot sell telecom services directly to end users. Customers would still get the service through their telecom company or a licensed satellite service provider.
 
@@ -77,4 +77,4 @@ Inc42 also reported the move as a push for satellite connectivity on smartphones
 
 ## What Happens Next With TRAI's Proposal
 
-These are recommendations, not final rules. Business Standard notes that they are not binding on the government. The proposals now go to the Department of Telecommunications, which will decide whether to accept them fully, partly or with changes. Only after that can companies apply for licences and start testing satellite to phone services. If DoT moves quickly, India could join the growing list of countries where a regular smartphone can reach a satellite when there is no mobile tower nearby.
+These are recommendations, not final rules. Business Standard notes that they are not binding on the government. The proposals now go to the <a href="https://dot.gov.in/" target="_blank" rel="noopener">Department of Telecommunications</a>, which will decide whether to accept them fully, partly or with changes. Only after that can companies apply for licences and start testing satellite to phone services. If DoT moves quickly, India could join the growing list of countries where a regular smartphone can reach a satellite when there is no mobile tower nearby.

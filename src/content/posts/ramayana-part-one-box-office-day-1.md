@@ -20,7 +20,7 @@ sources:
     url: "https://www.sacnilk.com/latest-boxoffice-collection/hindi-movies-2026"
 ---
 
-Nitesh Tiwari's Ramayana: Part One, one of the most awaited Indian films in years, opened in theatres on Thursday, November 5, 2026. Early trade estimates show the film collected about Rs 64.85 crore net in India on its first day across five languages, according to figures from tracker Sacnilk reported by India TV and Outlook. The worldwide gross for the opening has been put at around Rs 127.50 crore. The number is big, but it falls a little short of the highest openings in recent years, and the trade is pointing at one clear reason: the film arrived in the slow days just before Diwali.
+Nitesh Tiwari's Ramayana: Part One, one of the most awaited Indian films in years, opened in theatres on Thursday, November 5, 2026. Early trade estimates show the film collected about Rs 64.85 crore net in India on its first day across five languages, according to figures from tracker Sacnilk reported by <a href="https://www.indiatvnews.com/entertainment/news/ramayana-part-1-day-1-box-office-collection-check-final-india-and-worldwide-opening-figures-2026-11-06-1058824" target="_blank" rel="noopener">India TV</a> and Outlook. The worldwide gross for the opening has been put at around Rs 127.50 crore. The number is big, but it falls a little short of the highest openings in recent years, and the trade is pointing at one clear reason: the film arrived in the slow days just before Diwali.
 
 ## Who is in Ramayana Part One
 
@@ -59,7 +59,7 @@ Outlook compared the opening with some of the biggest Indian releases. Ramayana 
 | Drishyam 2 | Rs 62 crore |
 | Pathaan | Rs 57 crore |
 
-The comparison with Adipurush will be discussed a lot, since both films are based on the same epic. Adipurush had a stronger first day, but that film fell sharply after a poor response. For Ramayana Part One, the trend over the coming days will decide much more than the opening number.
+The comparison with <a href="https://www.outlookindia.com/art-entertainment/ramayana-part-one-box-office-collection-day-1-ranbir-kapoors-film-fails-to-beat-adipurush-dhurandhar-2" target="_blank" rel="noopener">Adipurush</a> will be discussed a lot, since both films are based on the same epic. Adipurush had a stronger first day, but that film fell sharply after a poor response. For Ramayana Part One, the trend over the coming days will decide much more than the opening number.
 
 Pinkvilla also noted that a trade projection of around Rs 65 crore for day 1 had been made before release, and the actual figure came in just under it.
 

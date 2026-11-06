@@ -18,11 +18,11 @@ sources:
     url: "https://www.carlelo.com/news/5-new-cars-set-to-launch-in-india-in-november-2026"
 ---
 
-Mercedes-Benz India has launched the new GLC Electric, an all electric version of its popular GLC SUV, at an ex-showroom price of Rs 78.5 lakh. The launch took place this week, around November 4, 2026. The electric SUV comes in a single GLC 400 4Matic variant and promises a WLTP certified range of up to 711 km on a full charge. It is assembled locally at the company's Chakan plant near Pune, and it now becomes the most affordable way into the Mercedes electric SUV family in India.
+<a href="https://www.mercedes-benz.co.in/" target="_blank" rel="noopener">Mercedes-Benz India</a> has launched the new GLC Electric, an all electric version of its popular GLC SUV, at an ex-showroom price of Rs 78.5 lakh. The launch took place this week, around November 4, 2026. The electric SUV comes in a single GLC 400 4Matic variant and promises a WLTP certified range of up to 711 km on a full charge. It is assembled locally at the company's Chakan plant near Pune, and it now becomes the most affordable way into the Mercedes electric SUV family in India.
 
 ## Price and how it compares with the petrol and diesel GLC
 
-The biggest surprise is the pricing. According to Autocar India, the GLC Electric costs only about Rs 1.5 lakh more than the petrol GLC and around Rs 50,000 more than the diesel version. That narrow gap makes it a serious option for buyers who were already looking at a regular GLC. Before launch, Carlelo had expected a price between Rs 80 lakh and Rs 90 lakh, so the final price came in lower than many expected.
+The biggest surprise is the pricing. According to <a href="https://www.autocarindia.com/car-news/mercedes-glc-electric-launched-at-rs-785-lakh-441238" target="_blank" rel="noopener">Autocar India</a>, the GLC Electric costs only about Rs 1.5 lakh more than the petrol GLC and around Rs 50,000 more than the diesel version. That narrow gap makes it a serious option for buyers who were already looking at a regular GLC. Before launch, Carlelo had expected a price between Rs 80 lakh and Rs 90 lakh, so the final price came in lower than many expected.
 
 Local assembly is a key reason behind the pricing. Rushlane reports that the electric GLC is built on the same flexible production line at Chakan that makes the company's petrol and diesel models, and the first locally assembled unit has already rolled out.
 
