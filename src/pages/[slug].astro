@@ -16,9 +16,11 @@ export async function getStaticPaths() {
 const { entry, kind, posts } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
-let jsonld, related = [], cat;
+let jsonld, related = [], cat, next;
 if (kind === 'post') {
   cat = catByName(d.category);
+  const idx = posts.findIndex((p) => p.data.slug === d.slug);
+  next = posts[(idx + 1) % posts.length];
   related = posts.filter((p) => p.data.category === d.category && p.data.slug !== d.slug).slice(0, 4);
   const url = `${SITE.url}/${d.slug}/`;
   jsonld = {
@@ -39,7 +41,7 @@ if (kind === 'post') {
 }
 ---
 <Base title={d.title} description={d.description} image={kind === 'post' ? d.image : undefined} type={kind === 'post' ? 'article' : 'website'} jsonld={jsonld}>
-  <article class="wrap article">
+  <article class="wrap article" data-title={d.title} data-url={`/${d.slug}/`} data-next={next ? `/${next.data.slug}/` : undefined}>
     {kind === 'post' && (
       <>
         <nav class="crumbs"><a href="/">Home</a> › <a href={`/category/${cat.slug}/`}>{d.category}</a></nav>
@@ -58,5 +60,44 @@ if (kind === 'post') {
   {related.length > 0 && (
     <section class="wrap cat-section"><div class="sec-head"><h2 style={`border-color:${cat.color}`}>More {d.category} News</h2></div>
       <div class="grid">{related.map((p) => <PostCard post={p} />)}</div></section>
+  )}
+  {kind === 'post' && (
+    <>
+      <div id="next-sentinel" class="next-loading" aria-hidden="true"></div>
+      <script is:inline>
+      (() => {
+        const MAX = 6; let loaded = 1, busy = false;
+        const sentinel = document.getElementById('next-sentinel');
+        const seen = new Set([location.pathname]);
+        const lastArticle = () => [...document.querySelectorAll('article.article')].pop();
+        const io = new IntersectionObserver(async (es) => {
+          if (!es[0].isIntersecting || busy || loaded >= MAX) return;
+          const next = lastArticle().dataset.next;
+          if (!next || seen.has(next)) return io.disconnect();
+          busy = true; sentinel.textContent = 'Loading next story...';
+          try {
+            const html = await (await fetch(next)).text();
+            const art = new DOMParser().parseFromString(html, 'text/html').querySelector('article.article');
+            if (!art) return io.disconnect();
+            const sep = document.createElement('div'); sep.className = 'next-sep'; sep.textContent = 'Next story';
+            sentinel.before(sep, art); seen.add(next); loaded++;
+            art.querySelectorAll('ins.adsbygoogle').forEach(() => { try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {} });
+          } catch (e) { io.disconnect(); }
+          sentinel.textContent = ''; busy = false;
+        }, { rootMargin: '600px' });
+        io.observe(sentinel);
+        // keep URL and title in sync with the story being read
+        const urlIO = new IntersectionObserver((es) => es.forEach((e) => {
+          if (e.isIntersecting && location.pathname !== e.target.dataset.url) {
+            history.replaceState(null, '', e.target.dataset.url);
+            document.title = e.target.dataset.title + ' | Top ABC News';
+          }
+        }), { rootMargin: '-45% 0px -50% 0px' });
+        new MutationObserver(() => document.querySelectorAll('article.article').forEach((a) => urlIO.observe(a)))
+          .observe(document.querySelector('main'), { childList: true });
+        document.querySelectorAll('article.article').forEach((a) => urlIO.observe(a));
+      })();
+      </script>
+    </>
   )}
 </Base>
