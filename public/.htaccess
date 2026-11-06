@@ -39,6 +39,13 @@ RewriteRule ^(home-[0-9]+|sample-page|refund_returns|bookmarks|content-widgets|o
 RewriteRule ^(bollywood|technology|health|finance|education|yojana|sports|automobile)/?$ /category/$1/ [R=301,L]
 RewriteRule ^tag/.*$ / [R=301,L]
 
+# Service worker and push script must always be fresh
+<FilesMatch "^(sw|push)\.js$">
+  <IfModule mod_headers.c>
+    Header set Cache-Control "no-cache"
+  </IfModule>
+</FilesMatch>
+
 # Caching
 <IfModule mod_expires.c>
   ExpiresActive On

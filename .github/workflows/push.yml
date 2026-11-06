@@ -1,0 +1,72 @@
+name: Daily push notification
+
+on:
+  schedule:
+    - cron: '37 14 * * *'   # 8:07 PM IST, once a day
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'send = send today''s alert, init = only set up keys'
+        default: send
+        type: choice
+        options: [send, init]
+
+concurrency:
+  group: push
+  cancel-in-progress: false
+
+env:
+  SSH_HOST: 92.249.46.120
+  SSH_PORT: 65002
+  SSH_USER: u557329885
+  HOST_FP: SHA256:NVYjqWkmDu8zJlqJ47rWJWGWev9j1Rqius7bBICJVWw
+  DATA: domains/topabcnews.com/push-data
+  WEB: domains/topabcnews.com/public_html
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: SSH setup
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/id_ed25519 && chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p "$SSH_PORT" -t ed25519 "$SSH_HOST" > /tmp/hostkey 2>/dev/null
+          [ "$(ssh-keygen -lf /tmp/hostkey | awk '{print $2}')" = "$HOST_FP" ] || { echo "Host key mismatch"; exit 1; }
+          cat /tmp/hostkey >> ~/.ssh/known_hosts
+          printf 'Host srv\n  HostName %s\n  Port %s\n  User %s\n  IdentityFile ~/.ssh/id_ed25519\n' "$SSH_HOST" "$SSH_PORT" "$SSH_USER" > ~/.ssh/config
+
+      - name: Ensure push keys exist on server
+        run: |
+          umask 077
+          ssh srv "mkdir -p $DATA/subs && chmod 700 $DATA"
+          if ! ssh srv "test -f $DATA/vapid.json"; then
+            echo "Creating new VAPID keys on server"
+            node -e "process.stdout.write(JSON.stringify(require('web-push').generateVAPIDKeys()))" | ssh srv "umask 077; cat > $DATA/vapid.json"
+          fi
+          ssh srv "cat $DATA/vapid.json" > /tmp/vapid.json
+          node -e "process.stdout.write(require('/tmp/vapid.json').publicKey)" | ssh srv "cat > $WEB/push-key.txt"
+          echo "Public key published at https://topabcnews.com/push-key.txt"
+
+      - name: Send today's alert
+        if: github.event_name == 'schedule' || inputs.mode == 'send'
+        run: |
+          mkdir -p /tmp/push
+          ssh srv "cd $DATA && tar cf - subs \$(test -f last_sent.json && echo last_sent.json)" | tar xf - -C /tmp/push
+          node scripts/send_push.mjs /tmp/push/subs /tmp/vapid.json /tmp/push/last_sent.json /tmp/push/expired.txt
+          [ -f /tmp/push/last_sent.json ] && ssh srv "cat > $DATA/last_sent.json" < /tmp/push/last_sent.json
+          if [ -s /tmp/push/expired.txt ]; then ssh srv "cd $DATA/subs && xargs -r rm -f" < /tmp/push/expired.txt; fi
+
+      - name: Clean up
+        if: always()
+        run: rm -f /tmp/vapid.json ~/.ssh/id_ed25519

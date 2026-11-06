@@ -1,0 +1,4 @@
+# Allow only the push subscribe endpoint to run PHP
+<Files "subscribe.php">
+  Require all granted
+</Files>

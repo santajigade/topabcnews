@@ -19,6 +19,9 @@ const year = new Date().getFullYear();
   {noindex && <meta name="robots" content="noindex,follow" />}
   {!noindex && <meta name="robots" content="index,follow,max-image-preview:large" />}
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/icon-192.png" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <script src="/push.js" defer></script>
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
   <meta property="og:site_name" content={SITE.name} />
   <meta property="og:type" content={type} />
