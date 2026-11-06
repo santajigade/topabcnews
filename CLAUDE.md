@@ -23,7 +23,9 @@ Static Astro news site. Every push to `main` builds and deploys to Hostinger by 
    - Do not copy sentences from sources. Rewrite fully in your own words. Quotes max 1 per source, under 15 words.
    - Never use em dash or en dash characters. Hyphens inside words are fine.
    - No clickbait, no invented quotes, no speculation presented as fact.
-   - Health / Finance / Yojana: add one line at the end saying it is general information, not professional advice, and link the official source.
+   - Health / Finance / Yojana: add one line at the end saying it is general information, not professional advice.
+   - Do NOT write a Sources or References section, and do not add source links in the article body. Keep sources only in the frontmatter `sources` field (hidden on the site, used as a record).
+   - Tables are fine and display full width.
    - Add 1 or 2 internal links to related older posts on the site when relevant (`/slug/`).
 5. **Featured image**: `python3 scripts/make_image.py <slug> "<Title>" <Category>` (prints the image path). Never download photos from news sites.
 6. **Save** as `src/content/posts/<slug>.md` with this frontmatter:

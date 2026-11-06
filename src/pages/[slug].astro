@@ -53,9 +53,6 @@ if (kind === 'post') {
     )}
     {kind === 'post' && d.image && <img class="hero" src={d.image} alt={d.imageAlt ?? d.title} width="1200" height="675" fetchpriority="high" />}
     <div class="prose"><Content /></div>
-    {kind === 'post' && d.sources.length > 0 && (
-      <aside class="sources"><h2>Sources</h2><ul>{d.sources.map((s) => <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.name}</a></li>)}</ul></aside>
-    )}
     <Ad />
   </article>
   {related.length > 0 && (
