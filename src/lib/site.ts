@@ -6,7 +6,7 @@ export const SITE = {
   // Paste your AdSense publisher id (ca-pub-XXXX) to enable ads site wide
   adsenseClient: '',
   // Paste your GA4 Measurement ID (G-XXXXXXXXXX) to enable Google Analytics site wide
-  ga4Id: '',
+  ga4Id: 'G-BNW7V5L0GZ',
 };
 
 export const CATEGORIES = [
