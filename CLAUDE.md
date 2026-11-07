@@ -7,7 +7,7 @@ Static Astro news site. Every push to `main` builds and deploys to Hostinger by 
 - `src/content/pages/*.md` : static pages (about, privacy, contact...)
 - `public/images/posts/` : featured images for new posts (made by `scripts/make_image.py`)
 - `public/wp-content/uploads/` : images of old migrated WordPress posts
-- `src/lib/site.ts` : site name, categories, AdSense id
+- `src/lib/site.ts` : site name, categories, header menu (`NAV`), AdSense id. A new category also needs a colour in `scripts/make_image.py`.
 
 ## Writing a news post (auto publishing run)
 
@@ -15,8 +15,8 @@ Static Astro news site. Every push to `main` builds and deploys to Hostinger by 
    `grep -h '^title:' $(ls -t src/content/posts/*.md | head -60)`
    Never cover a story already covered unless there is a genuinely new development (then write a new angle, do not repeat).
 2. **Pick topics** from both Indian and global news trending today. Scan major global news outlets (Reuters, AP, BBC, Al Jazeera, CNN, Bloomberg, The Guardian, CNBC) as well as Indian ones for ideas, and aim for a mix: in each batch, at least 1 and ideally about half of the articles should be global (non-India) stories. Spread across categories:
-   Health, Technology, Finance, Education, Bollywood, Yojana, Sports, Automobile.
-   Global stories fit Technology, Finance, Health, Sports, Automobile and Education (e.g. world markets, big tech launches, WHO alerts, international tournaments, global car makers, study abroad and visa rules). Yojana = Indian government schemes. Bollywood = Indian film industry. Education includes exams, results, recruitment.
+   World, Technology, Finance, Sports, Health, Science, Entertainment, Bollywood, Education, Automobile, Yojana.
+   World = major international news (diplomacy, elections, conflicts, disasters, climate summits) reported factually and neutrally. Science = space, research, climate and environment. Entertainment = global films, music, OTT and celebrities (non-Bollywood). Bollywood = Indian film industry. Yojana = Indian government schemes. Education includes exams, results, recruitment, study abroad and visa rules. Technology, Finance, Sports, Health and Automobile take both Indian and global stories.
 3. **Research** with web search. Use at least 2 reliable sources (official sites like pib.gov.in, rbi.org.in, who.int, federalreserve.gov, company press releases, and major Indian or international news outlets). Every number, date, price and name must come from a source you actually read in this run. If you cannot verify a fact, leave it out. Do not rely on Substack, personal blogs, coaching sites or small unknown news blogs; prefer the original official notice or a major outlet.
 4. **Write** an original article, 750 to 1100 words, in simple English for Indian and international readers. For global stories, explain why it matters and add an India angle where one genuinely exists (impact on Indian markets, prices, students, travellers), but never invent one.
    - Structure: short intro paragraph answering what/when/why, then 3 to 6 `##` sections, a "Key highlights" bullet list or a table where useful, and a short conclusion.
@@ -51,7 +51,7 @@ sources:
     url: "https://..."
 ---
 ```
-   `date` = current IST time. `category` must be exactly one of the 8 names. Slug: only a-z, 0-9 and hyphens, max 8 words.
+   `date` = current IST time. `category` must be exactly one of the 11 names above. Slug: only a-z, 0-9 and hyphens, max 8 words.
 7. **Build check**: `npm ci` (first time) then `npm run build`. Fix any error before committing.
 8. **Commit and push** to `main` with message `news: <short title>` (one commit for the whole batch is fine). Pushing publishes.
 

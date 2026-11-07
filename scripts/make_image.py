@@ -9,7 +9,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONT_B = os.path.join(ROOT, 'scripts/fonts/DejaVuSans-Bold.ttf')
 FONT_R = os.path.join(ROOT, 'scripts/fonts/DejaVuSans.ttf')
 COLORS = {'Health': '#16a34a', 'Technology': '#7c3aed', 'Finance': '#0891b2', 'Education': '#ea580c',
-          'Bollywood': '#db2777', 'Yojana': '#2563eb', 'Sports': '#dc2626', 'Automobile': '#475569'}
+          'Bollywood': '#db2777', 'Yojana': '#2563eb', 'Sports': '#dc2626', 'Automobile': '#475569',
+          'World': '#0f766e', 'Science': '#4f46e5', 'Entertainment': '#c026d3'}
 
 def hex2rgb(h):
     h = h.lstrip('#'); return tuple(int(h[i:i+2], 16) for i in (0, 2, 4))

@@ -1,5 +1,5 @@
 ---
-import { SITE, CATEGORIES } from '../lib/site';
+import { SITE, CATEGORIES, NAV, catBySlug } from '../lib/site';
 import '../styles/global.css';
 interface Props { title: string; description: string; image?: string; type?: string; jsonld?: object; noindex?: boolean }
 const { title, description, image, type = 'website', jsonld, noindex } = Astro.props;
@@ -41,7 +41,14 @@ const year = new Date().getFullYear();
       <button class="menu-btn" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button>
       <nav class="main-nav">
         <a href="/">Home</a>
-        {CATEGORIES.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
+        {NAV.map((n) => n.children ? (
+          <div class="nav-group">
+            {n.slug ? <a href={`/category/${n.slug}/`} class="nav-top">{n.label} <span class="caret">▾</span></a> : <button type="button" class="nav-top">{n.label} <span class="caret">▾</span></button>}
+            <div class="nav-drop">
+              {n.children.map((s) => { const c = catBySlug(s)!; return <a href={`/category/${c.slug}/`}>{c.name}</a>; })}
+            </div>
+          </div>
+        ) : <a href={`/category/${n.slug}/`}>{n.label}</a>)}
       </nav>
       <a href="/search/" class="search-link" aria-label="Search">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -53,7 +60,7 @@ const year = new Date().getFullYear();
     <div class="wrap footer-grid">
       <div>
         <img src="/logo.svg" alt="ABC News" width="86" height="50" />
-        <p>{SITE.tagline}. Daily updates on technology, finance, health, education, government schemes, sports, automobiles and entertainment.</p>
+        <p>{SITE.tagline}. Daily updates on world news, technology, finance, sports, health, science, entertainment, education, automobiles and Indian government schemes.</p>
       </div>
       <div><h4>Categories</h4>{CATEGORIES.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}</div>
       <div><h4>About</h4><a href="/about-us/">About Us</a><a href="/our-mission/">Our Mission</a><a href="/editorial-policy/">Editorial Policy</a><a href="/dnpa-code-of-ethics/">DNPA Code of Ethics</a><a href="/career/">Careers</a></div>

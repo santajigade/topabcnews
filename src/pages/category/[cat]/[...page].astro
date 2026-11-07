@@ -10,6 +10,6 @@ export async function getStaticPaths({ paginate }) {
 }
 const { page, c } = Astro.props;
 ---
-<Base title={`${c.name} News`} description={`Latest ${c.name} news and updates from Top ABC News.`} noindex={page.currentPage > 1}>
+<Base title={`${c.name} News`} description={`Latest ${c.name} news and updates from Top ABC News.`} noindex={page.currentPage > 1 || !page.data.length}>
   <Listing page={page} base={`/category/${c.slug}/`} heading={`${c.name} News`} intro={page.data.length ? undefined : 'New stories coming soon.'} />
 </Base>
