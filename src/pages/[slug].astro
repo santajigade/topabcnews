@@ -40,7 +40,10 @@ if (kind === 'post') {
   };
 }
 ---
-<Base title={d.title} description={d.description} image={kind === 'post' ? d.image : undefined} type={kind === 'post' ? 'article' : 'website'} jsonld={jsonld}>
+<Base title={d.title} description={d.description} image={kind === 'post' ? d.image : undefined} type={kind === 'post' ? 'article' : 'website'} jsonld={jsonld}
+  imageAlt={kind === 'post' ? (d.imageAlt ?? d.title) : undefined}
+  publishedTime={kind === 'post' ? d.date : undefined} modifiedTime={kind === 'post' ? (d.updated ?? d.date) : undefined}
+  section={kind === 'post' ? d.category : undefined} tags={kind === 'post' ? (d.tags ?? []) : []} keywords={kind === 'post' ? d.keywords : undefined}>
   <article class="wrap article" data-title={d.title} data-url={`/${d.slug}/`} data-next={next ? `/${next.data.slug}/` : undefined}>
     {kind === 'post' && (
       <>
@@ -91,6 +94,8 @@ if (kind === 'post') {
           if (e.isIntersecting && location.pathname !== e.target.dataset.url) {
             history.replaceState(null, '', e.target.dataset.url);
             document.title = e.target.dataset.title + ' | Top ABC News';
+            // count each infinite scroll story as its own page view in GA4
+            if (window.gtag) gtag('event', 'page_view', { page_location: location.href, page_path: e.target.dataset.url, page_title: document.title });
           }
         }), { rootMargin: '-45% 0px -50% 0px' });
         new MutationObserver(() => document.querySelectorAll('article.article').forEach((a) => urlIO.observe(a)))

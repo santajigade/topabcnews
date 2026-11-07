@@ -5,6 +5,8 @@ export const SITE = {
   email: 'contact@topabcnews.com',
   // Paste your AdSense publisher id (ca-pub-XXXX) to enable ads site wide
   adsenseClient: '',
+  // Paste your GA4 Measurement ID (G-XXXXXXXXXX) to enable Google Analytics site wide
+  ga4Id: '',
 };
 
 export const CATEGORIES = [
