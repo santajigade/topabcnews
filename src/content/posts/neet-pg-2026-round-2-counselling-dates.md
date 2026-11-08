@@ -2,7 +2,7 @@
 title: "NEET PG 2026 Round 2 Counselling: Registration Open Till Nov 14"
 slug: "neet-pg-2026-round-2-counselling-dates"
 description: "MCC has opened NEET PG 2026 round 2 counselling registration at mcc.nic.in till November 14. Choice filling starts November 10 and the result is on November 17."
-date: 2026-11-08T07:35:00+05:30
+date: 2026-11-08T06:48:00+05:30
 category: "Education"
 tags: ["neet pg 2026", "mcc counselling", "neet pg round 2", "md ms admission", "medical education"]
 keywords: "NEET PG 2026 round 2 counselling, MCC round 2 registration, NEET PG choice filling, NEET PG round 2 result date"

@@ -2,7 +2,7 @@
 title: "Herzog Taps Eisenkot to Form Israel Government, Sidelining Netanyahu"
 slug: "herzog-taps-eisenkot-form-israel-government"
 description: "Israel's President Herzog picked Gadi Eisenkot to form the next government after 67 MKs backed him against 46 for Netanyahu. Here is what happens next."
-date: 2026-11-08T07:15:00+05:30
+date: 2026-11-08T06:40:00+05:30
 category: "World"
 tags: ["israel", "gadi eisenkot", "benjamin netanyahu", "isaac herzog", "knesset", "israel election 2026"]
 keywords: "Eisenkot form government, Herzog mandate Eisenkot, Israel coalition talks, Netanyahu Eisenkot, Israel election 2026"

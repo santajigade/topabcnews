@@ -2,7 +2,7 @@
 title: "NASA Swift Observatory Reenters Over Indonesia After 22 Years in Orbit"
 slug: "nasa-swift-observatory-reenters-over-indonesia"
 description: "NASA's Swift observatory fell to Earth over North Sumatra on November 4 after 22 years studying gamma-ray bursts. Why it came down and what it achieved."
-date: 2026-11-08T07:45:00+05:30
+date: 2026-11-08T06:52:00+05:30
 category: "Science"
 tags: ["nasa", "swift observatory", "gamma-ray bursts", "satellite reentry", "hubble", "space"]
 keywords: "NASA Swift reentry, Swift observatory Indonesia, Swift gamma-ray burst telescope, satellite reentry November 2026"

@@ -2,7 +2,7 @@
 title: "Mohammed Shami Retires From Test Cricket After 229 Wickets in 64 Tests"
 slug: "mohammed-shami-retires-test-cricket"
 description: "Mohammed Shami has retired from Test cricket on the 13th anniversary of his debut, ending with 229 wickets in 64 Tests. He will keep playing white-ball cricket."
-date: 2026-11-08T07:25:00+05:30
+date: 2026-11-08T06:44:00+05:30
 category: "Sports"
 tags: ["mohammed shami", "test cricket", "indian cricket team", "retirement", "fast bowling"]
 keywords: "Mohammed Shami retires, Shami Test retirement, Shami Test wickets, Shami white-ball future"
