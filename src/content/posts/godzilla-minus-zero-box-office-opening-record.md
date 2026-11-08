@@ -2,7 +2,7 @@
 title: "Godzilla Minus Zero Box Office: Record US Opening for Toho Sequel"
 slug: "godzilla-minus-zero-box-office-opening-record"
 description: "Godzilla Minus Zero is heading for about $30 million plus in its North American opening, a record for a foreign language film. Ramayana is also in the top five."
-date: 2026-11-08T16:30:00+05:30
+date: 2026-11-08T15:45:00+05:30
 category: "Entertainment"
 tags: ["godzilla minus zero", "box office", "takashi yamazaki", "toho", "hollywood"]
 keywords: "godzilla minus zero box office, godzilla minus zero opening weekend, cat in the hat box office, ramayana us box office"

@@ -2,7 +2,7 @@
 title: "New Zealand Election 2026: National, Labour Tied as Special Votes Decide"
 slug: "new-zealand-election-2026-preliminary-results"
 description: "New Zealand's 2026 election ended almost level between National and Labour. Seats, coalition maths, special votes and the November 27 official result explained."
-date: 2026-11-08T16:10:00+05:30
+date: 2026-11-08T15:35:00+05:30
 category: "World"
 tags: ["new zealand election", "christopher luxon", "chris hipkins", "mmp", "world politics"]
 keywords: "new zealand election 2026, new zealand election results, luxon hipkins, nz preliminary results"

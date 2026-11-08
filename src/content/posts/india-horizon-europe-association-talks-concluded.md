@@ -2,7 +2,7 @@
 title: "Horizon Europe: India to Join EU's 93.5 Billion Euro Research Plan"
 slug: "india-horizon-europe-association-talks-concluded"
 description: "India and the EU have concluded talks for India to join Horizon Europe. Indian researchers could get direct EU grants and lead projects from January 2027."
-date: 2026-11-08T16:20:00+05:30
+date: 2026-11-08T15:40:00+05:30
 category: "Science"
 tags: ["horizon europe", "india eu", "research funding", "science cooperation", "european commission"]
 keywords: "horizon europe india, india eu research agreement, horizon europe association, eu research funding india"
