@@ -2,7 +2,7 @@
 title: "Muhurat Trading 2026: Sensex, Nifty Slip in Samvat 2083 Opener"
 slug: "muhurat-trading-2026-sensex-nifty-close-lower"
 description: "Sensex fell 29 points to 80,999 and Nifty slipped below 25,000 in the Muhurat trading session on November 8, 2026, even as small and midcap stocks gained."
-date: 2026-11-08T19:15:00+05:30
+date: 2026-11-08T18:50:00+05:30
 category: "Finance"
 tags: ["muhurat trading", "sensex", "nifty", "samvat 2083", "stock market", "diwali 2026"]
 keywords: "muhurat trading 2026 sensex nifty, samvat 2083 first session, muhurat trading result"

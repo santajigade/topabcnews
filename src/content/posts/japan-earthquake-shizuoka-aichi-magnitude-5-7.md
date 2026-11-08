@@ -2,7 +2,7 @@
 title: "Japan Earthquake: Magnitude 5.7 Quake Hits Shizuoka, Over 20 Injured"
 slug: "japan-earthquake-shizuoka-aichi-magnitude-5-7"
 description: "A magnitude 5.7 earthquake struck western Shizuoka in central Japan early on November 8, 2026, injuring more than 20 people. No tsunami warning was issued."
-date: 2026-11-08T18:55:00+05:30
+date: 2026-11-08T18:40:00+05:30
 category: "World"
 tags: ["japan earthquake", "shizuoka", "aichi", "japan meteorological agency", "nankai trough"]
 keywords: "japan earthquake today, shizuoka earthquake, aichi earthquake injured, magnitude 5.7 earthquake japan"

@@ -2,7 +2,7 @@
 title: "Youth Olympics 2026: Taniya Wins Silver, India's Medal Tally Hits 7"
 slug: "youth-olympics-2026-india-medal-tally-taniya-silver"
 description: "Taniya won India's first Youth Olympics beach wrestling medal with silver at Dakar 2026, taking India's tally to seven. See all Indian medal winners here."
-date: 2026-11-08T19:05:00+05:30
+date: 2026-11-08T18:45:00+05:30
 category: "Sports"
 tags: ["youth olympics 2026", "dakar 2026", "taniya", "beach wrestling", "india medal tally", "tanvi patri"]
 keywords: "youth olympics 2026 india medal tally, taniya beach wrestling silver, dakar 2026 india medals"
