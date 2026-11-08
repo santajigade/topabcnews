@@ -16,12 +16,13 @@ export async function getStaticPaths() {
 const { entry, kind, posts } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
-let jsonld, related = [], cat, next;
+let jsonld, related = [], latestOther = [], cat, next;
 if (kind === 'post') {
   cat = catByName(d.category);
   const idx = posts.findIndex((p) => p.data.slug === d.slug);
   next = posts[(idx + 1) % posts.length];
   related = posts.filter((p) => p.data.category === d.category && p.data.slug !== d.slug).slice(0, 4);
+  latestOther = posts.filter((p) => p.data.category !== d.category).slice(0, 6);
   const url = `${SITE.url}/${d.slug}/`;
   jsonld = {
     '@context': 'https://schema.org',
@@ -58,6 +59,11 @@ if (kind === 'post') {
     )}
     {kind === 'post' && d.image && <img class="hero" src={d.image} alt={d.imageAlt ?? d.title} width="1200" height="675" fetchpriority="high" />}
     <div class="prose"><Content /></div>
+    {latestOther.length > 0 && (
+      <aside class="prose latest-links"><h2>Latest News</h2><ul>
+        {latestOther.map((p) => <li><a href={`/${p.data.slug}/`}>{p.data.title}</a></li>)}
+      </ul></aside>
+    )}
     <Ad />
   </article>
   {related.length > 0 && (

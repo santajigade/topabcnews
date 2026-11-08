@@ -38,6 +38,18 @@ RewriteRule ^(wp-admin|wp-login\.php|wp-json|xmlrpc\.php)(/.*)?$ / [R=301,L]
 RewriteRule ^(home-[0-9]+|sample-page|refund_returns|bookmarks|content-widgets|our-team|categories-list|login|login-custom|newsletter|landing|reviews|blog|out-authors|authors-list|resources|maintenance|coming-soon|footer-styles|advanced-search|catalogue|faq)/?$ / [R=301,L]
 RewriteRule ^(bollywood|technology|health|finance|education|yojana|sports|automobile)/?$ /category/$1/ [R=301,L]
 RewriteRule ^tag/.*$ / [R=301,L]
+# Old WordPress article URLs with a category prefix, e.g. /education/slug/ -> /slug/
+RewriteRule ^(world|technology|finance|sports|health|science|entertainment|bollywood|education|automobile|yojana|news|uncategorized)/([a-z0-9-]+)/?$ /$2/ [R=301,L]
+# Old WordPress date based URLs, e.g. /2025/09/06/slug/ -> /slug/
+RewriteRule ^[0-9]{4}/[0-9]{2}/(?:[0-9]{2}/)?([a-z0-9-]+)/?$ /$1/ [R=301,L]
+# Old WordPress category pagination and author pages
+RewriteRule ^category/([^/]+)/page/1/?$ /category/$1/ [R=301,L]
+RewriteRule ^author/(?!editorialstaff/)[^/]+/?.*$ /author/editorialstaff/ [R=301,L]
+RewriteRule ^page/1/?$ / [R=301,L]
+# Add missing trailing slash on clean URLs (avoids duplicate URL versions)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{2,5}$
+RewriteRule ^(.*[^/])$ /$1/ [R=301,L]
 
 # Service worker and push script must always be fresh
 <FilesMatch "^(sw|push)\.js$">
