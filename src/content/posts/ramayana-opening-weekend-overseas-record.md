@@ -2,7 +2,7 @@
 title: "Ramayana Opening Weekend: Rs 375 Crore Worldwide, Overseas Record Set"
 slug: "ramayana-opening-weekend-overseas-record"
 description: "Ramayana Part One crossed Rs 375 crore worldwide in three days and set the biggest single overseas day for an Indian film, beating Baahubali 2's Saturday."
-date: 2026-11-09T07:40:00+05:30
+date: 2026-11-09T06:50:00+05:30
 category: "Bollywood"
 tags: ["ramayana", "box office", "ranbir kapoor", "yash", "overseas box office"]
 keywords: "ramayana opening weekend collection, ramayana worldwide box office, ramayana overseas record"

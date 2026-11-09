@@ -2,7 +2,7 @@
 title: "Norris Wins Wet Sao Paulo GP as Mercedes Seal 2026 Constructors' Title"
 slug: "norris-wins-sao-paulo-gp-mercedes-title"
 description: "Lando Norris won a rain-hit Sao Paulo Grand Prix from pole, Verstappen climbed from 21st to second and Mercedes clinched their ninth constructors' crown."
-date: 2026-11-09T07:10:00+05:30
+date: 2026-11-09T06:30:00+05:30
 category: "Sports"
 tags: ["formula 1", "sao paulo grand prix", "lando norris", "mercedes", "max verstappen"]
 keywords: "sao paulo grand prix 2026 result, norris wins brazil, mercedes constructors championship 2026"

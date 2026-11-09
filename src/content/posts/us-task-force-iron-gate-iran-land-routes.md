@@ -2,7 +2,7 @@
 title: "Task Force Iron Gate: US Moves to Block Iran's Land and Caspian Routes"
 slug: "us-task-force-iron-gate-iran-land-routes"
 description: "US Central Command has set up Task Force Iron Gate to cut Iran's land and Caspian supply routes, widening its naval blockade as Tehran warns of retaliation."
-date: 2026-11-09T07:25:00+05:30
+date: 2026-11-09T06:40:00+05:30
 category: "World"
 tags: ["iran", "united states", "centcom", "strait of hormuz", "crude oil"]
 keywords: "task force iron gate, us iran blockade, centcom iran land routes, strait of hormuz oil"
