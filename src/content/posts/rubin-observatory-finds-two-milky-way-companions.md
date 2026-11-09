@@ -2,7 +2,7 @@
 title: "Rubin Observatory Finds Two Hidden Milky Way Companions in Early Data"
 slug: "rubin-observatory-finds-two-milky-way-companions"
 description: "Early Rubin Observatory data revealed Aquarius IV, a tiny dwarf galaxy, and Rubin-GC1, a dust-hidden star cluster. Here is why astronomers expect many more."
-date: 2026-11-09T16:35:00+05:30
+date: 2026-11-09T15:50:00+05:30
 category: "Science"
 tags: ["Vera Rubin Observatory", "Milky Way", "dwarf galaxy", "dark matter", "astronomy"]
 keywords: "Rubin Observatory discovery, Aquarius IV galaxy, Rubin-GC1 star cluster, Milky Way satellites, LSST"

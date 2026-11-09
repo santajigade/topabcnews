@@ -2,7 +2,7 @@
 title: "Sensex Ends 107 Points Higher, Nifty at 25,045 as PSU Banks Rally"
 slug: "sensex-nifty-close-november-9-psu-banks"
 description: "Sensex rose 107 points to 81,106.65 and Nifty closed at 25,044.65 on November 9, 2026, as PSU bank and pharma stocks gained while IT shares dragged."
-date: 2026-11-09T16:20:00+05:30
+date: 2026-11-09T15:40:00+05:30
 category: "Finance"
 tags: ["sensex", "nifty", "stock market", "psu bank stocks", "share market today"]
 keywords: "Sensex today, Nifty close November 9 2026, PSU bank index, stock market today India, IT stocks fall"

@@ -2,7 +2,7 @@
 title: "COP31 Opens in Antalya With Early Fight Over Climate Finance Agenda"
 slug: "cop31-opens-antalya-climate-finance-dispute"
 description: "COP31 began in Antalya on November 9 after a 90 minute delay caused by late-night talks over climate finance. Here is what happened on day one and what is next."
-date: 2026-11-09T16:05:00+05:30
+date: 2026-11-09T15:30:00+05:30
 category: "World"
 tags: ["COP31", "climate finance", "Antalya", "UN climate summit", "Antonio Guterres"]
 keywords: "COP31 opening day, COP31 climate finance, COP31 Antalya agenda, Guterres COP31, Murat Kurum Chris Bowen"
