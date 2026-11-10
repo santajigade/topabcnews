@@ -2,7 +2,7 @@
 title: "VISTAR Scheme: Rs 4,371 Crore Plan to Modernise India's Statistics"
 slug: "vistar-scheme-rs-4371-crore-statistics"
 description: "Cabinet has approved the Rs 4,371.10 crore VISTAR scheme for 2026-31, funding 59 surveys, AI-ready data, state support and the 8th Economic Census."
-date: 2026-11-10T08:00:00+05:30
+date: 2026-11-10T06:50:00+05:30
 category: "Yojana"
 tags: ["vistar scheme", "mospi", "economic census", "union cabinet", "official statistics", "viksit bharat"]
 keywords: "VISTAR scheme, VISTAR scheme MoSPI, 8th Economic Census, Viksit Bharat statistics scheme, cabinet approves VISTAR"

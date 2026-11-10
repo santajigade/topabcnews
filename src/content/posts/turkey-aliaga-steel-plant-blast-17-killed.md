@@ -2,7 +2,7 @@
 title: "Turkey Steel Plant Blast: 17 Killed at HABAS Factory in Aliaga"
 slug: "turkey-aliaga-steel-plant-blast-17-killed"
 description: "An explosion at the HABAS steel plant in Aliaga near Izmir killed 17 workers on November 9. Turkey has opened probes into possible negligence."
-date: 2026-11-10T07:30:00+05:30
+date: 2026-11-10T06:20:00+05:30
 category: "World"
 tags: ["turkey", "aliaga", "izmir", "steel plant explosion", "habas", "workplace safety"]
 keywords: "Turkey steel plant blast, Aliaga explosion, HABAS steel factory, Izmir explosion, Turkey workplace accident"

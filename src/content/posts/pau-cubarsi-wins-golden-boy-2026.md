@@ -2,7 +2,7 @@
 title: "Pau Cubarsi Wins Golden Boy 2026, Fifth Barcelona Player to Do It"
 slug: "pau-cubarsi-wins-golden-boy-2026"
 description: "Barcelona defender Pau Cubarsi, 19, has won the 2026 Golden Boy award for Europe's best under-21 player, joining Messi, Pedri, Gavi and Lamine Yamal."
-date: 2026-11-10T07:50:00+05:30
+date: 2026-11-10T06:40:00+05:30
 category: "Sports"
 tags: ["pau cubarsi", "golden boy 2026", "barcelona", "tuttosport", "football", "spain"]
 keywords: "Pau Cubarsi Golden Boy, Golden Boy 2026 winner, Barcelona Golden Boy, Tuttosport award, Cubarsi Barcelona"

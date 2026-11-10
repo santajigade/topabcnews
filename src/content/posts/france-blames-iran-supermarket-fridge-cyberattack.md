@@ -2,7 +2,7 @@
 title: "France Blames Iran's IRGC for Supermarket Fridge Cyberattack"
 slug: "france-blames-iran-supermarket-fridge-cyberattack"
 description: "France says an IRGC-linked unit hacked fridges in about 700 supermarkets in October, pushing temperatures to 50C. Paris seeks EU sanctions and arrest warrants."
-date: 2026-11-10T07:40:00+05:30
+date: 2026-11-10T06:30:00+05:30
 category: "Technology"
 tags: ["cyberattack", "france", "iran", "irgc", "shahid kaveh", "anssi", "cybersecurity"]
 keywords: "France Iran cyberattack, supermarket fridge hack, Shahid Kaveh, IRGC cyber unit, Barrot sanctions Iran"
