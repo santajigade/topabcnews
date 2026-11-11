@@ -2,7 +2,7 @@
 title: "NZ vs India Tests: Latham to Lead, Ravindra and Conway Named in Squad"
 slug: "new-zealand-test-squad-india-ravindra-conway-return"
 description: "New Zealand named a 14-player squad led by Tom Latham for the two Tests against India from Nov 19. Rachin Ravindra and Devon Conway return despite injuries."
-date: 2026-11-11T19:30:00+05:30
+date: 2026-11-11T18:56:00+05:30
 category: "Sports"
 tags: ["India vs New Zealand", "Test cricket", "Rachin Ravindra", "Devon Conway", "Tom Latham", "Shubman Gill"]
 keywords: "New Zealand Test squad vs India, NZ vs IND Test series 2026, Rachin Ravindra Devon Conway return, Basin Reserve Test"

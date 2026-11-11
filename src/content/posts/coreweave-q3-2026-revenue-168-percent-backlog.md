@@ -2,7 +2,7 @@
 title: "CoreWeave Q3 Results: Revenue Jumps 168% to $3.66B, Backlog $132.5B"
 slug: "coreweave-q3-2026-revenue-168-percent-backlog"
 description: "CoreWeave posted Q3 2026 revenue of $3.66 billion, up 168%, raised its full-year outlook and reported a $132.5 billion backlog, though losses widened."
-date: 2026-11-11T19:20:00+05:30
+date: 2026-11-11T18:54:00+05:30
 category: "Technology"
 tags: ["CoreWeave", "AI cloud", "earnings", "data centres", "Nvidia"]
 keywords: "CoreWeave Q3 2026 results, CoreWeave revenue backlog, AI cloud earnings, CoreWeave guidance"

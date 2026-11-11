@@ -2,7 +2,7 @@
 title: "Baltic Drone Alerts: Lithuania, Latvia Tell Residents to Take Shelter"
 slug: "baltic-states-drone-alerts-nato-jets-scrambled"
 description: "Lithuania, Latvia and Estonia issued overnight shelter alerts on Nov 11 as drones entered from Russia or Belarus. NATO jets were scrambled. No one was hurt."
-date: 2026-11-11T19:25:00+05:30
+date: 2026-11-11T18:55:00+05:30
 category: "World"
 tags: ["Baltic states", "NATO", "Lithuania", "Latvia", "Estonia", "drones", "Russia Ukraine war"]
 keywords: "Baltic drone alerts, Lithuania Latvia drone shelter warning, NATO jets scrambled Baltic, Ukraine Russia drone strikes Baltic Sea"
