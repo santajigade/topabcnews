@@ -1,8 +1,8 @@
 ---
 title: "Cancer Drug Prices Cut: NPPA Lowers MRP of 1,364 Formulations"
 slug: "anti-cancer-drug-prices-cut-nppa-1364-formulations"
-description: "Revised MRPs for 1,364 anti-cancer formulations took effect on November 9 after NPPA capped trade margins at 30%. Cuts go up to 96%, saving Rs 3,540 crore yearly."
-date: 2026-11-11T16:10:00+05:30
+description: "Revised MRPs for 1,364 anti-cancer formulations took effect on November 9 after NPPA capped trade margins at 30%. Cuts reach 96%, saving Rs 3,540 crore yearly."
+date: 2026-11-11T15:40:00+05:30
 category: "Health"
 tags: ["cancer drugs", "NPPA", "medicine prices", "trade margin", "Pharma Sahi Daam", "healthcare costs"]
 keywords: "anti-cancer drug price cut, NPPA trade margin cap, revised MRP cancer medicines, cancer drug prices India November 2026"

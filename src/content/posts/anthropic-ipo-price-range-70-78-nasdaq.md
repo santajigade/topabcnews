@@ -2,7 +2,7 @@
 title: "Anthropic IPO: Price Range Set at $70 to $78, Valuation Up to $1.4T"
 slug: "anthropic-ipo-price-range-70-78-nasdaq"
 description: "Claude maker Anthropic plans to sell 825 million shares at $70 to $78 on Nasdaq under ticker ANT, raising up to $64.35 billion. Trading may begin around Nov 19."
-date: 2026-11-11T16:30:00+05:30
+date: 2026-11-11T15:50:00+05:30
 category: "Finance"
 tags: ["Anthropic", "IPO", "Nasdaq", "artificial intelligence", "Claude", "tech stocks"]
 keywords: "Anthropic IPO price range, Anthropic valuation, ANT Nasdaq listing, Anthropic IPO date, AI IPO 2026"

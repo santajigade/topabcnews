@@ -2,7 +2,7 @@
 title: "Abu Dhabi Talks Day 2: Prisoner Swap Reported, No Peace Breakthrough"
 slug: "abu-dhabi-talks-day-two-prisoner-swap-no-breakthrough"
 description: "Ukraine, Russia and US envoys held a second day of talks in Abu Dhabi on Nov 11. A large prisoner swap was reported agreed, but territory remains unresolved."
-date: 2026-11-11T16:20:00+05:30
+date: 2026-11-11T15:45:00+05:30
 category: "World"
 tags: ["Russia Ukraine war", "Abu Dhabi talks", "prisoner exchange", "Zelenskyy", "Kushner", "Witkoff", "G7"]
 keywords: "Abu Dhabi talks day two, Ukraine Russia prisoner swap, Russia Ukraine peace talks November 2026, Umerov Medinsky Kushner"
