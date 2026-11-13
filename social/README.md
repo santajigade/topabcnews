@@ -22,7 +22,8 @@ of the website build.
   - `{"type": "list", "title", "items": [{"left", "right"}]}` 2 to 5 rows: schedules, fixtures, steps, eligibility. Left max 8 characters, right max 5 words.
   - `{"type": "tips", "items": ["..."]}` 2 or 3 short actions, max 4 words each (health, safety, how to apply).
 - `theme` (optional): `dark`, `light` or `alert`. Default by category: Health = alert; World, Education, Yojana, Bollywood, Entertainment = light; the rest = dark.
-- `caption` (required): LinkedIn text, 2 or 3 short sentences, plain and factual, no hype.
+- `caption` (required): short fallback text, 2 or 3 short sentences, plain and factual, no hype.
+- `linkedin` (required): the LinkedIn post. `hook` = one strong opening sentence with the main news (max 25 words); `points` = 3 key facts from the article, one short line each (max 15 words); `close` = one line on what happens next, why it matters or a practical tip. No questions begging for likes, no hype words, no emoji. build.py adds the UTM link and hashtags.
 - `hashtags` (required): 3 to 5 relevant hashtags.
 
 ## Rules

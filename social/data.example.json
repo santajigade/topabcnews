@@ -5,11 +5,34 @@
   "block": {
     "type": "stats",
     "items": [
-      {"value": "33 yrs", "label": "as co-founder and CEO"},
-      {"value": "13%", "label": "intraday share drop"},
-      {"value": "Nov 17", "label": "Q3 earnings next"}
+      {
+        "value": "33 yrs",
+        "label": "as co-founder and CEO"
+      },
+      {
+        "value": "13%",
+        "label": "intraday share drop"
+      },
+      {
+        "value": "Nov 17",
+        "label": "Q3 earnings next"
+      }
     ]
   },
   "caption": "Jensen Huang has resigned as Nvidia CEO after 33 years. CFO Colette Kress is now interim chief while the board searches for a permanent successor. Shares fell as much as 13% intraday.",
-  "hashtags": ["#Nvidia", "#Leadership", "#AI", "#TechNews"]
+  "hashtags": [
+    "#Nvidia",
+    "#Leadership",
+    "#AI",
+    "#TechNews"
+  ],
+  "linkedin": {
+    "hook": "Jensen Huang has resigned as Nvidia CEO, effective immediately, after leading the company he co-founded for 33 years.",
+    "points": [
+      "CFO Colette Kress is interim CEO and keeps her CFO role",
+      "Former Synopsys CEO Harvey C. Jones is Nvidia's first board chair",
+      "Shares fell as much as 13% intraday and closed more than 4% lower"
+    ],
+    "close": "All eyes now turn to Nvidia's Q3 results on November 17."
+  }
 }

@@ -162,13 +162,22 @@ FIT_JS = """(hasBig) => {
 }"""
 
 
+def linkedin_text(d):
+    li = d.get("linkedin")
+    if not li:
+        return d["caption"]
+    pts = "\n".join(f"\u2022 {x}" for x in li["points"])
+    return f"{li['hook']}\n\n{pts}\n\n{li['close']}"
+
+
 def caption(d, meta, slug):
     link = (f"{SITE}/{slug}/?utm_source=linkedin&utm_medium=social"
             f"&utm_campaign=daily_news&utm_content={slug}")
     fb = link.replace("utm_source=linkedin", "utm_source=facebook")
     tags = " ".join(d.get("hashtags", []))
-    return (f"=== {meta['title']}\nImage: {slug}.png\n\nLINKEDIN POST:\n{d['caption']}\n\n"
-            f"Read more: {link}\n\n{tags}\n\nFacebook / Instagram link: {fb}\n")
+    return (f"=== {meta['title']}\nImage: {slug}.png\n\nLINKEDIN POST (copy from here):\n"
+            f"{linkedin_text(d)}\n\nRead the full story: {link}\n\n{tags}\n\n"
+            f"Facebook / Instagram link: {fb}\n")
 
 
 def main():
@@ -185,6 +194,9 @@ def main():
             d = json.loads((WORK / f"{slug}.json").read_text(encoding="utf-8"))
             meta = front_matter(slug)
             text = json.dumps(d, ensure_ascii=False)
+            li = d.get("linkedin")
+            if li and not (li.get("hook") and li.get("close") and 2 <= len(li.get("points", [])) <= 4):
+                problems.append(f"{slug}: linkedin needs hook, 2 to 4 points and close")
             if DASHES.search(text):
                 problems.append(f"{slug}: em or en dash in data")
             tmp = WORK / f".{slug}.html"
