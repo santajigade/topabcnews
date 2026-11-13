@@ -172,7 +172,7 @@ def linkedin_text(d):
 
 def caption(d, meta, slug):
     link = (f"{SITE}/{slug}/?utm_source=linkedin&utm_medium=social"
-            f"&utm_campaign=daily_news&utm_content={slug}")
+            f"&utm_campaign=daily_news")
     fb = link.replace("utm_source=linkedin", "utm_source=facebook")
     tags = " ".join(d.get("hashtags", []))
     return (f"=== {meta['title']}\nImage: {slug}.png\n\nLINKEDIN POST (copy from here):\n"
