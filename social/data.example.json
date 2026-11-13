@@ -1,0 +1,15 @@
+{
+  "kicker": "Breaking",
+  "headline": "Jensen Huang resigns as *Nvidia CEO*",
+  "sub": "CFO Colette Kress named interim chief as the board begins a search for a permanent successor",
+  "block": {
+    "type": "stats",
+    "items": [
+      {"value": "33 yrs", "label": "as co-founder and CEO"},
+      {"value": "13%", "label": "intraday share drop"},
+      {"value": "Nov 17", "label": "Q3 earnings next"}
+    ]
+  },
+  "caption": "Jensen Huang has resigned as Nvidia CEO after 33 years. CFO Colette Kress is now interim chief while the board searches for a permanent successor. Shares fell as much as 13% intraday.",
+  "hashtags": ["#Nvidia", "#Leadership", "#AI", "#TechNews"]
+}

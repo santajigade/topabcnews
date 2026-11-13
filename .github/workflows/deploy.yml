@@ -3,6 +3,8 @@ name: Build and deploy to Hostinger
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'social/**'
   workflow_dispatch:
 
 concurrency:
