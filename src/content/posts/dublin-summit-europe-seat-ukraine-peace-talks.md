@@ -2,7 +2,7 @@
 title: "Dublin Summit: EU Leaders Split Over Who Speaks for Europe on Ukraine"
 slug: "dublin-summit-europe-seat-ukraine-peace-talks"
 description: "Ukraine peace talks dominated the EU leaders' Dublin meeting on Nov 13 after US envoys told Zelenskyy a deal needs Europeans, but leaders differ on an envoy."
-date: 2026-11-13T16:35:00+05:30
+date: 2026-11-13T15:45:00+05:30
 category: "World"
 tags: ["Russia Ukraine war", "European Union", "Dublin summit", "Zelenskyy", "Kushner", "Witkoff", "peace talks"]
 keywords: "Dublin EU summit Ukraine, Europe seat Ukraine peace talks, Zelenskyy Kushner Witkoff Dublin, EU envoy Russia talks"

@@ -2,7 +2,7 @@
 title: "SS United States Sunk Off Florida to Become World's Largest Reef"
 slug: "ss-united-states-sunk-largest-artificial-reef"
 description: "The SS United States, record-setting 1952 ocean liner, was sunk in the Gulf off Florida on Nov 11 to become the world's largest artificial reef for marine life."
-date: 2026-11-13T17:05:00+05:30
+date: 2026-11-13T15:55:00+05:30
 category: "Science"
 tags: ["SS United States", "artificial reef", "marine life", "Florida", "ocean liner"]
 keywords: "SS United States sinking, world's largest artificial reef, SS United States reef Destin, ocean liner artificial reef"

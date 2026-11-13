@@ -2,7 +2,7 @@
 title: "WHO TB Report 2026: India's TB Deaths Fall 38% Since 2015"
 slug: "who-tb-report-2026-india-deaths-fall"
 description: "WHO's Global TB Report 2026 says India's TB deaths fell 38% since 2015, ahead of the 35% global drop, though India still carries a quarter of world cases."
-date: 2026-11-13T16:20:00+05:30
+date: 2026-11-13T15:40:00+05:30
 category: "Health"
 tags: ["tuberculosis", "WHO", "TB Mukt Bharat", "India health", "JP Nadda"]
 keywords: "WHO global TB report 2026, India TB deaths decline, tuberculosis India 2025, TB Mukt Bharat Abhiyaan"

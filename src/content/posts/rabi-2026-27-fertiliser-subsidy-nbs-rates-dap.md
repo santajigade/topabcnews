@@ -2,7 +2,7 @@
 title: "Rabi Fertiliser Subsidy 2026-27: Rs 62,370 Crore, DAP Stays Rs 1,350"
 slug: "rabi-2026-27-fertiliser-subsidy-nbs-rates-dap"
 description: "Cabinet clears Rs 62,370 crore NBS subsidy for Rabi 2026-27, up 64%. See the new per kg rates for N, P, K and S and what it means for DAP prices for farmers."
-date: 2026-11-13T16:50:00+05:30
+date: 2026-11-13T15:50:00+05:30
 category: "Yojana"
 tags: ["fertiliser subsidy", "Nutrient Based Subsidy", "DAP price", "Rabi season", "farmers"]
 keywords: "Rabi 2026-27 fertiliser subsidy, NBS rates 2026-27, DAP price per bag, P&K fertiliser subsidy"
