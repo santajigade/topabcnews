@@ -2,7 +2,7 @@
 title: "Denza Z9 GT Launched in India at Rs 1.57 Crore, D9 MPV at Rs 90 Lakh"
 slug: "denza-z9-gt-d9-launched-india-price"
 description: "BYD's luxury brand Denza enters India with the 1,156 PS Z9 GT electric shooting brake at Rs 1.57 crore and the D9 MPV at Rs 90 lakh. Price, range, features."
-date: 2026-11-14T19:20:00+05:30
+date: 2026-11-14T18:45:00+05:30
 category: "Automobile"
 tags: ["Denza", "BYD", "Denza Z9 GT", "Denza D9", "electric cars", "luxury EV"]
 keywords: "Denza Z9 GT price India, Denza D9 price, Denza India launch, BYD luxury brand India, Z9 GT range"

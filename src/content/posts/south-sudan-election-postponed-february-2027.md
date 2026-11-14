@@ -2,7 +2,7 @@
 title: "South Sudan Delays First Election Again, New Date February 11, 2027"
 slug: "south-sudan-election-postponed-february-2027"
 description: "South Sudan's election commission has moved the country's first general election from December 22 to February 11, 2027, as voter registration opens."
-date: 2026-11-14T19:15:00+05:30
+date: 2026-11-14T18:40:00+05:30
 category: "World"
 tags: ["South Sudan", "South Sudan election", "Salva Kiir", "Riek Machar", "Africa"]
 keywords: "South Sudan election postponed, South Sudan election February 2027, South Sudan voter registration, Salva Kiir, National Elections Commission"

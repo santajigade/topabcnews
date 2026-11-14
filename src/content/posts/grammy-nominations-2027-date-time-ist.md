@@ -2,7 +2,7 @@
 title: "Grammy Nominations 2027: Date, Time in IST and Who Announces Them"
 slug: "grammy-nominations-2027-date-time-ist"
 description: "Grammy nominations for the 69th awards will be revealed on November 16 from Times Square. IST timing, presenters, how to watch and key 2027 dates."
-date: 2026-11-14T19:25:00+05:30
+date: 2026-11-14T18:50:00+05:30
 category: "Entertainment"
 tags: ["Grammys", "Grammy nominations", "music awards", "Recording Academy", "Olivia Dean", "Pharrell Williams"]
 keywords: "Grammy nominations 2027, Grammy nominations time IST, 69th Grammy Awards, Grammys 2027 date, Grammy presenters"
