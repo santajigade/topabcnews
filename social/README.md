@@ -39,3 +39,15 @@ python3 social/pick.py
 python3 social/build.py
 ```
 `build.py` shrinks the headline to fit and fails if text still does not fit. Then look at every PNG with the Read tool and fix anything clipped, badly wrapped or hard to read. Finally append the slugs to `posted.txt`, commit only that file, and push (commits that touch only `social/` do not redeploy the site).
+
+## Auto publishing (Windsor.ai)
+Posts go live on the Top ABC News Facebook page (and the LinkedIn company page and Instagram once connected in Windsor.ai) through the Windsor.ai for Social Media connector. Windsor.ai has no drafts: every call publishes immediately.
+
+1. After `build.py` is OK and every PNG is checked, run `python3 social/publish.py`. It saves JPEGs to `public/social/<date>/` and writes `social/out/<date>/publish.json` (image URL plus Facebook, LinkedIn and Instagram text per post). It also deletes `public/social/` folders older than 3 days.
+2. Commit `public/social/` together with `social/posted.txt` and push. This one push redeploys the site so the images are public at `https://topabcnews.com/social/<date>/<slug>.jpg`.
+3. Wait until the "Build and deploy to Hostinger" GitHub Action for that commit has finished successfully (about 2 minutes).
+4. For each post call Windsor.ai `execute_action`:
+   - Facebook: connector `facebook_organic`, account `838269312701045` (Top ABC News), action `create_photo_post`, params `{"image_url", "caption": <facebook text>}`
+   - LinkedIn: connector `linkedin_organic`, action `create_image_post`, params `{"image_url", "commentary": <linkedin text>}` (account id from `get_connectors`; skip if none connected)
+   - Instagram: connector `instagram`, action `create_image_post`, params `{"image_url", "caption": <instagram text>}` (skip if none connected)
+5. If a call fails, do not retry more than once; report it.
