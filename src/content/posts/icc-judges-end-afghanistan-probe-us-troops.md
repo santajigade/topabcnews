@@ -2,7 +2,7 @@
 title: "ICC Judges End Afghanistan Probe Branch Covering US Troops"
 slug: "icc-judges-end-afghanistan-probe-us-troops"
 description: "ICC judges have closed the part of the Afghanistan probe that could cover US forces, limiting it to Taliban conduct. The prosecutor has already appealed."
-date: 2026-11-15T07:20:00+05:30
+date: 2026-11-15T06:30:00+05:30
 category: "World"
 tags: ["International Criminal Court", "Afghanistan", "Taliban", "United States", "war crimes", "ISKP"]
 keywords: "ICC Afghanistan investigation, ICC US troops, ICC Taliban probe, International Criminal Court ruling November 2026"

@@ -2,7 +2,7 @@
 title: "India Forex Reserves Rise $2.49 Billion to $719.55 Billion, Gold Jumps"
 slug: "india-forex-reserves-rise-719-billion-november-6"
 description: "India's forex reserves rose $2.49 billion to $719.55 billion in the week to Nov 6, RBI data shows, led by a $2.2 billion jump in gold holdings."
-date: 2026-11-15T07:35:00+05:30
+date: 2026-11-15T06:40:00+05:30
 category: "Finance"
 tags: ["forex reserves", "RBI", "gold reserves", "rupee", "Indian economy"]
 keywords: "India forex reserves, RBI forex data November 2026, India gold reserves, foreign currency assets"

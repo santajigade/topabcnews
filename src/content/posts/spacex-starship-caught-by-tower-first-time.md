@@ -2,7 +2,7 @@
 title: "SpaceX Catches Starship Ship for First Time After 22 Hours in Orbit"
 slug: "spacex-starship-caught-by-tower-first-time"
 description: "On Flight 15, SpaceX's Starship upper stage spent about 22.5 hours in orbit and was caught by the Starbase tower arms. The Super Heavy booster missed its catch."
-date: 2026-11-15T07:05:00+05:30
+date: 2026-11-15T06:20:00+05:30
 category: "Science"
 tags: ["SpaceX", "Starship", "Flight 15", "Starbase", "reusable rockets", "Starlink"]
 keywords: "SpaceX Starship catch, Starship Flight 15, Starship ship caught, Super Heavy booster, Starbase Texas"

@@ -2,7 +2,7 @@
 title: "Gurnoor Brar Added to India Test Squad for NZ, Kuldeep Yadav Released"
 slug: "gurnoor-brar-india-test-squad-kuldeep-released"
 description: "BCCI adds pacer Gurnoor Brar to India's Test squad for the New Zealand series from Nov 19, releases Kuldeep Yadav and clears Rishabh Pant to play."
-date: 2026-11-15T07:50:00+05:30
+date: 2026-11-15T06:50:00+05:30
 category: "Sports"
 tags: ["Gurnoor Brar", "India vs New Zealand", "Kuldeep Yadav", "Rishabh Pant", "World Test Championship", "BCCI"]
 keywords: "Gurnoor Brar India Test squad, India vs New Zealand Test 2026, Kuldeep Yadav released, Rishabh Pant fit, NZ vs IND Wellington Test"
