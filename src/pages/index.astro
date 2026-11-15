@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 import PostCard from '../components/PostCard.astro';
 import Ad from '../components/Ad.astro';
 import { allPosts } from '../lib/posts';
-import { SITE, CATEGORIES, PER_PAGE } from '../lib/site';
+import { SITE, CATEGORIES, PER_PAGE, SOCIAL } from '../lib/site';
 const posts = await allPosts();
 const [lead, ...rest] = posts;
 const latest = rest.slice(0, 8);
@@ -11,7 +11,7 @@ const sections = CATEGORIES.map((c) => ({ c, items: posts.filter((p) => p.data.c
 const jsonld = { '@context': 'https://schema.org', '@graph': [
   { '@type': 'WebSite', name: SITE.name, alternateName: ['ABC News India', 'topabcnews'], url: SITE.url,
     potentialAction: { '@type': 'SearchAction', target: `${SITE.url}/search/?q={q}`, 'query-input': 'required name=q' } },
-  { '@type': 'NewsMediaOrganization', name: SITE.name, url: SITE.url, logo: `${SITE.url}/logo.png`, email: SITE.email,
+  { '@type': 'NewsMediaOrganization', name: SITE.name, url: SITE.url, logo: `${SITE.url}/logo.png`, email: SITE.email, sameAs: SOCIAL.map((s) => s.url),
     publishingPrinciples: `${SITE.url}/editorial-policy/`, ethicsPolicy: `${SITE.url}/dnpa-code-of-ethics/`,
     contactPoint: { '@type': 'ContactPoint', contactType: 'editorial', email: SITE.email, url: `${SITE.url}/contact/` } },
 ] };

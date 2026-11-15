@@ -9,6 +9,13 @@ export const SITE = {
   ga4Id: 'G-BNW7V5L0GZ',
 };
 
+// Official social profiles (footer icons and schema sameAs)
+export const SOCIAL = [
+  { name: 'Facebook', url: 'https://www.facebook.com/838269312701045' },
+  { name: 'Instagram', url: 'https://www.instagram.com/topabcnews/' },
+  { name: 'LinkedIn', url: 'https://www.linkedin.com/company/108845031/' },
+] as const;
+
 export const CATEGORIES = [
   { name: 'World', slug: 'world', color: '#0f766e' },
   { name: 'Technology', slug: 'technology', color: '#7c3aed' },
