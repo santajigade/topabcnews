@@ -11,9 +11,9 @@ export const SITE = {
 
 // Official social profiles (footer icons and schema sameAs)
 export const SOCIAL = [
-  { name: 'Facebook', url: 'https://www.facebook.com/838269312701045' },
+  { name: 'Facebook', url: 'https://www.facebook.com/topabcnews' },
   { name: 'Instagram', url: 'https://www.instagram.com/topabcnews/' },
-  { name: 'LinkedIn', url: 'https://www.linkedin.com/company/108845031/' },
+  { name: 'LinkedIn', url: 'https://www.linkedin.com/company/topabcnews/' },
 ] as const;
 
 export const CATEGORIES = [
