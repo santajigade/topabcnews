@@ -49,5 +49,5 @@ Posts go live on the Top ABC News Facebook page and the Top ABC News LinkedIn co
 4. For each post call Windsor.ai `execute_action`:
    - Facebook: connector `facebook_organic`, account `838269312701045` (Top ABC News), action `create_photo_post`, params `{"image_url", "caption": <facebook text>}`
    - LinkedIn: connector `linkedin_organic`, account `108845031` (Top ABC News company page), action `create_image_post`, params `{"image_url", "commentary": <linkedin text>}`
-   - Instagram: connector `instagram`, action `create_image_post`, params `{"image_url", "caption": <instagram text>}` (skip if none connected)
+   - Instagram: connector `instagram`, account `17841476985261606` (topabcnews), action `create_image_post`, params `{"image_url", "caption": <instagram text>}`. The Instagram bio links to `https://topabcnews.com/instagram/` (src/pages/instagram.astro), which lists the newest stories as tappable tiles.
 5. If a call fails, do not retry more than once; report it.

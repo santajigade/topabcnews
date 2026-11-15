@@ -57,7 +57,7 @@ def main():
             "image_url": f"{SITE}/social/{date}/{slug}.jpg",
             "facebook": f"{d['caption']}\n\nRead the full story: {link(slug, 'facebook')}\n\n{tags}",
             "linkedin": f"{linkedin_text(d)}\n\nRead the full story: {link(slug, 'linkedin')}\n\n{tags}",
-            "instagram": f"{d['caption']}\n\nFull story on topabcnews.com (link in bio)\n\n{tags}",
+            "instagram": f"{d['caption']}\n\nTap the link in bio to read the full story\n\n{tags}",
         }
         if DASHES.search(json.dumps(post, ensure_ascii=False)):
             problems.append(f"{slug}: em or en dash in post text")
