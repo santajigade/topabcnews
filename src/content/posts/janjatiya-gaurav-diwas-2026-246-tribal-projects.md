@@ -2,7 +2,7 @@
 title: "Janjatiya Gaurav Diwas 2026: 246 Tribal Projects Worth Rs 3,000 Crore"
 slug: "janjatiya-gaurav-diwas-2026-246-tribal-projects"
 description: "On Janjatiya Gaurav Diwas 2026, PM Modi launches 246 tribal projects worth Rs 3,000 crore from Gadchiroli, including 57 Eklavya schools and PM-JANMAN centres."
-date: 2026-11-15T12:50:00+05:30
+date: 2026-11-15T11:45:00+05:30
 category: "Yojana"
 tags: ["Janjatiya Gaurav Diwas", "Birsa Munda", "PM-JANMAN", "DAJGUA", "Eklavya Model Residential School", "tribal welfare", "Gadchiroli"]
 keywords: "Janjatiya Gaurav Diwas 2026, Birsa Munda 151st birth anniversary, PM-JANMAN projects, EMRS schools, tribal projects Rs 3000 crore"

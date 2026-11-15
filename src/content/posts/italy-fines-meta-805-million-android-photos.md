@@ -2,7 +2,7 @@
 title: "Meta Fined €805 Million in Italy Over Facebook Android Photo Access"
 slug: "italy-fines-meta-805-million-android-photos"
 description: "Italy's privacy regulator Garante fined Meta €805 million after the Facebook Android app read gallery photos of about 20 million users without clear consent."
-date: 2026-11-15T12:05:00+05:30
+date: 2026-11-15T11:15:00+05:30
 category: "Technology"
 tags: ["Meta", "Facebook", "Italy Garante", "data privacy", "Android", "ePrivacy", "EU regulation"]
 keywords: "Meta fine Italy, Meta 805 million fine, Facebook Android photo gallery, Garante privacy fine, ePrivacy Directive"

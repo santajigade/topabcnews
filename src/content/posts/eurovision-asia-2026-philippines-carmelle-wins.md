@@ -2,7 +2,7 @@
 title: "Eurovision Asia 2026: Philippines' Carmelle Wins First Contest"
 slug: "eurovision-asia-2026-philippines-carmelle-wins"
 description: "Philippines' Carmelle won the first Eurovision Song Contest Asia in Bangkok with Sobra-Sobra, scoring 211 points ahead of Thailand and Vietnam. Full results."
-date: 2026-11-15T12:20:00+05:30
+date: 2026-11-15T11:25:00+05:30
 category: "Entertainment"
 tags: ["Eurovision Asia", "Eurovision Song Contest Asia 2026", "Carmelle", "Sobra-Sobra", "Philippines", "Bangkok", "music"]
 keywords: "Eurovision Asia 2026 winner, Carmelle Sobra-Sobra, Eurovision Song Contest Asia results, Philippines Eurovision, Eurovision Bangkok"

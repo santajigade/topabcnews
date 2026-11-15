@@ -2,7 +2,7 @@
 title: "Trump, Xi, Putin Meeting Set for Nov 19: Nuclear Arms, Iran on Table"
 slug: "trump-xi-putin-trilateral-november-19-confirmed"
 description: "The White House and Kremlin confirm Trump, Xi and Putin will meet in Shenzhen on November 19 at APEC. Nuclear arms and Iran are on the agenda, Ukraine is not."
-date: 2026-11-15T12:35:00+05:30
+date: 2026-11-15T11:35:00+05:30
 category: "World"
 tags: ["Trump Xi Putin", "APEC 2026", "Shenzhen", "nuclear weapons", "Iran war", "US China Russia", "Kremlin"]
 keywords: "Trump Xi Putin meeting November 19, Shenzhen trilateral summit, APEC 2026, nuclear arms talks, US China Russia summit"
