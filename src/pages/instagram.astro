@@ -1,11 +1,10 @@
 ---
 // Link-in-bio page for Instagram: newest stories as tappable tiles.
-// Uses the same image as the Instagram post when it is still in public/social/, else the featured image.
+// Shows only stories whose social post image is still in public/social/ (publish.py keeps the last 3 days).
 import fs from 'node:fs';
 import path from 'node:path';
 import Base from '../layouts/Base.astro';
 import { allPosts } from '../lib/posts';
-import { catByName } from '../lib/site';
 
 const socialDir = path.join(process.cwd(), 'public', 'social');
 const socialImg = new Map<string, string>();
@@ -17,13 +16,10 @@ if (fs.existsSync(socialDir)) {
   }
 }
 const utm = '?utm_source=instagram&utm_medium=social&utm_campaign=link_in_bio';
-const posts = (await allPosts()).slice(0, 30).map((p) => ({
-  slug: p.data.slug,
-  title: p.data.title,
-  cat: catByName(p.data.category),
-  social: socialImg.get(p.data.slug),
-  image: p.data.image,
-}));
+const posts = (await allPosts())
+  .filter((p) => socialImg.has(p.data.slug))
+  .slice(0, 60)
+  .map((p) => ({ slug: p.data.slug, title: p.data.title, social: socialImg.get(p.data.slug)! }));
 ---
 <Base title="Latest Stories from Instagram" description="Tap any picture to read the full story from the Top ABC News Instagram feed." noindex>
   <section class="wrap ig">
@@ -32,13 +28,7 @@ const posts = (await allPosts()).slice(0, 30).map((p) => ({
     <div class="ig-grid">
       {posts.map((p) => (
         <a class="ig-tile" href={`/${p.slug}/${utm}`}>
-          {p.social
-            ? <img src={p.social} alt={p.title} loading="lazy" width="1080" height="1350" />
-            : <span class="ig-fallback" style={`--c:${p.cat.color}`}>
-                {p.image && <img src={p.image} alt="" loading="lazy" width="640" height="360" />}
-                <span class="ig-cat">{p.cat.name}</span>
-                <span class="ig-title">{p.title}</span>
-              </span>}
+          <img src={p.social} alt={p.title} loading="lazy" width="1080" height="1350" />
         </a>
       ))}
     </div>
@@ -55,12 +45,5 @@ const posts = (await allPosts()).slice(0, 30).map((p) => ({
   @media (min-width: 1000px) { .ig-grid { grid-template-columns: repeat(4, 1fr); } }
   .ig-tile { display: block; aspect-ratio: 4 / 5; overflow: hidden; border-radius: 6px; background: #111; }
   .ig-tile > img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .ig-fallback { position: relative; display: flex; flex-direction: column; justify-content: flex-end; height: 100%;
-    padding: 10px; background: #111; color: #fff; }
-  .ig-fallback img { position: absolute; inset: 0 0 auto 0; width: 100%; height: 45%; object-fit: cover; }
-  .ig-cat { position: relative; align-self: flex-start; background: var(--c); color: #fff; font-size: .7rem; font-weight: 700;
-    text-transform: uppercase; letter-spacing: .04em; padding: 2px 6px; border-radius: 3px; margin-bottom: 6px; }
-  .ig-title { position: relative; font-weight: 700; font-size: .92rem; line-height: 1.25;
-    display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
   .ig-more { margin-top: 20px; }
 </style>
