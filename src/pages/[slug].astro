@@ -57,6 +57,23 @@ if (kind === 'post') {
       <div class="meta">By <a href="/author/editorialstaff/">Editorial Staff</a> · <time datetime={d.date.toISOString()}>{fmtDate(d.date)}</time>
         {d.updated && <> · Updated <time datetime={d.updated.toISOString()}>{fmtDate(d.updated)}</time></>}</div>
     )}
+    {kind === 'post' && (() => {
+      const u = encodeURIComponent(`${SITE.url}/${d.slug}/`); const t = encodeURIComponent(d.title);
+      const links = [
+        { n: 'WhatsApp', c: '#25d366', h: `https://wa.me/?text=${t}%20${u}`, p: 'M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5 0-1 .2-3.2-.7-2.7-1.1-4.4-3.8-4.5-4-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.2-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.2.1.7-.1 1.3z' },
+        { n: 'Facebook', c: '#1877f2', h: `https://www.facebook.com/sharer/sharer.php?u=${u}`, p: 'M14 8h3V4h-3c-2.8 0-4 1.7-4 4.2V10H7v4h3v8h4v-8h3l1-4h-4V8.6c0-.4.3-.6.6-.6z' },
+        { n: 'X', c: '#000', h: `https://twitter.com/intent/tweet?text=${t}&url=${u}`, p: 'M17.8 3h3l-6.6 7.5L22 21h-6.1l-4.8-6.2L5.6 21h-3l7-8L2.3 3h6.3l4.3 5.7L17.8 3zm-1 16.2h1.7L7.3 4.7H5.5l11.3 14.5z' },
+        { n: 'LinkedIn', c: '#0a66c2', h: `https://www.linkedin.com/sharing/share-offsite/?url=${u}`, p: 'M6.5 8.5h-3V21h3V8.5zM5 3.5a1.8 1.8 0 1 0 0 3.6 1.8 1.8 0 0 0 0-3.6zM21 21h-3v-6.1c0-1.6-.6-2.6-1.9-2.6-1.1 0-1.7.7-2 1.4-.1.3-.1.7-.1 1V21h-3V8.5h3v1.7c.5-.8 1.4-1.9 3.3-1.9 2.4 0 3.7 1.6 3.7 4.9V21z' },
+        { n: 'Telegram', c: '#229ed9', h: `https://t.me/share/url?url=${u}&text=${t}`, p: 'M21.5 3.6 2.9 10.8c-1.3.5-1.2 1.2-.2 1.5l4.8 1.5 1.8 5.6c.2.6.4.8.8.8s.6-.2.9-.5l2.3-2.2 4.8 3.5c.9.5 1.5.2 1.7-.8l3.1-14.8c.3-1.3-.5-1.9-1.4-1.6zM9.6 14.4l-.3 3.6-1.4-4.4L18 7.3l-8.4 7.1z' },
+      ];
+      return (
+        <div class="share-bar" aria-label="Share this article">
+          <span>Share:</span>
+          {links.map((l) => <a href={l.h} target="_blank" rel="noopener nofollow" aria-label={`Share on ${l.n}`} title={`Share on ${l.n}`} style={`background:${l.c}`}><svg viewBox="0 0 24 24" width="18" height="18" fill="#fff"><path d={l.p} /></svg></a>)}
+          <button type="button" class="share-copy" aria-label="Copy link" title="Copy link" data-url={`${SITE.url}/${d.slug}/`} onclick="navigator.clipboard&&navigator.clipboard.writeText(this.dataset.url).then(()=>{this.classList.add('done');setTimeout(()=>this.classList.remove('done'),1500)})"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="#fff" stroke-width="2"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg></button>
+        </div>
+      );
+    })()}
     {kind === 'post' && d.image && <img class="hero" src={d.image} alt={d.imageAlt ?? d.title} width="1200" height="675" fetchpriority="high" />}
     <div class="prose"><Content /></div>
     {latestOther.length > 0 && (
