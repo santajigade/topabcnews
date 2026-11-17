@@ -2,7 +2,7 @@
 title: "FEMA Alert Test Nov 17: IST Time, No Phone Alert, Blackout Myth"
 slug: "us-emergency-alert-test-november-17-ist-time"
 description: "FEMA's nationwide Emergency Alert System test hits US TV and radio at 2:20 pm ET on Nov 17 (12:50 am IST). Phones are not included and no blackout is planned."
-date: 2026-11-17T12:10:00+05:30
+date: 2026-11-17T11:50:00+05:30
 category: "Technology"
 tags: ["FEMA", "Emergency Alert System", "EAS test", "FCC", "blackout rumour", "cell broadcast"]
 keywords: "FEMA emergency alert test November 17 2026, EAS test time IST, nationwide blackout November 17 false, emergency alert test phones"

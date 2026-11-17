@@ -2,7 +2,7 @@
 title: "RBI Tells Tata Sons to List: What the Letter Means for Investors"
 slug: "rbi-tata-sons-listing-letter-explained"
 description: "RBI has told Tata Sons in writing to follow upper layer NBFC rules, including listing. Timeline, shareholders, stock moves and what comes next, explained."
-date: 2026-11-17T12:25:00+05:30
+date: 2026-11-17T11:52:00+05:30
 category: "Finance"
 tags: ["Tata Sons", "RBI", "NBFC upper layer", "Tata Trusts", "Shapoorji Pallonji", "Tata Chemicals", "IPO"]
 keywords: "Tata Sons listing RBI letter, Tata Sons IPO, upper layer NBFC listing rule, Tata Chemicals share price, Tata Sons November 2026"
