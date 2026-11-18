@@ -2,7 +2,7 @@
 title: "US Outages Week: Apple, NSA, Chase, FAA Hit, No Cyberattack Found"
 slug: "us-outages-week-apple-nsa-chase-faa"
 description: "Apple, the NSA, JPMorgan Chase, United and the FAA all suffered outages within six days. Full timeline with IST times and the cause each one gave."
-date: 2026-11-18T12:20:00+05:30
+date: 2026-11-18T11:50:00+05:30
 category: "Technology"
 tags: ["tech outages", "Apple outage", "iCloud", "NSA", "JPMorgan Chase", "FAA", "Microsoft 365"]
 keywords: "US tech outages November 2026, Apple iCloud outage, NSA network outage, Chase outage, FAA ground stop cause"

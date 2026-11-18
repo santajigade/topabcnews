@@ -2,7 +2,7 @@
 title: "Free E-Visa for ASEAN Tourists: What India's Manila Offer Means"
 slug: "free-e-visa-asean-tourists-india-explained"
 description: "PM Modi proposed free e-visas for tourists from all 11 ASEAN nations in Manila. See current fees by country, what changes, and the 8 other proposals."
-date: 2026-11-18T12:35:00+05:30
+date: 2026-11-18T11:52:00+05:30
 category: "World"
 tags: ["ASEAN", "e-visa", "India ASEAN Summit", "Narendra Modi", "tourism", "Act East"]
 keywords: "free e-visa ASEAN tourists, India e-visa fee ASEAN, ASEAN-India Summit Manila 2026, Modi nine proposals ASEAN"
