@@ -1,15 +1,15 @@
 # Old post upgrade queue (see UPGRADE.md). One line per post: status | slug | category | date | words at start
 # status: todo, done YYYY-MM-DD, noindex YYYY-MM-DD, skip YYYY-MM-DD <reason>
-todo | mental-health-awareness-why-it-matters-more-than-ever | Health | 2024-08-18 | 364
-todo | instrumentation-engineering-educational-articles | Education | 2023-11-07 | 426
-todo | pm-vidya-lakshmi-education-loan-scheme-2025 | Yojana | 2025-09-05 | 488
-todo | honda-dio-acg-2025-rs-79375-91173 | Automobile | 2025-09-05 | 491
-todo | iocl-apprentice-recruitment-2025 | Education | 2025-09-04 | 491
-todo | huawei-matepad-pro-12-2-with-slim-screen | Technology | 2025-09-04 | 493
-todo | 5-reasons-you-must-watch-inspector-zende | Bollywood | 2025-09-06 | 504
-todo | samsung-galaxy-a56-5g-big-screen-long-battery | Technology | 2025-09-07 | 524
-todo | daily-exercise-key-to-longevity-vitality | Health | 2023-09-11 | 612
-todo | will-messi-play-2026-world-cup | Sports | 2025-09-05 | 749
+done 2026-11-20 | mental-health-awareness-why-it-matters-more-than-ever | Health | 2024-08-18 | 364
+done 2026-11-20 | instrumentation-engineering-educational-articles | Education | 2023-11-07 | 426
+done 2026-11-20 | pm-vidya-lakshmi-education-loan-scheme-2025 | Yojana | 2025-09-05 | 488
+done 2026-11-20 | honda-dio-acg-2025-rs-79375-91173 | Automobile | 2025-09-05 | 491
+done 2026-11-20 | iocl-apprentice-recruitment-2025 | Education | 2025-09-04 | 491
+done 2026-11-20 | huawei-matepad-pro-12-2-with-slim-screen | Technology | 2025-09-04 | 493
+done 2026-11-20 | 5-reasons-you-must-watch-inspector-zende | Bollywood | 2025-09-06 | 504
+done 2026-11-20 | samsung-galaxy-a56-5g-big-screen-long-battery | Technology | 2025-09-07 | 524
+done 2026-11-20 | daily-exercise-key-to-longevity-vitality | Health | 2023-09-11 | 612
+done 2026-11-20 | will-messi-play-2026-world-cup | Sports | 2025-09-05 | 749
 todo | itr-filing-deadline-2025-26 | Finance | 2025-09-05 | 1024
 todo | ather-450-apex-indias-fastest-e-scooter | Automobile | 2025-09-09 | 675
 todo | apple-iphone-17-family | Technology | 2025-09-10 | 1040
