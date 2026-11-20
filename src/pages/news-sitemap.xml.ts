@@ -3,7 +3,7 @@ import { SITE } from '../lib/site';
 const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&apos;' })[c]!);
 export async function GET() {
   // Google News sitemap: articles from the last 2 days (falls back to latest 10)
-  const posts = await allPosts();
+  const posts = (await allPosts()).filter((p) => !p.data.noindex);
   const cutoff = Date.now() - 2 * 864e5;
   let recent = posts.filter((p) => p.data.date.valueOf() >= cutoff);
   if (!recent.length) recent = posts.slice(0, 10);

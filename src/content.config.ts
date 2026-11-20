@@ -17,6 +17,7 @@ const posts = defineCollection({
     image: z.string().optional(),
     imageAlt: z.string().optional(),
     author: z.string().default('Editorial Staff'),
+    noindex: z.boolean().optional(),
     sources: z.array(z.object({ name: z.string(), url: z.string() })).default([]),
   }),
 });

@@ -41,7 +41,7 @@ if (kind === 'post') {
   };
 }
 ---
-<Base title={d.title} description={d.description} image={kind === 'post' ? d.image : undefined} type={kind === 'post' ? 'article' : 'website'} jsonld={jsonld}
+<Base title={d.title} description={d.description} noindex={kind === 'post' && d.noindex === true} image={kind === 'post' ? d.image : undefined} type={kind === 'post' ? 'article' : 'website'} jsonld={jsonld}
   imageAlt={kind === 'post' ? (d.imageAlt ?? d.title) : undefined}
   publishedTime={kind === 'post' ? d.date : undefined} modifiedTime={kind === 'post' ? (d.updated ?? d.date) : undefined}
   section={kind === 'post' ? d.category : undefined} tags={kind === 'post' ? (d.tags ?? []) : []} keywords={kind === 'post' ? d.keywords : undefined}>
