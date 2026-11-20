@@ -16,6 +16,17 @@ export const SOCIAL = [
   { name: 'LinkedIn', url: 'https://www.linkedin.com/company/topabcnews/' },
 ] as const;
 
+export const AUTHOR = {
+  name: 'Santaji Gadepatil',
+  slug: 'santaji-gadepatil',
+  url: '/author/santaji-gadepatil/',
+  image: '/images/authors/santaji-gadepatil.webp',
+  thumb: '/images/authors/santaji-gadepatil-96.webp',
+  linkedin: 'https://www.linkedin.com/in/santaji-gadepatil6680/',
+  jobTitle: 'Editor',
+  bio: 'Santaji Gadepatil is the editor of Top ABC News. He is a B.E. Electronics and Telecommunication engineer with experience in technical content, SEO and digital marketing. He also writes the LinkedIn newsletter Innovations in Instrumentation and follows technology, industry, education and Indian government schemes closely.',
+};
+
 export const CATEGORIES = [
   { name: 'World', slug: 'world', color: '#0f766e' },
   { name: 'Technology', slug: 'technology', color: '#7c3aed' },

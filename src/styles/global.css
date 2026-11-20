@@ -138,3 +138,18 @@ img { max-width: 100%; height: auto; display: block; }
 .share-bar a:hover, .share-bar button:hover { transform: translateY(-2px); opacity: .9; }
 .share-copy { background: #6b7280; }
 .share-copy.done { background: #16a34a; }
+
+/* Author byline, box and page */
+.byline { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.byline-img { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; }
+.author-box { display: flex; gap: 16px; align-items: flex-start; margin: 28px 0 8px; padding: 18px; border: 1px solid #e5e7eb; border-radius: 12px; background: #fafafa; }
+.author-box img { width: 80px; height: 80px; border-radius: 50%; object-fit: cover; flex: none; }
+.author-box p { margin: 0 0 8px; font-size: .95rem; line-height: 1.55; }
+.author-box .author-name { font-weight: 700; }
+.author-box a { color: var(--red); }
+.author-head { display: flex; gap: 24px; align-items: center; margin: 10px 0 30px; }
+.author-head img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex: none; }
+.author-head h1 { margin: 0 0 4px; }
+.author-role { color: var(--muted); font-weight: 600; margin: 0 0 10px; }
+.author-head a { color: var(--red); }
+@media (max-width: 600px) { .author-head { flex-direction: column; text-align: center; } .author-box { flex-direction: column; align-items: center; text-align: center; } }

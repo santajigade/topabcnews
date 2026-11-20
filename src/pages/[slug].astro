@@ -4,7 +4,7 @@ import Base from '../layouts/Base.astro';
 import PostCard from '../components/PostCard.astro';
 import Ad from '../components/Ad.astro';
 import { allPosts } from '../lib/posts';
-import { SITE, catByName, fmtDate } from '../lib/site';
+import { SITE, AUTHOR, catByName, fmtDate } from '../lib/site';
 export async function getStaticPaths() {
   const posts = await allPosts();
   const pages = await getCollection('pages');
@@ -31,7 +31,7 @@ if (kind === 'post') {
         image: d.image ? [new URL(d.image, SITE.url).href] : undefined,
         datePublished: d.date.toISOString(), dateModified: (d.updated ?? d.date).toISOString(),
         articleSection: d.category, keywords: d.keywords,
-        author: { '@type': 'Organization', name: 'Top ABC News Editorial Staff', url: `${SITE.url}/author/editorialstaff/` },
+        author: { '@type': 'Person', name: AUTHOR.name, url: `${SITE.url}${AUTHOR.url}`, image: `${SITE.url}${AUTHOR.image}`, jobTitle: AUTHOR.jobTitle, sameAs: [AUTHOR.linkedin] },
         publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: `${SITE.url}/logo.png` } } },
       { '@type': 'BreadcrumbList', itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/` },
@@ -54,7 +54,7 @@ if (kind === 'post') {
     )}
     <h1>{d.title}</h1>
     {kind === 'post' && (
-      <div class="meta">By <a href="/author/editorialstaff/">Editorial Staff</a> · <time datetime={d.date.toISOString()}>{fmtDate(d.date)}</time>
+      <div class="meta byline"><img src={AUTHOR.thumb} alt={AUTHOR.name} width="28" height="28" class="byline-img" /> By <a href={AUTHOR.url} rel="author">{AUTHOR.name}</a> · <time datetime={d.date.toISOString()}>{fmtDate(d.date)}</time>
         {d.updated && <> · Updated <time datetime={d.updated.toISOString()}>{fmtDate(d.updated)}</time></>}</div>
     )}
     {kind === 'post' && (() => {
@@ -80,6 +80,14 @@ if (kind === 'post') {
       <aside class="prose latest-links"><h2>Latest News</h2><ul>
         {latestOther.map((p) => <li><a href={`/${p.data.slug}/`}>{p.data.title}</a></li>)}
       </ul></aside>
+    )}
+    {kind === 'post' && (
+      <div class="author-box">
+        <img src={AUTHOR.image} alt={AUTHOR.name} width="80" height="80" loading="lazy" />
+        <div><p class="author-name">About the author: <a href={AUTHOR.url} rel="author">{AUTHOR.name}</a></p>
+          <p>{AUTHOR.bio}</p>
+          <a href={AUTHOR.linkedin} target="_blank" rel="noopener me">Connect on LinkedIn</a></div>
+      </div>
     )}
     <Ad />
   </article>

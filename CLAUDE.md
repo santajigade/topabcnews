@@ -49,7 +49,7 @@ tags: ["tag one", "tag two"]
 keywords: "main keyword, secondary keyword"
 image: "/images/posts/lowercase-hyphenated-slug.webp"
 imageAlt: "Short description of the image"
-author: "Editorial Staff"
+author: "Santaji Gadepatil"
 sources:
   - name: "Source name"
     url: "https://..."

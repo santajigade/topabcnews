@@ -1,0 +1,26 @@
+---
+import Base from '../../../layouts/Base.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { allPosts } from '../../../lib/posts';
+import { SITE, AUTHOR } from '../../../lib/site';
+const posts = (await allPosts()).slice(0, 24);
+const jsonld = { '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: {
+  '@type': 'Person', name: AUTHOR.name, url: `${SITE.url}${AUTHOR.url}`, image: `${SITE.url}${AUTHOR.image}`,
+  jobTitle: AUTHOR.jobTitle, description: AUTHOR.bio, sameAs: [AUTHOR.linkedin],
+  worksFor: { '@type': 'NewsMediaOrganization', name: SITE.name, url: SITE.url } } };
+---
+<Base title={`${AUTHOR.name}, Editor`} description={`${AUTHOR.name} is the editor of Top ABC News. Read his latest news stories and profile.`} image={AUTHOR.image} jsonld={jsonld}>
+  <section class="wrap listing">
+    <div class="author-head">
+      <img src={AUTHOR.image} alt={AUTHOR.name} width="140" height="140" />
+      <div>
+        <h1>{AUTHOR.name}</h1>
+        <p class="author-role">{AUTHOR.jobTitle}, {SITE.name}</p>
+        <p>{AUTHOR.bio}</p>
+        <p><a href={AUTHOR.linkedin} target="_blank" rel="noopener me">LinkedIn profile</a> · <a href="/editorial-policy/">Editorial policy</a> · <a href="/contact/">Contact</a></p>
+      </div>
+    </div>
+    <h2>Latest stories</h2>
+    <div class="grid">{posts.map((p) => <PostCard post={p} />)}</div>
+  </section>
+</Base>
