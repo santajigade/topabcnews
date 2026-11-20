@@ -2,7 +2,7 @@
 title: "Trump, Xi, Putin Peace Declaration: The 4 Points and What's Missing"
 slug: "trump-xi-putin-peace-declaration-explained"
 description: "The Shenzhen declaration covers oil supply, nuclear risk, UN reform and ICC limits but skips Ukraine, Iran and Taiwan. Each point explained, with India's stake."
-date: 2026-11-20T08:10:00+05:30
+date: 2026-11-20T06:50:00+05:30
 category: "World"
 tags: ["Donald Trump", "Xi Jinping", "Vladimir Putin", "APEC 2026", "ICC", "Shenzhen"]
 keywords: "Trump Xi Putin peace declaration, Shenzhen trilateral, ICC immunity"

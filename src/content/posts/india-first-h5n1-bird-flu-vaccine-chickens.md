@@ -2,7 +2,7 @@
 title: "India's First H5N1 Bird Flu Vaccine for Chickens: What It Covers"
 slug: "india-first-h5n1-bird-flu-vaccine-chickens"
 description: "Shivraj Singh Chouhan dedicates ICAR-NIHSAD's inactivated H5N1 clade 2.3.2.1a chicken vaccine in Bhopal on Nov 20. What it targets and what is still unknown."
-date: 2026-11-20T07:40:00+05:30
+date: 2026-11-20T06:45:00+05:30
 category: "Science"
 tags: ["bird flu", "H5N1", "ICAR-NIHSAD", "poultry", "vaccine", "Shivraj Singh Chouhan"]
 keywords: "H5N1 vaccine India, bird flu vaccine chickens, ICAR NIHSAD vaccine"
