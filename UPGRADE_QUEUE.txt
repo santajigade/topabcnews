@@ -10,16 +10,16 @@ done 2026-11-20 | 5-reasons-you-must-watch-inspector-zende | Bollywood | 2025-09
 done 2026-11-20 | samsung-galaxy-a56-5g-big-screen-long-battery | Technology | 2025-09-07 | 524
 done 2026-11-20 | daily-exercise-key-to-longevity-vitality | Health | 2023-09-11 | 612
 done 2026-11-20 | will-messi-play-2026-world-cup | Sports | 2025-09-05 | 749
-todo | itr-filing-deadline-2025-26 | Finance | 2025-09-05 | 1024
-todo | ather-450-apex-indias-fastest-e-scooter | Automobile | 2025-09-09 | 675
-todo | apple-iphone-17-family | Technology | 2025-09-10 | 1040
-todo | indian-oil-recruitment-2025 | Education | 2025-09-10 | 1040
-todo | mirai-box-office-collection-₹10-crore | Bollywood | 2025-09-13 | 769
-todo | india-vs-pakistan-asia-cup-2025 | Sports | 2025-09-22 | 771
-todo | zohos-arattai-7-5-million-downloads | Technology | 2025-10-07 | 1233
-todo | indian-railways-big-diwali-gift | Yojana | 2025-10-14 | 1260
-todo | gold-price-today-hits-₹1-28-lakh-in-india | Finance | 2025-10-16 | 800
-todo | oneplus-oxygenos-16-launch | Technology | 2025-10-18 | 824
+done 2026-11-21 | itr-filing-deadline-2025-26 | Finance | 2025-09-05 | 1024
+done 2026-11-21 | ather-450-apex-indias-fastest-e-scooter | Automobile | 2025-09-09 | 675
+done 2026-11-21 | apple-iphone-17-family | Technology | 2025-09-10 | 1040
+done 2026-11-21 | indian-oil-recruitment-2025 | Education | 2025-09-10 | 1040
+noindex 2026-11-21 | mirai-box-office-collection-₹10-crore | Bollywood | 2025-09-13 | 769
+noindex 2026-11-21 | india-vs-pakistan-asia-cup-2025 | Sports | 2025-09-22 | 771
+done 2026-11-21 | zohos-arattai-7-5-million-downloads | Technology | 2025-10-07 | 1233
+done 2026-11-21 | indian-railways-big-diwali-gift | Yojana | 2025-10-14 | 1260
+done 2026-11-21 | gold-price-today-hits-₹1-28-lakh-in-india | Finance | 2025-10-16 | 800
+done 2026-11-21 | oneplus-oxygenos-16-launch | Technology | 2025-10-18 | 824
 todo | end-to-end-encryption-to-arattai | Technology | 2025-10-19 | 945
 todo | happy-diwali-wishes-quotes | Bollywood | 2025-10-19 | 1150
 todo | is-canva-down-in-india | Technology | 2025-10-20 | 1115

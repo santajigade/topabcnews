@@ -1,14 +1,85 @@
 ---
-title: "Indian Railways Announces Big Diwali Gift: 20% Discount on Return Tickets"
+title: "Railways Round Trip Package: 20% Off Return Fare, Rules and Dates"
 slug: "indian-railways-big-diwali-gift"
-description: "Indian Railways Diwali offer: Get 20% discount on return tickets with round-trip bookings. Save money, avoid rush & travel home stress-free this festive season."
+description: "Indian Railways' Round Trip Package gave 20% off the return base fare for festive travel in 2025. Booking dates, travel windows, conditions and savings."
 date: 2025-10-14T10:21:45+05:30
+updated: 2026-11-21T21:30:00+05:30
 category: "Yojana"
-tags: ["diwali gift", "indian railway"]
-keywords: "Indian Railway"
+tags: ["indian railway", "round trip package", "IRCTC", "festival travel", "train ticket discount"]
+keywords: "Indian Railways round trip package, 20 percent discount return ticket, railway festival offer"
 image: "/wp-content/uploads/2025/10/indian-railway.webp"
 imageAlt: "indian railway"
 author: "Editorial Staff"
+sources:
+  - name: "Business Standard (ANI): Railways offers 20% rebate on confirmed return tickets, 9 Aug 2025"
+    url: "https://www.business-standard.com/india-news/festival-bonanza-railways-offers-20-rebate-on-confirmed-return-tickets-125080900475_1.html"
+  - name: "Business Today: Indian Railways launches experimental Round Trip Package, 9 Aug 2025"
+    url: "https://www.businesstoday.in/personal-finance/news/story/indian-railways-launches-experimental-round-trip-package-with-20-discount-for-festival-season-travel-488705-2025-08-09"
+  - name: "The Tribune: Railways announces festival return fare discount, 10 Aug 2025"
+    url: "https://www.tribuneindia.com/news/india/rlys-announces-festival-return-fare-discount"
 ---
 
-<p>Every year, millions of Indians look forward to traveling home during Diwali to celebrate with family. Trains are the most popular mode of transport during the festive season, but they are also the most crowded. Getting confirmed tickets often feels like winning a lottery.</p><p>This year, <a href="https://www.indianrail.gov.in/" target="_blank" rel="noopener">Indian Railways</a> has come up with a <strong>special festive </strong><a href="https://topabcnews.com/yojana/" target="_blank" rel="noopener">offer </a>that will bring a smile to many passengers. The railway authorities have announced a new <strong>Round Trip Discount Scheme</strong>, under which passengers will get a <strong>20% discount on return tickets</strong>. The scheme will start on a <strong>trial basis</strong>, but it could be a game changer for travelers if implemented successfully.</p><p>Let’s understand this offer in detail, how it works, who can use it, and why it matters for passengers.</p><h4>Why This Scheme from Indian Railway?</h4><p>During Diwali, the number of passengers traveling by indian railway increases several times. Trains going towards states like Uttar Pradesh, Bihar, West Bengal, Odisha, and Madhya Pradesh run fully packed as people working in big cities like Delhi, Mumbai, Pune, Bengaluru, and Chennai rush back to their hometowns.</p><p>To manage this heavy rush, Railways usually runs special trains and opens tatkal booking. Still, passengers face difficulties in getting confirmed tickets. By introducing a discount on <strong>round-trip bookings</strong>, Railways wants to:</p><ol><li><p><strong>Encourage early bookings</strong> – Passengers will be motivated to plan their journey in advance.</p></li><li><p><strong>Reduce last-minute rush</strong> – With tickets booked earlier, there will be less pressure on tatkal and emergency bookings.</p></li><li><p><strong>Reward loyalty</strong> – Those who book both onward and return journeys with Indian Railways will save money.</p></li></ol><p>This scheme is also an experiment to see how passengers respond. If it works well, Railways may extend it beyond Diwali and even make it a regular feature during other festivals.</p><h4>Key Features of the Discount Scheme</h4><p>The <strong>20% discount on return tickets</strong> will be available under specific conditions. Here are the main highlights:</p><ul><li><p>The scheme will officially start from <strong>14 August 2025</strong>.</p></li><li><p><strong>Onward journey tickets</strong> must be booked between <strong>13 October 2025 and 26 October 2025</strong>.</p></li><li><p><strong>Return journey tickets</strong> must be booked between <strong>17 November 2025 and 1 December 2025</strong>.</p></li><li><p>To avail the discount, passengers must use the <strong>connecting journey feature</strong> while booking.</p></li><li><p>The offer will be available only on <strong>confirmed tickets</strong>. It will not apply to <strong>RAC</strong> (Reservation Against Cancellation) or <strong>waiting list tickets</strong>.</p></li></ul><h4>Conditions You Must Follow</h4><p>The discount from is not for everyone. Indian Railways has set some rules to ensure only genuine round-trip travelers use the scheme.</p><ul><li><p>Both tickets must be booked in the <strong>same name</strong>.</p></li><li><p>Both tickets must be for the <strong>same class of travel</strong> and for the <strong>same destination</strong>.</p></li><li><p>If the first ticket is booked at a <strong>railway counter</strong>, the second ticket must also be booked at a counter.</p></li><li><p>If the first ticket is booked through <strong>IRCTC website or app</strong>, the return ticket must also be booked online through the same platform.</p></li><li><p>The discount will apply only when both tickets are linked as a <strong>round trip</strong>.</p></li></ul><pre>This means, for example, if Ramesh books a ticket from Delhi to Patna on 15 October through IRCTC, and then books a return ticket from Patna to Delhi on 25 November using IRCTC again, he will get a 20% discount on the return journey.</pre><h4>Who Will Benefit the Most?</h4><p>This scheme is designed mainly for people who:</p><ul><li><p>Travel from metro cities to their hometowns during Diwali and return after the festival.</p></li><li><p>Plan their journeys well in advance instead of waiting until the last minute.</p></li><li><p>Prefer confirmed tickets and want to avoid the stress of RAC or waiting lists.</p></li></ul><h4>For example:</h4><ul><li><p>A student from Lucknow studying in Pune can book her onward ticket in October and return ticket in November. She will save 20% on the return fare.</p></li><li><p>A family living in Delhi but originally from Kolkata can save thousands of rupees if they book both trips early.</p></li></ul><pre>Since many Indians travel in groups families, friends, or even entire communities this discount can bring significant savings when multiple tickets are booked together.</pre><h4>Why It Matters During Diwali</h4><p>Diwali is not just a festival of lights; it is also the time when families reunite. People working away from home look forward to this season the most. Train travel is the most affordable option for long-distance journeys in India. However, due to demand, tickets are often sold out within minutes of opening.</p><p>With this new scheme, Indian Railways is not only offering <strong>financial relief</strong> but also giving passengers a reason to plan smarter. Instead of buying just a one-way ticket and worrying about return availability later, travelers can secure both tickets together and also enjoy savings.</p><h4>How to Use the Scheme</h4><p>If you are planning to travel this Diwali, here’s how you can make the best use of this offer:</p><ol><li><p><strong>Plan early</strong> – The discount window for onward journeys is only between 13 and 26 October.</p></li><li><p><strong>Book smartly</strong> – Use the IRCTC app or website for a smooth booking process. The online platform also allows you to use digital wallets, UPI, and cards.</p></li><li><p><strong>Check connecting journey option</strong> – While booking, ensure you select the round-trip/connecting journey option. This is necessary to apply the discount.</p></li><li><p><strong>Travel with confirmed tickets only</strong> – Remember, RAC and waiting list passengers cannot use this offer.</p></li><li><p><strong>Keep ID proof handy</strong> – Since tickets must be booked in the same name, passengers must carry valid ID proof while traveling.</p></li></ol><h4>Example of Savings</h4><p>Suppose you are booking a Delhi to Patna ticket in AC 3-tier for Diwali. The one-way fare is ₹1,500.</p><ul><li><p>Normal onward journey (Delhi → Patna) = ₹1,500</p></li><li><p>Normal return journey (Patna → Delhi) = ₹1,500</p></li><li><p>Total = ₹3,000</p></li></ul><p>With the scheme:</p><ul><li><p>Onward journey = ₹1,500 (no discount)</p></li><li><p>Return journey = ₹1,500 – 20% discount = ₹1,200</p></li><li><p>Total = ₹2,700</p></li></ul><p><strong> </strong></p><p><strong>You save ₹300 on just one round trip.</strong> For a family of 4, this means a saving of ₹1,200, which can cover food or gifts during the journey.</p><h4>Passenger Reactions (Expected)</h4><p>Although the scheme has just been announced, it is likely to be welcomed by passengers. Regular travelers have often demanded some relief from high fares during festival rush. A 20% discount may not sound huge at first, but for large families or long-distance journeys, it can make a big difference.</p><p>Moreover, the psychological comfort of having both tickets confirmed well in advance will reduce travel stress.</p><h4>The Bigger Picture</h4><p>If successful, this scheme could pave the way for more innovative ticketing policies by Indian Railways. In the future, we might see similar offers during other festivals like Holi, Eid, Durga Puja, and Christmas. Railways could also introduce loyalty points for frequent travelers, similar to airlines.</p><p>It also highlights a broader change: Indian Railways is becoming more <strong>customer-friendly</strong>. For decades, passengers had little choice but to stand in long queues or rely on tatkal. Today, with digital tools and schemes like this, traveling by train is becoming easier and smarter.</p><h4>What This Means for Festive Travellers</h4><p>The <strong>20% discount on return tickets</strong> is a thoughtful Diwali gift from Indian Railways to millions of passengers. It not only helps people save money but also encourages early planning, reduces crowd pressure, and makes festive journeys more enjoyable.</p><p>So, if you are planning to travel home this Diwali, mark your calendar:</p><ul><li><p>Book your onward journey between <strong>13–26 October 2025</strong>.</p></li><li><p>Book your return journey between <strong>17 November–1 December 2025</strong>.</p></li></ul><p>By doing so, you will travel stress-free, save on fares, and make your Diwali celebrations even brighter.</p><pre>Wish you happy journey and Happy Diwali</pre>
+Indian Railways ran an experimental **Round Trip Package for Festival Rush** in 2025, giving a **20 percent rebate on the base fare of the return journey** when passengers booked confirmed tickets both ways. The Railway Board issued the circular on 8 August 2025 and bookings opened on 14 August. The offer covered onward trains starting between 13 and 26 October 2025 and return trains starting between 17 November and 1 December 2025, around Diwali, Chhath and the weeks after.
+
+| Item | Detail |
+|---|---|
+| Circular date | 8 August 2025 |
+| Booking opened | 14 August 2025 |
+| Onward travel window | Trains starting 13 to 26 October 2025 |
+| Return travel window | Trains starting 17 November to 1 December 2025 |
+| Discount | 20% of the base fare of the return ticket only |
+| Refund | Not allowed |
+
+## Update (21 November 2026)
+
+The 2025 trial ended with the last return trains on 1 December 2025. None of the reports we checked describe an extension or a repeat of the package for the 2026 festival season, so treat this as a closed pilot. If Railways repeats it, the official announcement will come through the Ministry of Railways and IRCTC, so check those before you plan around a discount.
+
+## What Exactly Was Discounted
+
+This is the point many early reports got wrong. The rebate applied only to the **base fare of the return leg**. It did not reduce the onward ticket, and it did not cut reservation charges, superfast charges or GST. Passengers first booked the onward ticket, then booked the return using the "connecting journey" feature. The normal advance reservation period limit did not apply to the return booking, so it could be made at the same time.
+
+## Conditions You Had to Meet
+
+According to <a href="https://www.business-standard.com/india-news/festival-bonanza-railways-offers-20-rebate-on-confirmed-return-tickets-125080900475_1.html" target="_blank" rel="noopener">Business Standard</a> and <a href="https://www.businesstoday.in/personal-finance/news/story/indian-railways-launches-experimental-round-trip-package-with-20-discount-for-festival-season-travel-488705-2025-08-09" target="_blank" rel="noopener">Business Today</a>, the package had strict rules:
+
+- **Same passengers** on both legs, with matching details.
+- **Same class** and the **same origin and destination pair** both ways.
+- **Both tickets confirmed.** Waitlisted tickets did not qualify.
+- **Same booking mode** for both legs, either online or at a reservation counter.
+- **No refunds** and **no changes** once booked.
+- **No other concessions**, and rail travel coupons, vouchers and passes could not be used for the return leg.
+- **All classes and all trains** were covered, including special trains, but **trains with flexi fare** were excluded.
+
+If any extra fare arose at charting for these tickets, it was not collected from the passenger.
+
+## How Much a Family Could Save
+
+Because the rebate was 20 percent of the return base fare only, the saving depends on your base fare. Here is how the maths works for a sample case. The base fares below are illustrations, not actual fares for any route:
+
+| Return base fare per person | 20% rebate | Family of four saves |
+|---|---|---|
+| Rs 500 | Rs 100 | Rs 400 |
+| Rs 1,000 | Rs 200 | Rs 800 |
+| Rs 2,000 | Rs 400 | Rs 1,600 |
+
+The trade-off was flexibility. With no refund and no changes allowed, a family that had to cancel lost the whole fare. For people with fixed leave dates, the saving was worth it. For anyone unsure of their return date, a normal ticket was the safer choice.
+
+## Why Railways Tried This
+
+The <a href="https://www.tribuneindia.com/news/india/rlys-announces-festival-return-fare-discount" target="_blank" rel="noopener">Tribune</a> reported that the scheme was cleared by the Railways' finance directorate to spread peak demand over a longer period. Business Today reported the goal of better occupancy in both directions. By rewarding people who travelled back in the second half of November instead of the peak days, Railways hoped to fill trains both ways. The ministry said the aim was to avoid peak season congestion and make booking easier, and zonal railways were told to publicise the package at stations and in the media.
+
+## Round Trip Package: Common Questions
+
+**Was the 20% discount on the total ticket price?**
+No. It applied only to the base fare of the return journey, not to the onward ticket or to other charges.
+
+**Could waitlisted tickets get the Round Trip Package discount?**
+No. Both the onward and return tickets had to be confirmed.
+
+**Could I cancel a ticket booked under the package?**
+No refunds or modifications were allowed for tickets booked under the scheme.
+
+**Is the Round Trip Package available in 2026?**
+The reports we checked cover only the 2025 trial, which ended on 1 December 2025. Check Ministry of Railways or IRCTC announcements for any new offer.
+
+*This article is general information about a government scheme, not professional advice. Always confirm current rules on official railway channels before booking.*

@@ -1,20 +1,84 @@
 ---
-title: "OnePlus OxygenOS 16 Launch : Big Update for OnePlus Users"
+title: "OxygenOS 16 Update: Eligible OnePlus Phones, Rollout and Features"
 slug: "oneplus-oxygenos-16-launch"
-description: "Oneplus OxygenOS 16 is here! Check new features, rollout timeline, and the full list of OnePlus phones eligible for the Android 16 update"
+description: "OxygenOS 16, based on Android 16, launched on 16 October 2025. See which OnePlus phones and tablets got it, the rollout order, key features and how to install."
 date: 2025-10-18T01:39:26+05:30
+updated: 2026-11-21T21:30:00+05:30
 category: "Technology"
-tags: ["one plus", "OxygenOS 16", "smart phone"]
-keywords: "OnePlus OxygenOS"
+tags: ["OnePlus", "OxygenOS 16", "Android 16", "software update", "smart phone"]
+keywords: "OxygenOS 16, OxygenOS 16 eligible devices, OnePlus Android 16 update, OxygenOS 16 features"
 image: "/wp-content/uploads/2025/10/OnePlus-OxygenOS-16.webp"
 imageAlt: "OnePlus OxygenOS 16"
 author: "Editorial Staff"
+sources:
+  - name: "Android Authority: OnePlus OxygenOS 16 rollout schedule, 16 Oct 2025"
+    url: "https://www.androidauthority.com/oneplus-phone-oxygenos-16-rollout-schedule-3607975"
+  - name: "Digit: OxygenOS 16 launched globally, eligible devices and features, 16 Oct 2025"
+    url: "https://www.digit.in/news/mobile-phones/oxygenos-16-launched-globally-eligible-devices-new-features-how-to-download-and-more.html"
+  - name: "Gizmochina: OxygenOS 16 update is available for these OnePlus devices, 1 Jan 2026"
+    url: "https://www.gizmochina.com/2026/01/01/oxygenos-16-update-is-available-for-these-oneplus-devices/"
+  - name: "91mobiles: OxygenOS 16 update roundup, timeline, eligible phones and features"
+    url: "https://www.91mobiles.com/hub/oxygenos-16-update-roundup-release-timeline-eligible-phones-features/"
 ---
 
-<h2>OnePlus Unveils OxygenOS 16: Check If Your Phone Is on the Eligible List</h2>		<p><a href="https://www.oneplus.in/" target="_blank" rel="noopener">OnePlus</a> OxygenOS 16 is here. One Plus has officially announced <strong>OxygenOS 16</strong>, its latest Android skin built on <strong>Android 16</strong>. Packed with a fresh design, powerful customization options, and a smoother overall experience, this is one of the most anticipated software rollouts from OnePlus in recent years.</p><p>If you are wondering what’s new in this <a href="https://topabcnews.com/technology/" target="_blank" rel="noopener">technology</a>, when the update will arrive, and whether your device is eligible, here’s a complete guide to <strong><a href="https://www.oneplus.in/oxygenos16" target="_blank" rel="noopener">OxygenOS 16 features</a>, rollout schedule, and eligible devices</strong>.</p>										<figure>
-<img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2025/10/Oneplus-oxygenos16-rollout-1024x576.webp" alt="Oneplus oxygenos16 rollout" />											<figcaption>Image Credit: One Plus</figcaption>
-</figure>
-<h3>OxygenOS 16 Features: What’s New for OnePlus Users</h3><p>The OnePlus OxygenOS 16 update introduces two new design philosophies: <strong>“Breathe With You”</strong> and <strong>“Thrive With Free Expression.”</strong></p><ul><li><p><strong>Breathe With You</strong> brings in visual upgrades, making the operating system look cleaner, lighter, and more modern. It’s focused on making the daily user experience smoother and more refreshing.</p></li><li><p><strong>Thrive With Free Expression</strong> caters to users who love personalization. With OxygenOS 16, you get more control over themes, wallpapers, and layout customizations so your phone reflects your own style.</p></li></ul><p> </p><p>OnePlus has also taken inspiration from <strong>iOS 26</strong> by introducing <strong>Gaussian blur effects</strong> across the interface. This creates what the company calls a <strong>“Liquid Glass” look</strong>, making menus and apps appear more polished.</p><p>For example, the <strong>home screen search bar, app drawer, recents screen, and Photos app</strong> all now feature translucent design elements. The Photos app, in particular, has a redesigned floating bottom bar that looks very similar to Apple’s iOS, but with OnePlus’s own twist.</p><p>In addition, Google’s <strong>Material 3 Expressive treatment</strong> adds more dynamic colors that adapt to your wallpapers, giving the entire interface a more personalized and vibrant feel.</p><h3>OxygenOS 16 Rollout Timeline: When Will You Get It?</h3><p>Like most major Android updates, the OnePlus <strong>OxygenOS 16 rollout timeline</strong> will follow a phased approach. OnePlus has confirmed that the update will start rolling out in <strong>November 2025</strong>.</p><p>The first device to receive OxygenOS 16 will be the company’s newest flagship, the <strong>OnePlus 13</strong>. From there, the update will gradually expand to other eligible phones in batches over the following months.</p><p>This means that not everyone will receive the update at the same time. Depending on your device model and region, the wait may stretch into early 2026. If you don’t see the update notification immediately, don’t worry—OnePlus has promised a steady rollout.</p><h2>OxygenOS 16 Eligible Devices: Full List</h2><p>OnePlus has officially shared the <strong>OxygenOS 16 eligible devices list</strong>, which includes its latest flagships as well as several popular older models.</p><p>The rollout will start with the <strong>OnePlus 13</strong>, but other devices in line to receive the update include:</p><ul><li><p><strong>OnePlus 12 series</strong></p></li><li><p><strong>OnePlus 11 series</strong></p></li><li><p><strong>OnePlus Nord models</strong> (selected mid-range phones)</p></li></ul><p> </p><p>If you are using a much older OnePlus phone, it may no longer qualify for the update. However, most users with devices from the last two to three years should expect to get OxygenOS 16.</p><p>This strategy aligns with OnePlus’s commitment to supporting its phones with at least three major Android updates. By keeping its promise, the company ensures that loyal users continue to enjoy the latest software innovations.</p>										<figure>
-<img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2025/10/OnePlusOS-16-rollout-schedule-1024x1024.webp" alt="OnePlusOS-16-rollout-schedule" />											<figcaption>Image Credit: One Plus</figcaption>
-</figure>
-<h3>Why OxygenOS 16 Is a Big Deal</h3><p>For many OnePlus users, <strong>OxygenOS is the main reason they stick with the brand</strong>. Known for its speed, fluidity, and bloat-free experience, OxygenOS has been a fan favorite since its early days.</p><p>However, in recent years, some fans felt that the brand had drifted away from its original clean and simple philosophy. With OxygenOS 16, OnePlus seems determined to strike a balance. The update retains the core strengths of the operating system while layering on modern design cues and fresh customization options.</p><p>The new <strong>Liquid Glass visuals</strong>, combined with <strong>Material 3 Expressive features</strong>, make the system look premium and current. Add in smoother animations, improved performance, and smarter multitasking, and OxygenOS 16 feels like a major step forward.</p><h3>OxygenOS 16 vs Older Versions</h3><p>At first glance, OxygenOS 16 may look similar to OxygenOS 15. But side by side, the differences are clear. OxygenOS 16 brings:</p><ul><li><p>A more polished and modern design thanks to Gaussian blur.</p></li><li><p>Smarter personalization with dynamic system colors.</p></li><li><p>A refreshed Photos app with a floating iOS-style bottom bar.</p></li><li><p>Better animations and smoother transitions across the UI.</p></li></ul><p> </p><p>This shows that while OnePlus hasn’t completely reinvented the wheel, it has refined the formula in a way that makes everyday usage more enjoyable.</p><h3>OnePlus OxygenOS 16 and the Competition</h3><p>With this update, OnePlus is also making a statement in the broader Android world. Rivals like Samsung’s <strong>One UI</strong> and Google’s <strong>Pixel UI</strong> have been pushing forward with their own software innovations. OxygenOS 16 positions OnePlus as a serious contender by combining speed, elegance, and flexibility.</p><p>For users, this means you no longer have to choose between a smooth experience and heavy customization you can have both.</p>
+OnePlus unveiled **OxygenOS 16**, its Android 16 based software, on **16 October 2025**. The stable rollout began in November 2025 with the OnePlus 13 and 12 series, the OnePlus Open and the Pad 3 and Pad 2, then reached the OnePlus 11 series and several Nord phones in December, and older models from January 2026. By early 2026 most current OnePlus phones had the update.
+
+| Rollout wave | Devices |
+|---|---|
+| November 2025 | OnePlus 13, 13R, 13s, 12, 12R, Open, Pad 3, Pad 2 |
+| December 2025 | OnePlus 11, 11R, Nord 5, Nord 4, Nord 3, Nord CE 5 |
+| January 2026 onwards | OnePlus 10 Pro, Nord CE 4, Nord CE 4 Lite, OnePlus Pad, Pad Lite |
+
+## Update (21 November 2026)
+
+The rollout is complete for the main eligible models. A Gizmochina roundup on 1 January 2026 said several devices received the update earlier than the official timeline, including the OnePlus Open, 13 series, 12 series, 11 series, Nord 5, Nord 4, Nord 3, Nord CE 5, Pad 3 and Pad 2. The <a href="https://www.91mobiles.com/hub/oxygenos-16-update-roundup-release-timeline-eligible-phones-features/" target="_blank" rel="noopener">91mobiles tracker</a>, based on posts by OnePlus's OxygenOS team on the OnePlus Community forum, also lists the OnePlus 10 Pro, Nord CE 4, Nord CE 4 Lite and the original OnePlus Pad as updated. The same tracker lists the newer OnePlus 15, 15R and Pad Go 2 on OxygenOS 16 as well. If your eligible phone still shows OxygenOS 15, check for updates manually using the steps below.
+
+## The Features That Change Daily Use
+
+OxygenOS 16 is more than a new version number. The changes most people will notice:
+
+- **New look:** smoother animations and light and shadow effects on the lock screen PIN pad, calculator, call screen and buttons. Photos and the app drawer use a soft blur effect.
+- **Flux Themes 2.0:** more large lock screen clock styles. Home screen icons now use OnePlus's own Flux icons that pick up wallpaper colours.
+- **Live Alerts:** live status chips now work with Google Maps directions, Blinkit order tracking and sports scores through the Google app.
+- **App drawer with categories:** a new view sorts apps into folders on its own, next to the usual All view.
+- **AI tools in one place:** a dedicated AI section in Settings, AI writing tools that work in any text box, and Photos tools such as AI Portrait Glow and AI Perfect Shot.
+- **Gemini with Mind Space:** Mind Space, where you save screenshots and notes, can now link with Google Gemini so you can ask about what you saved.
+- **Better phone and computer links:** the O+ Connect app on Windows and Mac can mirror screens both ways, and an Apple Watch can pair with a OnePlus phone for notifications and call alerts.
+
+According to <a href="https://www.androidauthority.com/oneplus-phone-oxygenos-16-rollout-schedule-3607975" target="_blank" rel="noopener">Android Authority</a>, OnePlus pitched the update around Gemini powered Mind Space, upgraded AI writing and recording tools, and fresh customisation options.
+
+## How to Install OxygenOS 16 Safely
+
+1. **Back up your phone** to Google or a computer. Large updates rarely fail, but backups cost nothing.
+2. **Free up storage.** Keep at least 5 to 6 GB free, since the download is several gigabytes.
+3. **Charge to at least 40 percent**, or keep the phone plugged in.
+4. Go to **Settings, then System and update, then Software update**.
+5. Tap **Download and install**, then **Restart now**. The first restart takes longer than usual.
+6. To confirm, open **Settings, then About device**. It should show OxygenOS 16.
+
+Updates arrive in batches over a few days, and timing varies by region and carrier, so do not worry if a friend with the same phone gets it first.
+
+## Can You Go Back to OxygenOS 15?
+
+Yes, OnePlus offers an official rollback package for each device through its Community forum guides. The catch is that rolling back wipes all data on the phone, so you must back up first. Most users will not need this, but it is useful if a key app misbehaves after the update.
+
+## Which Phones Get Their Last Big Update
+
+<a href="https://www.digit.in/news/mobile-phones/oxygenos-16-launched-globally-eligible-devices-new-features-how-to-download-and-more.html" target="_blank" rel="noopener">Digit</a> noted at launch that the Nord CE 4, Nord CE 4 Lite and Nord 3 might get OxygenOS 16 as their final major Android upgrade. If you own one of these, it is worth installing for the newer security patches, but plan on security updates rather than new features from here on.
+
+## What Users Have Complained About
+
+The update is not perfect. 91mobiles found that Do Not Disturb did not always block notifications properly in its testing. Some users also prefer Google's Material icon theming, which the new Flux icons replace on the home screen. In dark mode, icon backgrounds turn grey, which divides opinion.
+
+Software support also matters when choosing a new phone. If you are comparing brands, our look at the <a href="/samsung-galaxy-a56-5g-big-screen-long-battery/">Samsung Galaxy A56 5G</a> covers another mid-range option.
+
+## OxygenOS 16: Common Questions
+
+**Is my OnePlus phone eligible for OxygenOS 16?**
+The OnePlus 13, 12, 11 and Open series, the 10 Pro, Nord 5, Nord 4, Nord 3, Nord CE 5, Nord CE 4, Nord CE 4 Lite and the OnePlus Pad models are on the eligible list.
+
+**How do I check for the OxygenOS 16 update?**
+Open Settings, then System and update, then Software update. If it is not there, wait a few days, since OnePlus releases it in batches.
+
+**How much space does OxygenOS 16 need?**
+Keep at least 5 to 6 GB free and at least 40 percent battery before installing.

@@ -1,28 +1,91 @@
 ---
-title: "Ather 450 Apex: India’s Fastest E-Scooter Gets Even Smarter"
+title: "Ather 450 Apex Price, Range and Cruise Control vs 450X and 450S"
 slug: "ather-450-apex-indias-fastest-e-scooter"
-description: "Ather 450 Apex, India’s fastest electric scooter, packs a 7kW motor, 100km/h top speed, 157km range, Infinite Cruise control, and premium design. Price starts at ₹1.90 lakh"
+description: "Ather 450 Apex costs about Rs 1.95 lakh ex-showroom with a 7kW motor, 100 kph top speed and Infinite Cruise. See how it compares with the 450X and 450S."
 date: 2025-09-09T03:49:57+05:30
+updated: 2026-11-21T21:30:00+05:30
 category: "Automobile"
-tags: ["Ather 450 Apex", "Ather Apex", "Ather New 450 Apex", "bikes"]
-keywords: "Ather 450 Apex"
+tags: ["Ather 450 Apex", "Ather 450X", "electric scooter", "Infinite Cruise", "EV"]
+keywords: "Ather 450 Apex, Ather 450 Apex price, Ather 450 Apex range, Ather 450 Apex vs 450X"
 image: "/wp-content/uploads/2025/09/Apex-Ather-450.webp"
 imageAlt: "Apex Ather 450"
 author: "Editorial Staff"
+sources:
+  - name: "Autocar India: Ather 450 Apex gets cruise control, 1 Sep 2025"
+    url: "https://www.autocarindia.com/bike-news/ather-450-apex-gets-cruise-control-436951"
+  - name: "Autocar India: Ather 450S vs 450X vs Apex variants, range and price explained, 3 Sep 2025"
+    url: "https://www.autocarindia.com/auto-features/ather-450s-450x-apex-variants-range-and-price-explained-429005"
+  - name: "Autocar India: Ather 450 Apex price and specifications page, updated 25 Sep 2026"
+    url: "https://www.autocarindia.com/bikes/ather/450-apex"
+  - name: "Autocar India: Ather 450 Apex review, 30 Nov 2025"
+    url: "https://www.autocarindia.com/bike-reviews/ather-450-apex-indias-most-fun-ev-scooter-439416"
 ---
 
-<h4>Ather 450 Apex: India’s Fastest E-Scooter Gets Even Smarter</h4>		<p>In <a href="https://topabcnews.com/category/automobile/">automobile</a> sector, Ather Energy reaffirmed its reputation for innovation with updates to the <strong>450 Apex</strong>, its high performance electric scooter. Alongside the original design features, </p><p><a href="https://www.atherenergy.com/apex" target="_blank" rel="noopener">Ather</a> has rolled out a sophisticated cruise control system named <strong>Infinite Cruise </strong>that increases everyday usability without sacrificing the thrills for which the Apex is known.</p>			<h4>Pricing &amp; Availability</h4>		<ul><li><p>Originally launched at an ex-showroom price of approximately <strong>₹1.90 lakh</strong>, the Apex remains one of Ather’s most premium offerings.</p></li><li><p>Delhi on-road pricing is around <strong>₹1.96 lakh</strong>.</p></li><li><p>Bangalore listings show ex-showroom prices ranging between <strong>₹1.84 lakh to ₹1.89 lakh</strong>, depending on the source</p></li></ul>
-<figure>
-<blockquote>
-<p>The prices given above are based on the market research. Please contact local dealer or distributor to get the accurate information and offer schemes.</p>
-</blockquote>
-<figcaption>
-<p><cite><br>
-Editorial Staff<br>
-</cite></p>
-</figcaption>
-</figure>
-<figure>
-<img loading="lazy" width="1024" height="683" src="/wp-content/uploads/2025/09/Ather-Apex-450-Launch-1024x683.webp" alt="Ather Apex 450 Launch" />											<figcaption>Ather 450 Apex is here</figcaption>
-</figure>
-<h4>Ather 450 Apex Performance</h4>		<ul><li><p>The 450 Apex boasts a <strong>7 kW electric motor</strong> coupled with a <strong>3.7 kWh battery</strong>, enabling a <strong>top speed of 100 km/h, </strong>a notch above the 90 km/h of the 450X.</p></li><li><p>Acceleration is exhilarating: <strong>0–40 km/h</strong> in just <strong>2.9 seconds</strong>, thanks to enhanced drive-controller algorithms.</p></li><li><p>Ather claims an IDC-certified range of <strong>157 km</strong> per full charge, with Warp Plus mode sustaining real-world ranges of approx. <strong>75 km</strong>, while <strong>Smart Eco</strong> mode can stretch that to around <strong>110 km</strong>.</p></li><li><p>Charging takes <strong>5 hours 45 minutes</strong> at home and about <strong>1 km/min</strong> at Ather’s Grid fast-charging stations</p></li></ul><p><br />The standout new feature, <strong>Infinite Cruise</strong>, now brings cruise control across <strong>all speed ranges</strong>, kicking in from as low as <strong>10 km/h</strong>. Impressively, it automatically <strong>pauses in stop-and-go traffic</strong> and restarts when you start moving again. Additionally included are <strong>Hill Control</strong> (for climbs and descents) and <strong>Crawl Control</strong>, allowing steady cruising even off-road at speeds up to <strong>10 km/h</strong></p>													<img loading="lazy" width="1024" height="683" src="/wp-content/uploads/2025/09/Ather-Apex-450-Price-1024x683.webp" alt="Ather 450 Apex" />																<h4>Design &amp; Technical Highlights</h4>		<ul><li><p>Sporting a unique <strong>Indium/Edium Blue matte finish</strong> with <strong>bright orange accents</strong>, the Apex includes <strong>transparent side panels <b>which </b></strong>offering a peek at the aluminum subframe beneath.</p></li><li><p>A well appointed 7 inch <strong>TFT touchscreen</strong> offers Google Maps, call and music control, and notifications right on the dash </p></li><li><p>Features include traction control (with Rain, Road, and Rally modes), <strong>Magic Twist</strong> regenerative braking, auto-cancelling indicators, parking assist, coasting regen, Emergency Stop Signal (ESS), and a 22-litre under-seat storage compartment</p></li></ul>			<h4>Comparision of Ather 450 Apex and the Ather 450X</h4>		<table><thead><tr><th><strong>Specification</strong></th><th><strong>Ather 450 Apex</strong></th><th><strong>Ather 450X</strong></th></tr></thead><tbody><tr><td><strong>Ex-Showroom Price</strong></td><td>Around ₹1.85–1.90 Lakh </td><td>Around ₹1.50–1.55 Lakh </td></tr><tr><td><strong>Certified Range (IDC/ARAI)</strong></td><td>157 km/charge </td><td>126 km/charge (some sources up to 161 km) </td></tr><tr><td><strong>Top Speed</strong></td><td>100 km/h </td><td>~90 km/h </td></tr><tr><td><strong>Motor Power</strong></td><td>7 kW peak, PMSM </td><td>~6.4 kW (source variations) </td></tr><tr><td><strong>Charging Time (0–100%)</strong></td><td>~5 h 45 min </td><td>~4 h 15–4 h 30 min (varied reports)</td></tr><tr><td><strong>0–40 km/h Acceleration</strong></td><td>2.9 s </td><td>~3.3 s </td></tr><tr><td><strong>Kerb Weight</strong></td><td>111.6 kg </td><td>~108 kg </td></tr><tr><td><strong>Colours &amp; Variants</strong></td><td>Single Indium Blue with orange accents </td><td>Multiple colours and variants (4 variants) </td></tr><tr><td><strong>User Rating</strong></td><td>Around 4.9/5 </td><td>Around 4.6/5 </td></tr><tr><td><strong>Shared Features</strong></td><td>Airtight tech, 7ʺ touchscreen, Ather Stack UI, traction control, regenerative braking, 22 L storage </td><td>Same core UI tech and features, differing mainly in performance specs </td></tr></tbody></table><p>The Ather 450 Apex lives up to its billing as the fastest and most premium scooter in Ather’s lineup. With <strong>Infinite Cruise</strong> and all those polished ride aids, it's not just a performance model, it’s also a daily commuter’s dream. </p><p>While the elevated price may deter cost-conscious riders, those looking for a head-turning ride with tech edge and urban convenience will find the 450 Apex well worth its premium.</p>			<h4>Ather 450 Apex at a Glance</h4>		<table><thead><tr><th><strong>Model</strong></th><th><strong>Summary Insight</strong></th></tr></thead><tbody><tr><td><strong>Ather 450 Apex</strong></td><td>Positioned as a premium, high performance variant with a stronger motor, higher top speed, greater range, and sharper acceleration ideal for riders seeking a sportier electric scooter.</td></tr><tr><td><strong>Ather 450X</strong></td><td>Offers a balanced mix of performance with broader variant and color options, making it more accessible and versatile for diverse customer preferences.</td></tr><tr><td><strong>Both Models</strong></td><td>Share advanced features like the intuitive 7-inch TFT dashboard, OTA updates, smartphone integration, traction control, and regenerative braking—ensuring a rich tech experience across the lineup.</td></tr></tbody></table>
+The Ather 450 Apex is the quickest scooter in Ather's range. It uses a 7 kW motor with 26 Nm of torque, reaches 100 kph and runs from a 3.7 kWh battery. In September 2025 Ather added a cruise control system called Infinite Cruise, available only on the Apex. The scooter now sells in a single Standard variant at about **Rs 1.95 lakh ex-showroom**, according to <a href="https://www.autocarindia.com/bikes/ather/450-apex" target="_blank" rel="noopener">Autocar India's price page</a> (updated September 2026), with an on-road price of about Rs 2.11 lakh in Delhi.
+
+| Spec | Ather 450 Apex |
+|---|---|
+| Ex-showroom price (2026) | About Rs 1.95 lakh |
+| Motor | 7 kW peak, 26 Nm |
+| Top speed | 100 kph |
+| 0 to 40 kph | 2.9 seconds |
+| Battery | 3.7 kWh |
+| Claimed IDC range | 157 km |
+| Battery warranty | 5 years / 60,000 km |
+
+## Update (21 November 2026)
+
+When this post was first written in September 2025, the Apex was quoted at Rs 1.85 lakh to Rs 1.89 lakh ex-showroom. Autocar's review in November 2025 listed Rs 1.90 lakh (Bengaluru). The 2026 figure of about Rs 1.95 lakh shows a steady rise of roughly Rs 5,000 to Rs 10,000 over a year. Prices vary by city and state subsidy, so confirm with a dealer before booking.
+
+## How Infinite Cruise Works
+
+Ather announced the system at its Community Day in September 2025 and pushed it to existing 2025 Apex owners as an over-the-air update. It has three parts:
+
+- **CityCruise:** works from as low as 10 kph and stays on when you brake or change speed, adjusting to the new pace instead of switching off.
+- **Hill Control:** manages torque on climbs and uses regenerative braking on descents to hold a steady speed.
+- **Crawl Control:** holds about 10 kph on broken roads, working with traction control.
+
+In <a href="https://www.autocarindia.com/bike-reviews/ather-450-apex-indias-most-fun-ev-scooter-439416" target="_blank" rel="noopener">its road test</a>, Autocar found the system works between 10 and 90 kph and is switched on with the reverse button once the scooter is moving. The reviewer said it worked very well in stop and go traffic.
+
+## Apex vs 450X vs 450S: What the Extra Money Buys
+
+Here is how the range stacked up in Autocar's September 2025 comparison. Prices are ex-showroom from that date and have moved a little since, but the gaps are a fair guide.
+
+| Model | Price (Sep 2025) | Motor | Top speed | 0 to 40 kph | Real range (eco) |
+|---|---|---|---|---|---|
+| 450S 2.9 kWh | Rs 1.31 lakh | 5.4 kW / 22 Nm | 90 kph | n/a | About 105 km |
+| 450S 3.7 kWh | Rs 1.46 lakh | 5.4 kW / 22 Nm | 90 kph | 3.9 s | About 130 km |
+| 450X 2.9 kWh | Rs 1.48 lakh | 5.4 kW / 22 Nm | 90 kph | n/a | About 105 km |
+| 450X 3.7 kWh | Rs 1.58 lakh | 5.4 kW / 22 Nm | 90 kph | n/a | About 130 km |
+| 450 Apex | Rs 1.85 lakh | 7 kW / 26 Nm | 100 kph | 2.9 s | About 130 km |
+
+So for about Rs 27,000 more than a 450X 3.7 kWh in 2025, the Apex added 1.6 kW of power, 10 kph of top speed, a full second off the 0 to 40 sprint, the Warp+ mode and cruise control. Range in eco mode is about the same because the battery is the same size. In Warp+, Autocar's tester saw range fall much faster, with a real figure of about 80 km.
+
+In the same test, the Apex reached 80 kph in 11.59 seconds against 16.66 seconds for a 450X, which shows the difference is not only on paper.
+
+## Practical Details Buyers Ask About
+
+- **Charging:** 0 to 80 percent takes about 4 hours 30 minutes on the home charger. Ather Grid fast chargers add up to about 30 km of range in 10 minutes.
+- **Warranty:** 5 years or 60,000 km on the battery and 3 years or 30,000 km on the vehicle. An extended 8 year or 80,000 km battery cover costs Rs 4,999.
+- **Storage:** 22 litres under the seat.
+- **Brakes:** discs at both ends with combined braking, but no ABS. Autocar noted the rear can lock under hard braking.
+- **Weight and height:** 111.6 kg kerb weight and a 780 mm seat.
+- **Colour:** only Indium Blue, with transparent side panels and orange wheels.
+
+## Who Should Pick the Apex
+
+The Apex makes sense for riders who want the fastest Ather and use highways or long flyovers where cruise control helps. If you ride mostly in the city at moderate speed, a 450X 3.7 kWh gives similar real range for less money. If budget is the main concern, look at petrol scooters too, such as the <a href="/honda-dio-acg-2025-rs-79375-91173/">Honda Dio</a>, though running costs will differ.
+
+## Ather 450 Apex: Common Questions
+
+**What is the price of the Ather 450 Apex?**
+About Rs 1.95 lakh ex-showroom and about Rs 2.11 lakh on-road in Delhi, according to Autocar India's September 2026 listing.
+
+**What is the real range of the Ather 450 Apex?**
+The claimed IDC range is 157 km. Autocar India estimates about 130 km in SmartEco and around 80 km in Warp+.
+
+**Does the Ather 450 Apex have ABS?**
+No. It has front and rear disc brakes with a combined braking system but no ABS.
+
+**Is cruise control available on the Ather 450X?**
+At launch, Infinite Cruise was exclusive to the 450 Apex, delivered by an over-the-air software update.

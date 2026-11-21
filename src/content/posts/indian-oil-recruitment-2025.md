@@ -1,19 +1,101 @@
 ---
-title: "Indian Oil Recruitment 2025: Engineers Invited to Apply"
+title: "IOCL Engineer Recruitment 2025: Result Out, 2026 Cycle Explained"
 slug: "indian-oil-recruitment-2025"
-description: "Indian Oil Recruitment 2025 is open for Graduate Engineers in Chemical, Electrical, and Instrumentation fields. Apply online before 21 September 2025."
+description: "IOCL Grade A Engineer/Officer 2025: eligibility, age limit, fee, CBT pattern, cut-offs and result. Plus the 2026 Executives CBT timeline and score check."
 date: 2025-09-10T14:50:25+05:30
+updated: 2026-11-21T21:30:00+05:30
 category: "Education"
-tags: ["indian oil", "job", "recruitment"]
-keywords: "Indian Oil Recruitment"
+tags: ["indian oil", "IOCL recruitment", "IOCL engineer", "PSU jobs", "recruitment"]
+keywords: "IOCL recruitment 2025, IOCL engineer result, IOCL Grade A eligibility, IOCL recruitment 2026"
 image: "/wp-content/uploads/2025/09/Indian-Oil-Recruitment.webp"
 imageAlt: "Indian Oil Recruitment"
 author: "Editorial Staff"
+sources:
+  - name: "IOCL detailed advertisement, Engineers/Officers through CBT 2025 (IOCL/CO-HR/RECTT/2025/01), 5 Sep 2025"
+    url: "https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/e194f6f5c54946ada0fb07d3dab37133.pdf"
+  - name: "IOCL Latest Job Openings page"
+    url: "https://iocl.com/latest-job-opening"
+  - name: "Free Press Journal: IOCL JE Result 2025 declared, 22 Dec 2025"
+    url: "https://www.freepressjournal.in/education/iocl-je-result-2025-declared-heres-how-to-download"
+  - name: "Scroll: IOCL Grade A recruitment 2025, apply till September 21, 10 Sep 2025"
+    url: "https://scroll.in/announcements/1086426/scroll_in"
 ---
 
-<p>Indian Oil Corporation Limited (IOCL), India’s largest government owned oil company, has opened applications for <strong>Graduate Engineers and Officers (Grade A)</strong>. Please read the <a href="https://topabcnews.com/category/education/" target="_blank" rel="noopener">educational </a>information for Indian Oil Recruitment carefully before applying.</p><p>This is one of the most awaited opportunities for engineering graduates in the country, as IOCL is not only a “Maharatna” company but also one of the Fortune Global 500 firms. Working here means security, growth, and a chance to contribute to India’s energy sector.</p><p>Applications began on <strong>5 September 2025</strong> and will close on <strong>21 September 2025</strong>. Interested candidates must apply online through the official website. </p><p>The company has also provided a direct application link: <a href="https://ibpsonline.ibps.in/iocljun25/?utm_source=chatgpt.com" target="_new" rel="noopener">https://ibpsonline.ibps.in/iocljun25/</a>.</p>								<a href="https://ibpsonline.ibps.in/iocljun25/uploads/loadpdf.php?file=k7m5p+fQ15exyc7fy97TnJ6V2sm0cN7Yk6ed13A=&#038;t=zbfErOXWx9yxydnmj9nJ0A==#toolbar=0&#038;navpanes=0">
-<p>IMPORTANT POINTS TO BE NOTED<br>
-</a><br>
-<a href="https://ibpsonline.ibps.in/iocljun25/" target="_blank"><br>
-<img loading="lazy" width="1002" height="561" src="/wp-content/uploads/2025/09/IOCL-Recruitment-2025.png" alt="IOCL Recruitment 2025" />								</a></p>
-<h4>Importance of this recruitment</h4><p>Every year thousands of engineering graduates look forward to Indian Oil’s recruitment drive. IOCL is pioneer in energy sector with operations in oil, gas, petrochemicals, and clean energy. Joining the organization means not only a stable career but also working on projects that power the nation.</p><p>For young engineers, this opportunity is valuable because the recruitment process is transparent, the job profile is respected, and the salary and benefits are competitive compared to many other government and private jobs.</p><h4>Important dates to remember</h4><p>For students and working professionals planning to apply, keeping track of these dates is crucial so that no deadline is missed.</p><table><thead><tr><th>Event</th><th>Date</th></tr></thead><tbody><tr><td>Application start</td><td>5 September 2025</td></tr><tr><td>Last date to apply</td><td>21 September 2025 (by 5 PM)</td></tr><tr><td>Admit card release</td><td>17 October 2025</td></tr><tr><td>Computer-Based Test (CBT)</td><td>31 October 2025</td></tr></tbody></table><h4>Who can apply for Indian Oil Recruitment?</h4><p>The eligibility criteria for Indian Oil Recruitment have been kept very clear. Candidates must have a <strong>full-time BE or B.Tech degree</strong> in Chemical, Electrical, or <a href="https://instrumentationblog.in/" target="_blank" rel="noopener">Instrumentation </a>engineering. Certain related fields such as Electrical &amp; Instrumentation and Petrochemical Technology are also accepted.</p><p>In terms of marks, general, EWS, and OBC-NCL candidates need at least <strong>65% marks</strong> in their degree, while SC, ST, and PwBD candidates need a minimum of <strong>55% marks</strong>.</p><p>Age is another important factor. The maximum age limit is <strong>26 years as of 1 July 2025</strong> for general and EWS candidates. Relaxations in age are available for reserved categories as per government rules.</p><p>This clear eligibility makes it easier for students to check quickly whether they can apply or not.</p><h4>The selection process</h4><p>The recruitment process for Indian Oil Recruitment will take place in multiple stages. The first stage is the <strong>Computer-Based Test (CBT)</strong>. It will be of 150 minutes duration and contain 100 questions. These will be divided into two parts: 50 questions from engineering subjects (domain knowledge) and 50 questions from general aptitude.</p><p>The aptitude section will include logical reasoning, verbal ability, and quantitative skills. To maintain fairness, there will be negative marking of 0.25 for each wrong answer.</p><p>Candidates who qualify in the CBT will be called for the next stages. These include a <strong>Group Discussion (GD)</strong> or Group Task (GT) and finally a <strong>Personal Interview (PI)</strong>.</p><p>According to the weightage system, most marks are given to the CBT, while GD/GT and PI carry smaller but important portions. This ensures that technical knowledge is the main deciding factor, but communication and personality are also tested.</p><h4>Application fees</h4><p>The application fee for General, OBC, and EWS candidates is <strong>₹500</strong> plus bank charges. For SC, ST, and PwBD candidates, the application fee has been waived off, which makes the process more inclusive.</p><h4>Salary and career benefits</h4><p>Indian Oil Recruitment salary package will be as below. Selected engineers will be placed in the pay scale of <strong>₹50,000 to ₹1,60,000 per month</strong>.</p><p>Along with the basic salary, employees also get allowances, performance-related pay, medical benefits, and retirement benefits. This means the total package can be very attractive, sometimes reaching up to <strong>₹1.77 lakh per month</strong>.</p><p>Apart from salary, the pride of working with IOCL is itself a strong reason. Engineers here get opportunities to work on large-scale projects, new energy initiatives, and advanced technologies. The company has a global presence and offers professional growth as well as stability.</p><h4>How to apply?</h4><p>Applying for Indian Oil Recruitment is simple but must be done carefully. Candidates need to go to the official IOCL website, visit the <strong>Latest Job Openings</strong> section under “Careers,” and select the notification for “Recruitment of Engineers/Officers (Grade A).”</p><p>The direct link provided is: <a href="https://ibpsonline.ibps.in/iocljun25/?utm_source=chatgpt.com" target="_new" rel="noopener">https://ibpsonline.ibps.in/iocljun25/</a>.</p><p>Once on the application page, candidates must register with their basic details, fill in the application form, upload their photograph, signature, and thumb impression as per the given size and format, and finally make the payment if required.</p><p>It is important to double-check all details before submission because incomplete or incorrect applications may get rejected.</p><p>After submitting the form, candidates should save the confirmation and take a printout for future reference.</p><h4>Why students should not miss this?</h4><p>Getting into IOCL means more than just a job. It’s a chance to work in one of the top energy companies in India. For fresh graduates, this can be the start of a rewarding career with great exposure. For those preparing for government and PSU exams, this is an excellent opportunity to apply their knowledge in a competitive yet fair selection process.</p><p>Also, IOCL has a strong reputation for employee welfare, professional training, and career development. Employees are encouraged to innovate and work on sustainable energy projects, which makes the work meaningful as well.</p><p>The IOCL Graduate Engineer Recruitment 2025 is a golden opportunity for young engineers to begin their professional journey with one of the most respected companies in the country. With applications closing on <strong>21 September 2025</strong>, time is limited. The exam date is already announced, so candidates have about six weeks to prepare for the CBT.</p><p>Those who are eligible should not wait until the last moment to apply. Early application ensures peace of mind and avoids last-minute website rush. At the same time, starting preparation now will give candidates enough confidence to face the test.</p><p>Indian Oil has always been a dream employer for engineers. This recruitment drive again opens doors for talented youth to join its workforce. If you are an engineering graduate in Chemical, Electrical, or Instrumentation fields, this is your chance. Don’t miss it.</p><p>Apply through the official link: <a href="https://ibpsonline.ibps.in/iocljun25/?utm_source=chatgpt.com" target="_new" rel="noopener">https://ibpsonline.ibps.in/iocljun25/</a>.</p>
+Indian Oil Corporation (IOCL) invited graduate engineers in September 2025 to join as Engineers/Officers (Grade A) through a computer based test (CBT). The notice (IOCL/CO-HR/RECTT/2025/01) was released on 5 September 2025 for **Chemical, Electrical and Instrumentation** engineering. Applicants needed at least 65 percent in BE/BTech (55 percent for SC, ST and PwBD) and had to be **26 years or younger on 1 July 2025**. The CBT was held on 31 October 2025.
+
+| Detail | IOCL Grade A 2025 |
+|---|---|
+| Notification | 5 September 2025 |
+| Application window | 5 to 21 September 2025, later extended to 28 September |
+| Disciplines | Chemical, Electrical, Instrumentation |
+| Fee | Rs 500 plus GST (SC, ST, PwBD exempt) |
+| CBT date | 31 October 2025 |
+| CBT scorecard | 14 November 2025 |
+| Final result | 10 December 2025 |
+| Starting pay | Rs 50,000 basic in the Rs 50,000 to 1,60,000 scale |
+
+## Update (21 November 2026)
+
+The 2025 cycle is complete. The IOCL careers page lists the CBT scorecard on 14 November 2025 and the final result on 10 December 2025. IOCL also ran a separate Junior Engineer (Grade E0) drive in 2025, with its final result listed on 23 January 2026.
+
+For 2026, IOCL ran a combined **Recruitment of Executives through CBT 2026**. Applications were open from 14 August to 3 September 2026, call letters were issued from 17 to 24 September, and the CBT scorecard was posted on 16 October 2026. The travel claim window for the group discussion, group task and interview stage closes on 30 November 2026, which means shortlisted candidates are now in the final rounds. Details are on the <a href="https://iocl.com/latest-job-opening" target="_blank" rel="noopener">IOCL latest job openings page</a>.
+
+## Who Was Eligible
+
+The <a href="https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/e194f6f5c54946ada0fb07d3dab37133.pdf" target="_blank" rel="noopener">official advertisement</a> set these rules:
+
+- **Degree:** full-time BE or BTech from an AICTE or UGC recognised institute in the listed branches. Part-time, distance and online degrees were not accepted, and combined branches like Mechatronics were excluded.
+- **Marks:** 65 percent for General, EWS and OBC-NCL, 55 percent for SC, ST and PwBD.
+- **Final results:** candidates had to have their final marksheet by 31 October 2025.
+- **Age:** born on or after 1 July 1999 for General and EWS. OBC-NCL got 3 extra years (1 July 1996), SC and ST 5 years (1 July 1994), and PwBD 10 more years on top of their category limit.
+
+## CBT Pattern and Cut-offs
+
+The test had 100 multiple choice questions in 150 minutes, held in 44 cities.
+
+| Section | Questions |
+|---|---|
+| Domain knowledge | 50 |
+| Quantitative aptitude | 20 |
+| Logical reasoning | 15 |
+| English | 15 |
+
+Each right answer earned 1 mark and each wrong answer cost 0.25. To qualify, General, EWS and OBC-NCL candidates needed 40 percent in each section and 45 percent overall. For SC and ST it was 35 and 40 percent, and for PwBD 25 and 30 percent.
+
+## How the Final Merit Was Calculated
+
+This is the part many candidates miss. The CBT only gets you shortlisted. The final score combines three stages:
+
+| Stage | Weight | Minimum to pass |
+|---|---|---|
+| CBT | 85 percent | Section and overall cut-offs above |
+| Group discussion and group task | 5 percent | 40 percent |
+| Personal interview | 10 percent | 40 percent |
+
+Because the CBT carries 85 percent of the weight, a strong written score matters far more than the interview. Composite minimums were 45 percent for General, EWS and OBC-NCL, 40 percent for SC and ST, and 30 percent for PwBD. Document checks happen at the interview stage, followed by a medical exam. Selected candidates also sign a three year service bond.
+
+## How to Check an IOCL Result or Scorecard
+
+1. Open the IOCL careers page and go to Latest Job Openings.
+2. Find the notice for your drive (for example, Recruitment of Executives through CBT 2026).
+3. Click the scorecard or result link, which opens the IBPS login page.
+4. Enter your registration or roll number and date of birth or password.
+5. Download and print the scorecard for the next stage.
+
+Free Press Journal noted that the 2025 JE result link stayed active only for a limited time, so download it as soon as it is published.
+
+If you are a fresher looking for a shorter route into IOCL, read our guide to <a href="/iocl-apprentice-recruitment-2025/">IOCL apprentice recruitment</a>, which covers the trade and technician apprentice openings.
+
+## IOCL Recruitment: Common Questions
+
+**What is the age limit for IOCL Grade A engineer recruitment?**
+For the 2025 drive it was 26 years on 1 July 2025 for General and EWS, with 3 years extra for OBC-NCL and 5 years for SC and ST.
+
+**What is the salary of an IOCL Grade A engineer?**
+The notice gives a pay scale of Rs 50,000 to Rs 1,60,000, starting at Rs 50,000 basic plus allowances.
+
+**Is there negative marking in the IOCL CBT?**
+Yes. Each wrong answer deducts 0.25 marks, while a correct answer gets 1 mark.
+
+**When was the IOCL 2025 engineer result declared?**
+The IOCL careers page lists the final result for the Grade A 2025 drive on 10 December 2025.

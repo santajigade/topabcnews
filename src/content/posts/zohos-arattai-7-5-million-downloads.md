@@ -1,19 +1,70 @@
 ---
-title: "Zoho’s Arattai Surpasses 7.5 Million Downloads, Races Ahead of WhatsApp With Features It Still Lacks"
+title: "Zoho Arattai After the Download Rush: Encryption, Features, Users"
 slug: "zohos-arattai-7-5-million-downloads"
-description: "Zoho’s Arattai tops 7.5M downloads, beating WhatsApp with features like Android TV support, low bandwidth use & Made-in-India innovation"
+description: "Arattai went from 3,000 to 3.5 lakh daily sign-ups in 2025, added end-to-end encryption for chats in November, then saw downloads fall. Here is where it stands."
 date: 2025-10-07T04:01:05+05:30
+updated: 2026-11-21T21:30:00+05:30
 category: "Technology"
-tags: ["Arattai", "make in india", "whats app"]
-keywords: "Arattai"
+tags: ["Arattai", "Zoho", "Sridhar Vembu", "messaging app", "WhatsApp"]
+keywords: "Arattai, Arattai app, Arattai end-to-end encryption, Arattai vs WhatsApp"
 image: "/wp-content/uploads/2025/10/Arattai.webp"
 imageAlt: "Arattai"
 author: "Editorial Staff"
+sources:
+  - name: "ThePrint: Zoho's Arattai app downloads and WhatsApp comparison, 8 Oct 2025"
+    url: "https://theprint.in/feature/zoho-arratai-app-downloads-whatsapp-2/2759925"
+  - name: "Business Today: Please update Arattai, Sridhar Vembu ahead of encryption rollout, 18 Nov 2025"
+    url: "https://www.businesstoday.in/technology/story/please-update-arattai-zohos-sridhar-vembu-to-users-ahead-of-big-encryption-rollout-tonight-502637-2025-11-18"
+  - name: "YourStory: Zoho's Arattai rolls out end-to-end encryption, Nov 2025"
+    url: "https://yourstory.com/2025/11/zoho-arattai-rolls-out-end-to-end-encryption-data-privacy"
+  - name: "Analytics India Magazine: Arattai is getting better, sadly no one is using it, 21 Nov 2025"
+    url: "https://analyticsindiamag.com/ai-features/arattai-is-getting-better-sadly-no-one-is-using-it"
 ---
 
-<p>India’s own messaging app <strong>Arattai</strong>, built by software giant <a href="https://www.zoho.com/" target="_blank" rel="noopener">Zoho</a>, is making big waves in the digital world. The app has now crossed <strong>7.5 million downloads</strong> across Google Play Store and Apple’s App Store, becoming one of the fastest-growing Indian apps <a href="https://topabcnews.com/technology/" target="_blank" rel="noopener">technology </a>of recent times. What makes this story even more interesting is that Arattai is offering features that even global leader <strong>WhatsApp has not introduced yet in 2025</strong>.</p><p>One of the standout features is an <strong>Android TV version of the app</strong>, something WhatsApp users have been waiting for but still don’t have. This alone has given Arattai an edge, helping it climb to the <strong>number one spot on the App Store</strong>.</p>			<h4>What is Arattai?</h4>		<p>The word <strong>“Arattai” means “casual chat” in Tamil</strong>, which perfectly explains the app’s purpose: to make communication simple and easy for everyone.</p><p>Launched by <strong>Zoho Corporation</strong>, one of India’s most respected software companies, Arattai is designed to be <strong>fast, lightweight, and user-friendly</strong>. It is not just another messaging app trying to copy WhatsApp or Telegram. Instead, it is built with a clear vision to serve users in India and beyond who may not always have access to high-speed internet or expensive smartphones.</p><p>According to <strong>Sridhar Vembu</strong>, the founder of Zoho, Arattai is about <strong>inclusivity</strong>. He wanted an app that works even on <strong>basic phones and poor internet connections</strong>, so that no one is left behind in the digital world.</p>			<h4>Key Features That Make this App Special</h4>		<p>This App has many of the standard features you would expect from a messaging app texting, calling, file sharing, group chats, stickers, and more. But what makes it unique are the features that directly solve the challenges faced by many Indian users.</p><h5>1. Low Bandwidth Optimization</h5><p>It is designed to work smoothly even when the internet is weak or unstable. This is a big deal in rural areas and small towns where high-speed internet is not always available.</p><h5>2. Lightweight Design</h5><p>Unlike heavy apps that slow down cheaper phones, It is very light on memory and battery usage. This makes it accessible for people using budget-friendly smartphones.</p><h5>3. Seamless Performance</h5><p>Even though it is lightweight, It doesn’t compromise on speed or quality. Calls connect quickly, messages are delivered fast, and the app is simple to use.</p><h5>4. Android TV Support</h5><p>This is one feature that has caught everyone’s attention. <strong>It has an Android TV version</strong>, meaning you can chat or make calls from your television. WhatsApp still doesn’t offer this feature, giving Arattai a clear advantage.</p>			<h4>The Vision Behind this application</h4>		<p>Zoho’s founder Sridhar Vembu believes technology should not only serve the rich and urban population but also reach those with <strong>limited resources</strong>. He explained that Arattai was created with this goal in mind to <strong>bridge the digital gap</strong> in India and other developing countries.</p><p>In his own words, he reminded his team:</p>
-<p>“All of you have worked hard for over 5 years without expecting that the product would ever take off. Allow neither praise nor criticism nor fame to distract you—resolutely stay the course.”<br>
-<img loading="lazy" width="640" height="480" src="/wp-content/uploads/2025/10/Shridhar.webp" alt="Shridhar" /><br>
-Sridhar Vembu<br>
-Founder - Zoho</p>
-<p>This mindset of patience and persistence is what kept the Arattai team focused for years before the app became a success.</p><p>Vembu also explained that while Arattai may look like a simple app, it has <strong>deep technology running inside</strong>. The app is powered by a messaging and audio-video (AV) framework that Zoho has been perfecting for more than 15 years. This framework ensures <strong>crisp calls, quick connections, strong security, and reliable performance</strong>.</p>			<h4>The Growth Story</h4>		<p>This application growth has been nothing short of impressive. In a short span of time, it crossed <strong>7.5 million downloads</strong>, becoming one of the most downloaded messaging apps in India.</p><p>This growth has been supported by several factors:</p><ul><li><p><strong>Government support:</strong> Union ministers like <strong>Ashwini Vaishnaw, Piyush Goyal, and Dharmendra Pradhan</strong> have openly endorsed Arattai, encouraging citizens to use Indian-made apps.</p></li><li><p><strong>Social media buzz:</strong> Invitations to download Arattai have gone viral, ironically even spreading through WhatsApp groups.</p></li><li><p><strong>Industry endorsements:</strong> Business leaders like <strong>Anand Mahindra</strong> have also shown support. Mahindra tweeted that he downloaded Arattai “with pride” and wished it success.</p></li></ul><p>This combination of government backing, public excitement, and industry trust has helped Arattai quickly gain popularity.</p>			<h4>Why Arattai Matters for India</h4>		<p>India is on a mission to become <strong>digitally self-reliant</strong>. The government has been pushing for the use of <strong>“Swadeshi” (homegrown) software and platforms</strong>, especially in areas like cybersecurity, cloud services, and artificial intelligence.</p><p>Messaging apps are a critical part of daily communication, and until now, India mostly relied on foreign apps like WhatsApp and Telegram. Arattai changes that by giving Indians a strong, reliable, and locally built alternative.</p><p>Experts believe this is not just about one app—it’s about building <strong>trust in Indian technology</strong>.</p><h5>Expert Opinions</h5><ul><li><p><strong>Tarun Pathak</strong>, Research Director at Counterpoint, said the rise of Arattai is not just a short-term trend but part of a larger movement. He explained that India has very few homegrown alternatives in the AI era, and Arattai shows that it is possible to build strong local solutions.</p></li><li><p><strong>Faisal Kawoosa</strong>, Founder of Techarc, noted that leaders promoting Indian apps is a positive step. However, he also highlighted that small businesses (MSMEs) are very price-sensitive. For Arattai to succeed long-term, the government may need to provide <strong>incentives or tax benefits</strong> for using local software.</p></li></ul>			<h4>Challenges Ahead</h4>		<p>While Arattai is growing fast, the journey ahead will not be easy. Global giants like WhatsApp, owned by Meta, have <strong>deep pockets and huge resources</strong>. They can afford to lower their prices or add new features quickly to protect their market share.</p><p>Also, WhatsApp already has a massive user base, which makes it harder for a new app to convince people to switch.</p><p>However, Arattai’s strength lies in its <strong>local focus</strong>. By serving users in rural areas, low-bandwidth regions, and people who prefer lightweight apps, Arattai is targeting a niche that global apps have mostly ignored.</p>			<h4>The Future</h4>		<p>Looking ahead, Arattai is well-placed to grow even further. As more people in India’s <strong>rural and semi-urban areas</strong> come online, the demand for apps that work on low bandwidth will rise. Arattai is ready to fill that gap.</p><p>Zoho also has a strong background in <strong>research and development (R&amp;D)</strong>. Vembu recently shifted full-time into R&amp;D and promised more innovations in the future. This means Arattai is likely to keep improving and offering new features.</p><p>If the momentum continues, Arattai could become not just a WhatsApp rival, but a <strong>symbol of India’s digital independence</strong>.</p>			<h4>What Arattai's Growth Means for Indian Apps</h4>		<p>This success is a proud moment for India’s tech industry. With more than 7.5 million downloads, a number one ranking on the App Store, and support from government leaders and industry giants, it has proven that Indian apps can compete with global players.</p><p>By focusing on <strong>lightweight design, low bandwidth use, and unique features like Android TV support</strong>, Arattai has carved its own identity. More importantly, it shows how technology can be made <strong>inclusive and accessible for everyone</strong>, not just those with expensive devices or fast internet.</p><p>As Sridhar Vembu says, the team must keep going without getting distracted. If they do, Arattai may well become the <strong>true Made-in-India alternative to WhatsApp</strong>, changing the way millions of people connect and communicate.</p>
+Zoho's messaging app Arattai shot to the top of Indian app charts in late September and early October 2025. Zoho co-founder Sridhar Vembu said daily sign-ups jumped from about 3,000 to 3,50,000 in three days, and media reports put downloads at around 7 million in a week. On 18 November 2025 Arattai switched on **end-to-end encryption for one-to-one chats**, the feature critics had said it lacked. But by late November, downloads had fallen sharply. This post tracks what happened and what the app offers today.
+
+| Milestone | Date | Detail |
+|---|---|---|
+| Download surge | Late Sept to early Oct 2025 | Sign-ups rose from about 3,000 to 3.5 lakh a day |
+| Encrypted direct chats | 18 Nov 2025 | One-to-one chats protected end to end |
+| Downloads in October 2025 | Oct 2025 | About 1.36 crore |
+| Downloads in November 2025 | Nov 2025 | About 2 lakh |
+
+## Update (21 November 2026)
+
+Encryption arrived for direct chats in November 2025, while group chats were promised "in a few weeks" for groups up to a certain size and an encrypted backup option was said to be about two weeks away, according to <a href="https://www.businesstoday.in/technology/story/please-update-arattai-zohos-sridhar-vembu-to-users-ahead-of-big-encryption-rollout-tonight-502637-2025-11-18" target="_blank" rel="noopener">Business Today</a>. Voice and video calls were already encrypted. At the same time, Analytics India Magazine reported that Arattai had dropped out of the Play Store's top 200 apps, though it was still 11th in the Communications category.
+
+## How the Encryption Rollout Worked
+
+Arattai's encryption only works when both people use the latest version of the app. Old unencrypted threads were archived, and contacts still on older versions got a three day grace period before encryption became mandatory for everyone. Vembu asked users on X to update, saying "Please update the Arattai app from the Play Store/App Store."
+
+A green shield icon marks a chat as encrypted. Until the backup feature arrived, reinstalling the app or switching phones could mean losing encrypted chat history, so users were advised to keep that in mind.
+
+## Why the Rush Faded
+
+Getting downloads turned out to be easier than keeping users. Downloads fell from about 1.36 crore in October 2025 to about 2 lakh in November. <a href="https://analyticsindiamag.com/ai-features/arattai-is-getting-better-sadly-no-one-is-using-it" target="_blank" rel="noopener">Analytics India Magazine</a> found posts on X and Reddit from people who uninstalled the app because none of their contacts were active on it. One US based professor said only one contact ever replied to him there.
+
+Analyst Vivekanand Pani explained the problem simply: WhatsApp's strength comes from being tied to your phone number and address book. Everyone you know is already there. A new app has to win over whole friend circles at once, not just individuals.
+
+## Arattai vs WhatsApp: What Is Actually Different
+
+| Point | Arattai | WhatsApp |
+|---|---|---|
+| Owner | Zoho, Chennai | Meta |
+| Ads | Zoho says no ads and no sale of user data | Ads in some sections, Meta AI features |
+| Data storage | Stored and encrypted in India, per Zoho | Global servers |
+| Chat encryption | Direct chats since Nov 2025, groups promised | Default for chats and groups |
+| Extra features | Meetings, Pocket (notes to self), Mentions tab, "Till I reach" trip sharing | Channels, communities, chat lock, backups |
+| Users in India | Small, after early spike | About 853.8 million (figure cited by ThePrint) |
+
+Arattai also supports 16 languages and runs on infrastructure that Zoho has built since 2005, which also powers its office chat tool Zoho Cliq, according to CEO Mani Vembu.
+
+## What It Means for Indian Users
+
+If privacy and local data storage matter to you, Arattai now offers encrypted direct chats and calls with no ads, which was not true when the app first went viral. If you mainly want to reach family and friends, WhatsApp still wins because that is where people are. A practical approach many users take is to keep both: Arattai for groups that want to try it, WhatsApp for everyone else.
+
+Whatever app you use, be careful with unknown callers and messages. Our report on the <a href="/supreme-court-whatsapp-digital-arrest-scams-plan/">Supreme Court's push against digital arrest scams</a> explains how fraudsters use messaging apps.
+
+## What Zoho Has Said About Its Approach
+
+Sridhar Vembu has said in interviews that a long term mindset is needed, since products go through rises and dips. Zoho has also said its Zia AI runs inside its own private cloud, and that it has no concrete plan yet to put it inside Arattai. For now, the app's pitch rests on privacy, no ads and Indian data storage rather than AI features.
