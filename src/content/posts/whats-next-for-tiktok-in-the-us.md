@@ -1,14 +1,95 @@
 ---
-title: "What’s Next for TikTok in the US as Deal Prospects Remain Uncertain?"
+title: "TikTok US Deal Closed: Who Owns the Joint Venture and What Changed"
 slug: "whats-next-for-tiktok-in-the-us"
-description: "As the US deadline for TikTok’s sale approaches once again, uncertainty surrounds ByteDance, political pressure mounts, and billionaire investors wait in limbo. Here’s what could happen next"
+description: "TikTok's US business moved to an American-led joint venture on 22 January 2026. Ownership split, the $14 billion valuation, algorithm plan and full timeline."
 date: 2025-12-16T05:43:18+05:30
+updated: 2026-11-22T21:30:00+05:30
 category: "Technology"
-tags: []
-keywords: "tiktok"
+tags: ["TikTok", "TikTok USDS", "ByteDance", "Oracle", "US China tech"]
+keywords: "TikTok US deal, TikTok joint venture, TikTok USDS ownership, TikTok ban US"
 image: "/wp-content/uploads/2025/12/TikTok.webp"
 imageAlt: "TikTok"
 author: "Editorial Staff"
+sources:
+  - name: "Axios: TikTok divestiture deal closes (23 Jan 2026)"
+    url: "https://axios.com/2026/01/23/tiktok-deal-trump-app-ban"
+  - name: "ABC News: TikTok finalizes deal to keep operating in US"
+    url: "https://abcnews.com/Business/tiktok-finalizes-deal-operating-us/story?id=129475609"
+  - name: "The Independent via AOL: TikTok finally signs deal to sell its US entity to joint venture (18 Dec 2025)"
+    url: "https://www.aol.com/articles/tiktok-finally-signs-deal-sell-230244535.html"
+  - name: "Al Jazeera: US Supreme Court upholds law banning TikTok (17 Jan 2025)"
+    url: "https://www.aljazeera.com/economy/2025/1/17/us-supreme-court-upholds-law-banning-tiktok"
+  - name: "Reuters via The Star: Oracle says data center outage causing issues faced by US TikTok users (28 Jan 2026)"
+    url: "https://www.thestar.com.my/tech/tech-news/2026/01/28/oracle-says-outage-at-data-center-causes-issues-faced-by-us-tiktok-users"
+  - name: "Reuters via Yahoo Finance: Trump administration set to receive $10 billion fee for brokering TikTok deal (13 Mar 2026)"
+    url: "https://finance.yahoo.com/news/trump-administration-set-receive-10-220832579.html"
+  - name: "PIB: Government bans 59 mobile apps (29 Jun 2020)"
+    url: "https://pib.gov.in/PressReleasePage.aspx?PRID=1635206"
 ---
 
-<p>The future of <a href="https://www.tiktok.com/en/">TikTok</a> in the United States remains uncertain as fresh deadlines approach and political, legal, and business interests continue to collide. </p><p>Despite repeated assurances from political leaders that a deal is imminent, the popular short-form video platform is still owned by Chinese tech firm ByteDance, leaving investors, users, and policymakers unsure about what comes next.</p><p>At the center of the latest developments is billionaire investor Frank McCourt, who has publicly stated that he and his investment group are ready to move forward if the opportunity finally materializes.</p><h2>A Deadline That Keeps Moving</h2><p>TikTok was originally supposed to be sold or banned in the United States in January 2025, following the passage of a law by the US Congress in 2024. The law required ByteDance to divest TikTok’s US operations or face a nationwide ban over national security concerns.</p><p>Lawmakers argued that ByteDance’s ties to China posed a risk, suggesting that Beijing could potentially force the company to hand over sensitive data belonging to American users. TikTok has consistently denied these claims, stating that US user data is protected and stored securely.</p><p>The law was signed by President Joe Biden before leaving office and was later upheld by the Supreme Court in early 2025, reinforcing the government’s authority to enforce the sale or ban.</p><p>However, enforcement has been anything but straightforward.</p><p>US President Donald Trump initially set a compliance deadline of December 16, later extending it to January 23, 2026, through a new executive order. Each extension has only added to the confusion surrounding TikTok’s fate.</p><h2>Investors Waiting on the Sidelines</h2><p>Frank McCourt, a billionaire investor and founder of Project Liberty, said that he has been left waiting as deadlines come and go.</p><p>“We’re just standing by and waiting to see what happens,” McCourt said. “But if the moment arrives, we’re prepared to move forward… we have raised the capital to buy it.”</p><p>McCourt is part of a broader investor group that includes Reddit co-founder Alexis Ohanian and Canadian businessman Kevin O’Leary. Their interest centers on acquiring TikTok’s US operations while ensuring compliance with American laws and regulatory expectations.</p><p>Despite their readiness, McCourt admitted that uncertainty around government approvals and international negotiations has stalled progress.</p><h2>Claims of a Deal — But No Confirmation</h2><p>President Trump and members of his administration have repeatedly claimed that a TikTok deal had been reached and even suggested it had the approval of Chinese President Xi Jinping.</p><p>Trump also said that “sophisticated” US investors would be involved in acquiring TikTok, naming Oracle chairman Larry Ellison and Dell Technologies founder Michael Dell as potential participants.</p><p>Administration officials had hinted that the deal would be finalized during a high-level meeting between Trump and Xi in October. That meeting, however, concluded without any formal announcement or agreement.</p><p>Since then, neither ByteDance nor Chinese authorities have publicly confirmed approval of any sale. The lack of official confirmation has raised doubts about whether Beijing is willing to allow TikTok’s core technology to change hands.</p><h2>Concerns Over Power and Influence</h2><p>McCourt has voiced concerns beyond ownership, particularly around the concentration of power held by large digital platforms.</p><p>“Platforms like TikTok are very influencing,”, adding that any future ownership should prioritize legal compliance and transparency.</p><p>He said his preference would be for TikTok to either be sold responsibly or shut down entirely if it cannot operate within US law.</p><p>One of the most significant aspects of McCourt’s proposal is his intention to operate TikTok without any Chinese technology, including its highly influential recommendation algorithm.</p><h2>Replacing TikTok’s Algorithm?</h2><p>TikTok’s success is largely driven by its powerful algorithm, which tailors content with remarkable accuracy and keeps users engaged for hours. Any sale that excludes this technology would fundamentally change the platform.</p><p>McCourt’s Project Liberty claims it has developed alternative <a href="https://topabcnews.com/technology/">technology </a>that could replace TikTok’s existing algorithm. While details remain limited, the proposal aligns with US concerns about foreign control over content distribution and data flows.</p><p>Still, experts argue that removing TikTok’s original algorithm could significantly impact user experience, content reach, and creator engagement.</p><h2>What This Means for Users and Creators</h2><p>For TikTok’s millions of US users and creators, the uncertainty is unsettling. Each deadline extension delays clarity but keeps the threat of a sudden ban alive.</p><p>Creators who rely on TikTok for income and brand partnerships continue to diversify their presence across platforms like Instagram Reels and YouTube Shorts, preparing for a worst-case scenario.</p><p>Advertisers, meanwhile, remain cautious, monitoring regulatory developments closely before committing long-term budgets.</p><h3>The Road Ahead</h3><p>As of now, TikTok remains operational in the United States, but its long-term future is far from guaranteed. The next few months will be critical, especially as the January 2026 deadline approaches.</p><p>Without clear approval from ByteDance and Chinese authorities, claims of a completed deal remain speculative. Meanwhile, investors like Frank McCourt wait, prepared but powerless to act.</p><p>Whether TikTok is sold, restructured, or ultimately banned, the situation highlights the growing tension between national security, global technology platforms, and digital influence in an increasingly connected world.</p><p>One thing is certain: TikTok’s US story is far from over.</p>
+TikTok did not get banned in the United States, and ByteDance no longer controls its American business. On 22 January 2026, TikTok completed the spin-off of its US operations into a new company, TikTok USDS Joint Venture LLC, which is majority owned by non-Chinese investors. Oracle, Silver Lake and Abu Dhabi's MGX hold 15% each, ByteDance keeps 19.9%, and the deal values TikTok US at about $14 billion, according to a source cited by Axios. The app, which has more than 200 million US users, kept running throughout.
+
+## Update (22 November 2026)
+
+When this article was first published on 16 December 2025, the deal had been announced many times but nothing was signed, and an executive order deadline of 23 January 2026 was coming up. By 18 December, TikTok had signed the agreement. An internal memo from CEO Shou Chew set the closing for 22 January, and the deal closed on that date, one day before the deadline.
+
+Since the closing, three developments stand out:
+
+- A weather-related power outage at an Oracle data centre over the weekend of 24 and 25 January caused posting problems and other glitches for US users. Oracle confirmed the outage on 27 January, according to <a href="https://www.thestar.com.my/tech/tech-news/2026/01/28/oracle-says-outage-at-data-center-causes-issues-faced-by-us-tiktok-users" target="_blank" rel="noopener">Reuters</a>.
+- California Governor Gavin Newsom linked the problems to suppression of content critical of President Trump and launched a review of TikTok's moderation. The joint venture denied any censorship and said the issues were technical.
+- On 13 March, Reuters, citing the Wall Street Journal, reported that the Trump administration was set to receive a roughly $10 billion fee from investors in the deal for brokering it.
+
+## Who Owns TikTok US Now
+
+| Shareholder group | Stake |
+|---|---|
+| Oracle | 15% |
+| Silver Lake | 15% |
+| MGX (Abu Dhabi) | 15% |
+| Affiliates of existing ByteDance investors | Nearly one third |
+| ByteDance | 19.9% |
+
+New investors also include Michael Dell's family office, Alpha Wave and Revolution, Axios reported. The investor group led by Frank McCourt, which this article covered in December, is not among the named owners.
+
+The seven-member board, mostly American, is made up of Shou Chew, Timothy Dattels, Mark Dooley, Egon Durban, Raul Fernandez, Kenneth Glueck and David Scott. Adam Presser is the joint venture's CEO and Will Farrell is chief security officer. Both previously worked at TikTok and its US data security unit.
+
+Axios called the reported $14 billion valuation extremely low, since analysts estimate that TikTok US earns roughly that much from advertising alone each year.
+
+## What Happens to the Algorithm
+
+The recommendation algorithm was the hardest part of the negotiation. The final answer is a licence: the joint venture licenses the algorithm from ByteDance and retrains it on US user data, <a href="https://abcnews.com/Business/tiktok-finalizes-deal-operating-us/story?id=129475609" target="_blank" rel="noopener">ABC News reported</a>. The company says this keeps what Americans see free from outside manipulation. Oracle acts as the security partner, storing US user data and auditing compliance with the national security terms.
+
+Retraining could change how videos are personalised and surfaced, so US users may notice a different feed over time. The joint venture has exclusive authority over the security of content, software and data for American users, according to Chew's December memo.
+
+## How the TikTok Fight Unfolded
+
+| Date | Event |
+|---|---|
+| April 2024 | Congress passes, and President Biden signs, the law forcing ByteDance to sell or face a ban |
+| 17 Jan 2025 | Supreme Court unanimously upholds the law |
+| April 2025 | Trump extends the sale deadline by 75 days |
+| September 2025 | Trump says at an Oval Office signing that Xi Jinping approved a deal worth about $14 billion |
+| 18 Dec 2025 | TikTok signs the deal with the joint venture |
+| 22 Jan 2026 | Deal closes; TikTok USDS Joint Venture LLC takes over |
+| 24 to 27 Jan 2026 | Oracle data centre outage disrupts the app |
+| 13 Mar 2026 | Reuters reports a roughly $10 billion fee for the US government |
+
+The Supreme Court ruling, covered by <a href="https://www.aljazeera.com/economy/2025/1/17/us-supreme-court-upholds-law-banning-tiktok" target="_blank" rel="noopener">Al Jazeera</a>, found the law did not violate the First Amendment. During his first term, Trump had tried to ban TikTok by executive order, and TikTok beat that order in court.
+
+## India Banned It, the US Forced a Sale
+
+Indian readers will remember that TikTok has been blocked here since June 2020. The two countries had similar worries but chose very different fixes.
+
+| | India | United States |
+|---|---|---|
+| Action | Blocked TikTok and 58 other apps | Forced ByteDance to sell control of the US business |
+| Legal route | Section 69A of the IT Act, by government order on 29 June 2020 | An Act of Congress, upheld by the Supreme Court |
+| Stated concerns | Sovereignty, defence, state security, public order, users' data sent to servers outside India | Risk that Beijing could force ByteDance to hand over US user data |
+| Result for users | App unavailable | App keeps running under new owners |
+| ByteDance's role | None in India | Keeps 19.9% and licenses the algorithm |
+
+The US route kept the app alive but left ByteDance with a minority stake and a licensing link. India's order cut the app off completely. Nothing in the US deal changes the Indian ban.
+
+## What US Users and Creators Should Expect
+
+For now, TikTok works in the US as before, and the threat of a sudden shutdown is gone. The open questions are about the feed and about trust: how the retrained algorithm performs, and whether the joint venture can show it moderates content fairly after the January row. For another example of how platforms are changing the way they handle young users, see our report on <a href="/meta-ai-age-checks-teens-global-rollout/">Meta's AI age checks for teens</a>.

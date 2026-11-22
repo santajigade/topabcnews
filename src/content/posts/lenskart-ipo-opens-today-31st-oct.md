@@ -1,14 +1,108 @@
 ---
-title: "Lenskart IPO Opens Today 31st Oct: Peyush Bansal’s ₹7,278 Crore Eyewear Giant Seeks ₹70,000 Crore Valuation"
+title: "Lenskart IPO Recap: 28.26x Subscribed, Rs 395 Listing, Shares Now"
 slug: "lenskart-ipo-opens-today-31st-oct"
-description: "Lenskart IPO is launching today (Oct 31–Nov 4) with a ₹7,278 crore issue at ₹382-402 per share. Here is what investors need to know about structure"
+description: "Lenskart's Rs 7,278 crore IPO drew 28.26x bids, listed at Rs 395 on NSE against a Rs 402 issue price and hit Rs 767.4 after Q2 FY27 results. Full timeline."
 date: 2025-10-31T09:07:00+05:30
+updated: 2026-11-22T21:30:00+05:30
 category: "Finance"
-tags: ["Lenskart IPO", "Lenskart Solutions IPO", "Peyush Bansal"]
-keywords: "Lenskart IPO"
+tags: ["Lenskart IPO", "Lenskart Solutions IPO", "Peyush Bansal", "Lenskart share price", "IPO listing"]
+keywords: "Lenskart IPO, Lenskart IPO listing price, Lenskart IPO subscription, Lenskart share price, Lenskart Q2 results"
 image: "/wp-content/uploads/2025/10/Lenskart-IPO-Date.webp"
 imageAlt: "Lenskart IPO Date"
 author: "Editorial Staff"
+sources:
+  - name: "Business Standard: Lenskart IPO subscribed nearly 30 times, draws bids worth Rs 1.1 trillion"
+    url: "https://www.business-standard.com/markets/ipo/lenskart-ipo-subscribed-nearly-30-times-draws-bids-worth-1-1-trillion-125110401165_1.html"
+  - name: "Business Standard: Lenskart IPO to list on Nov 10, what GMP hints for D-St debut"
+    url: "https://www.business-standard.com/amp/markets/ipo/lenskart-ipo-to-list-on-nov-10-here-s-what-gmp-hints-for-d-st-debut-125110701046_1.html"
+  - name: "Business Standard: Lenskart makes muted debut, shares list at 3% discount"
+    url: "https://www.business-standard.com/amp/markets/news/lenskart-makes-muted-listing-shares-list-at-3-discount-miss-gmp-estimates-125111000263_1.html"
+  - name: "Business Standard: Lenskart lists flat after volatile debut, valuation debate lingers"
+    url: "https://www.business-standard.com/amp/markets/ipo/lenskart-flat-listing-valuation-debate-continues-125111001531_1.html"
+  - name: "Free Press Journal: Lenskart Q2 FY27 profit surges 125% to Rs 232.45 crore"
+    url: "https://www.freepressjournal.in/business/lenskart-q2-fy27-profit-surges-125-to-23245-crore-revenue-climbs-36-to-2845-crore"
+  - name: "Inc42: Lenskart shares jump 11% to all-time high after Q2 profit more than doubles"
+    url: "https://inc42.com/buzz/lenskart-shares-jump-11-to-all-time-high-after-q2-profit-more-than-doubles/"
 ---
 
-<h2>Lenskart IPO is today 31st Oct</h2>		<p>Yes, Lenskart IPO is today 31st Oct.</p><p>India’s largest organised eyewear company, <a href="https://www.lenskart.com/" target="_blank" rel="noopener">Lenskart Solutions Limited</a>, opens its much-anticipated initial public offering (IPO) today, Friday October 31, with the subscription window running until Tuesday, November 4. The company has set a price band of ₹382 to ₹402 per equity share (face value ₹2) for the issue.</p><p>While the IPO provides an opportunity for people to own a piece of a fast-growing consumer-tech business, there is also a vocal chorus of scepticism that Lenskart may be “over-valued”. The following narrative captures the company’s pitch, <a href="https://topabcnews.com/finance/" target="_blank" rel="noopener">performance </a>and valuation questions.</p><h2>The Pitch &amp; Growth Story</h2><p>In an internal styled “investor pitch” (imagine a business-reality TV scenario), founder-Chairman &amp; CEO Peyush Bansal and CFO Abhishek Gupta laid out the business case: “At some point, we’ve all gone to a neighbourhood optician the experience was slow, uncertain, and honestly, kind of outdated. So we asked ourselves: why can’t buying eyewear be as seamless as ordering clothes online?”</p><p>They describe how Lenskart built a fully centralised, technology-driven supply chain: robots cutting lenses, precision polishing, stringent quality checks, and in many cities doorstep delivery within a day. They emphasise a strong omnichannel model: virtual try-ons, AI-based face / size detection, national store + home-eye-test network, so customers can browse online and finish offline (or vice-versa).</p><p>Today the company reports over 2,100 stores in India (and 2,800+ globally) and loyal paying members in the millions. Among its manufacturing footprint: major factories in Bhiwadi and Gurugram, producing millions of frames annually, and a new larger facility being built in Hyderabad. They mention international expansion in markets like Japan, Singapore, Thailand and the Gulf. The message: “We didn’t stop at manufacturing. We created India’s largest digital eyewear experience…”</p><p>As they pitched: “We are inviting India to own a piece of the country’s largest and fastest-growing eyewear brand by offering ~11 % equity for ₹7,278 crores. This capital will help us scale our technology, expand to more cities, deepen manufacturing, and take world-class eyewear from India to Asia and beyond.”</p><h2>Financials &amp; Efficiency Gains</h2><p>Bansal highlighted key improvements in margins and profitability: in FY25 the company reported revenue of around ₹7,000 crores (≈ 33 % growth p.a. over the past two years) and turned profitable with a net profit of ₹297 crores. Marketing spend fell from ~7.7 % of revenue to ~6.7 % over two years. Shift from franchise-owned (FoFo) to company-owned, company-operated (CoCo) stores accelerated: with stores paying back in around 10 months. For instance, acquisition of a large franchise operator helped improve margins and control.</p><p>CFO Gupta pointed to an accounting gain of ~₹167 crores in FY25 due to revaluation of minority-stake liabilities following the acquisition of a Japanese chain, and additional ~₹8 crores favourable FX and ~₹14 crores tax credit adjustments. As clarified: “Yes… that’s more than half your total profit!” (one investor quipped). The company admitted that without those one-time accounting benefits, profit would be lower.</p><h2>Valuation, Issue Structure &amp; Risk Considerations</h2><p>Several questions have been raised. When asked: “How do you justify this valuation? … This is your first profitable year since you started in 2008. Revenue growing at 20-30 %, but most of the profit this year came from accounting adjustments. And you want a ₹70,000 crore valuation, which is nearly 10 × your sales and ~230 × your earnings?!”</p><p>Analysts caution that despite its strong growth prospects, the <strong>Lenskart IPO</strong> valuation appears steep compared to other listed retail players</p><p>Bansal responded that there are no listed peer companies comparable in size. He cited competitors like Titan Eye+, GKB, Lawrence &amp; Mayo and Vision Express, all of which he says are at least 65 % smaller in revenue in India. He emphasised building “future-tech”—smart glasses, audio eyewear, AI-powered products, referencing a partnership with Qualcomm for next-gen smart glasses. The investor panel remained unconvinced: “I like the vision, but I’m sorry, it feels too aspirational at this stage.”</p><p>Key structural numbers of the issue:</p><ul><li><p>Total issue size ~₹7,278 crore (~$830 million), combining fresh issue of ₹2,150 crore and offer-for-sale (OFS) of ~₹5,128 crore.</p></li><li><p>Price band ₹382-402 per share; lot size 37 shares.</p></li><li><p>Estimated valuation (at the upper band) ~₹70,000 crore.</p></li><li><p>Grey Market Premium (GMP) had varied: reports show ~12-18% premium (or premium of ~₹48-₹64 per share over issue price).</p></li><li><p>Allocation: ~75% reserved for qualified institutional buyers (QIBs), up to 15% for non-institutional investors (NIIs) and up to 10% for retail.</p></li></ul><p> </p><p>Another notable point: A major chunk of the issue (~₹5,128 crore) is an OFS where existing promoters and early investors will partially exit, while only ₹2,150 crore will go into the company for growth. Some market watchers view this as a red flag: promoters satiating liquidity while relying on the public for expansion funds.</p><p>One telling quote from the founder: “There is a lot of opaqueness in the eyewear space. No pun intended. There is only 5-10 % reality, and 90 % is just showcasing and marketing…” The caveat implied: we hope this is not true for the pitch Lenskart has made to capital-market investors. But, as the valuations imply, the story is ambitious.</p><p>The <strong>Lenskart IPO</strong> reflects growing investor confidence in India’s premium eyewear segment, which is rapidly expanding due to increased digital adoption and lifestyle changes</p><h2>The Big Opportunity and the Big Catch</h2><p>The size of the opportunity is hard to ignore. In India, it is estimated that ~770 million people (≈53 % of the population) needed vision correction as of FY25; by 2030 that number is projected to rise to ~940 million (~6 in 10 Indians) due to increased screen time, pollution and ageing population. Yet only ~35 % of that population actually wears prescription glasses; in developed markets such as the US and Japan that number is 69-88%. That gap suggests tremendous room for growth.</p><p>Backed by SoftBank and led by Peyush Bansal, the <strong>Lenskart IPO</strong> aims to raise fresh capital to expand its technology, manufacturing, and retail footprint across India and global markets</p><p>Lenskart claims only ~4 % market share currently, so potential domestic penetration upside remains large. They aim to serve across price segments from under ₹2,000 affordable frames to ₹10,000+ premium offerings which reportedly contribute equally.</p><p>However, the catch lies in execution, margin sustainability, competition, and how much of the valuation is baked on future potential rather than current performance. The fact that a large part of the profit in FY25 came from accounting adjustments (revaluation of liabilities, FX, tax credits) raises questions about the durability of profitability as they scale. In short: the narrative is strong, the opportunity big, but valuations might already be pricing in a lot of growth.</p><p>Market analysts say the <strong>Lenskart IPO</strong> could test investor appetite for high-growth consumer-tech stories, especially given its strong brand recall and growing omnichannel presence</p><p>As the Lenskart IPO opens today, investors must weigh the strong brand, omni-channel model and large market opportunity against the stretched valuation, partial promoter exits and one-time profit elements. For those with a long-term horizon, it may be a bold growth play; for short-term listing gains, the margin of safety appears narrower.</p><p>The success of the <strong>Lenskart IPO</strong> will likely determine investor sentiment toward other upcoming new-age consumer IPOs in 2025</p>
+Lenskart Solutions' Rs 7,278.76 crore IPO ran from 31 October to 4 November 2025 at a price band of Rs 382 to Rs 402. It was subscribed 28.26 times, shares were allotted on 6 November, and the stock listed on 10 November at Rs 395 on NSE, below the Rs 402 issue price. A year on, the shares have moved well above that. After the September 2026 quarter results, the stock touched Rs 767.4 on BSE on 5 November 2026.
+
+## Update (22 November 2026)
+
+This article was first published on the day the IPO opened, when nobody knew how it would go. Here is the outcome.
+
+- **Subscription:** 28.26 times overall. Qualified institutional buyers bid 40.35 times their quota, non-institutional investors 18.23 times and retail investors 7.54 times. Business Standard reported total bids above Rs 1.13 trillion from nearly 32 lakh applications.
+- **Allotment:** finalised on Thursday, 6 November 2025.
+- **Listing:** Monday, 10 November 2025, at Rs 395 on NSE (a 1.75% discount) and Rs 390 on BSE (a 3% discount).
+- **First day:** the stock fell to Rs 355.7 on BSE and Rs 362 on NSE in early trade, recovered to a high of Rs 413.8, and closed at Rs 403.3, just 0.3% above the issue price. Market value at the close was Rs 69,967 crore.
+
+The grey market had pointed to a premium of about Rs 10 just before listing, so the debut was weaker than many applicants had hoped. On listing day, Business Standard reported that Ambit Capital had started coverage with a "sell" rating because of the valuation.
+
+## Lenskart IPO Details at a Glance
+
+| Item | Detail |
+|---|---|
+| Issue dates | 31 October to 4 November 2025 |
+| Price band | Rs 382 to Rs 402 per share |
+| Final issue price | Rs 402 |
+| Lot size | 37 shares |
+| Total issue size | Rs 7,278.76 crore |
+| Fresh issue | 5.35 crore shares, Rs 2,150.74 crore |
+| Offer for sale | 12.76 crore shares, Rs 5,128.02 crore |
+| Overall subscription | 28.26 times |
+| Allotment date | 6 November 2025 |
+| Listing date | 10 November 2025, NSE and BSE |
+| Listing price | Rs 395 (NSE), Rs 390 (BSE) |
+
+The issue and listing figures are from <a href="https://www.business-standard.com/amp/markets/ipo/lenskart-ipo-to-list-on-nov-10-here-s-what-gmp-hints-for-d-st-debut-125110701046_1.html" target="_blank" rel="noopener">Business Standard's report on the Lenskart allotment and listing date</a>. About 70% of the money raised went to selling shareholders through the offer for sale. Only the Rs 2,150.74 crore fresh issue went to the company.
+
+## What One Retail Lot Was Worth at Each Stage
+
+Retail bids were in lots of 37 shares. At Rs 402, one lot cost Rs 14,874. The table works out what that lot was worth at each verified price point. The prices come from the reports cited in this article; the lot values and percentages are our own arithmetic.
+
+| Stage | Share price | Value of 37 shares | Change vs Rs 14,874 |
+|---|---|---|---|
+| Issue price | Rs 402 | Rs 14,874 | 0% |
+| NSE listing, 10 Nov 2025 | Rs 395 | Rs 14,615 | down 1.7% |
+| BSE intraday low, 10 Nov 2025 | Rs 355.7 | Rs 13,161 | down 11.5% |
+| Listing day close, 10 Nov 2025 | Rs 403.3 | Rs 14,922 | up 0.3% |
+| BSE close, 4 Nov 2026 | Rs 691 | Rs 25,567 | up 71.9% |
+| BSE intraday high, 5 Nov 2026 | Rs 767.4 | Rs 28,394 | up 90.9% |
+
+These figures ignore brokerage, taxes and dividends. An applicant who sold on listing day made almost nothing, while one who held on was sitting on a large gain on paper a year later. Past price moves say nothing certain about where the stock goes next.
+
+## Q2 FY27 Results That Lifted the Stock
+
+On 4 November 2026, Lenskart reported unaudited consolidated results for the quarter to 30 September 2026. According to the Free Press Journal:
+
+| Metric | Q2 FY27 | Q2 FY26 | Change |
+|---|---|---|---|
+| Revenue from operations | Rs 2,845.03 crore | Rs 2,096.14 crore | up 35.7% |
+| Net profit | Rs 232.45 crore | Rs 103.45 crore | up 124.7% |
+| Profit before tax | Rs 304.48 crore | Rs 148 crore | more than doubled |
+
+For the six months to September 2026, revenue was Rs 5,559.21 crore against Rs 3,990.60 crore a year earlier, and net profit was Rs 460.88 crore against Rs 164.62 crore. No exceptional items were reported.
+
+The next morning the stock opened at Rs 745.05 on BSE, up 7.8% from Rs 691, and rose as much as 11.1% to Rs 767.4, which Inc42 described as an all-time high. At Rs 733.55 around midday, Lenskart's market value was about Rs 1,27,587 crore, about 1.8 times its value at the listing day close.
+
+## The Valuation Question Has Not Gone Away
+
+When Lenskart listed, the main worry was price. Business Standard reported that some analysts valued the IPO at about 215 times annualised Q1 FY26 earnings, and the <a href="https://www.business-standard.com/amp/markets/ipo/lenskart-flat-listing-valuation-debate-continues-125111001531_1.html" target="_blank" rel="noopener">listing day report on the valuation debate</a> said Ambit expected about 20% annual revenue growth over FY25 to FY28, with heavy capital spending that could keep free cash flow negative until FY27. Since then profit has more than doubled, but the share price has risen too, so the question of how much future growth is already in the price still applies.
+
+For another large listing this month, read our guide to the [Mahanadi Coalfields IPO](/mahanadi-coalfields-ipo-closes-november-23/). For a global comparison, see our report on the [Anthropic IPO price range](/anthropic-ipo-price-range-70-78-nasdaq/).
+
+## Lenskart IPO: Common Questions
+
+**What was the Lenskart IPO listing price?**
+Lenskart listed on 10 November 2025 at Rs 395 on NSE and Rs 390 on BSE, against an issue price of Rs 402.
+
+**How many times was the Lenskart IPO subscribed?**
+28.26 times overall: 40.35 times for qualified institutional buyers, 18.23 times for non-institutional investors and 7.54 times for retail investors.
+
+**What was the Lenskart IPO lot size?**
+37 shares. At the issue price of Rs 402, one lot cost Rs 14,874.
+
+**What were Lenskart's Q2 FY27 results?**
+For the quarter to 30 September 2026, net profit rose 124.7% to Rs 232.45 crore and revenue from operations rose 35.7% to Rs 2,845.03 crore.
+
+*This article is general information, not financial advice. Check current prices and consult a registered adviser before investing.*

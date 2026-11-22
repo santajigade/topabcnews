@@ -20,16 +20,16 @@ done 2026-11-21 | zohos-arattai-7-5-million-downloads | Technology | 2025-10-07 
 done 2026-11-21 | indian-railways-big-diwali-gift | Yojana | 2025-10-14 | 1260
 done 2026-11-21 | gold-price-today-hits-₹1-28-lakh-in-india | Finance | 2025-10-16 | 800
 done 2026-11-21 | oneplus-oxygenos-16-launch | Technology | 2025-10-18 | 824
-todo | end-to-end-encryption-to-arattai | Technology | 2025-10-19 | 945
-todo | happy-diwali-wishes-quotes | Bollywood | 2025-10-19 | 1150
-todo | is-canva-down-in-india | Technology | 2025-10-20 | 1115
-todo | royal-enfield-bullet-250-2025 | Automobile | 2025-10-25 | 1113
-todo | download-pan-card-from-digilocker | Technology | 2025-10-25 | 867
-todo | maruti-alto-800-2025-new-model | Automobile | 2025-10-26 | 792
-todo | openai-ipo-soon-chatgpt | Technology | 2025-10-30 | 905
-todo | lenskart-ipo-opens-today-31st-oct | Finance | 2025-10-31 | 1203
-todo | whats-next-for-tiktok-in-the-us | Technology | 2025-12-16 | 843
-todo | china-ai-jobs-plan | Technology | 2026-03-11 | 1029
+done 2026-11-22 | end-to-end-encryption-to-arattai | Technology | 2025-10-19 | 945
+done 2026-11-22 | happy-diwali-wishes-quotes | Bollywood | 2025-10-19 | 1150
+noindex 2026-11-22 | is-canva-down-in-india | Technology | 2025-10-20 | 1115
+done 2026-11-22 | royal-enfield-bullet-250-2025 | Automobile | 2025-10-25 | 1113
+done 2026-11-22 | download-pan-card-from-digilocker | Technology | 2025-10-25 | 867
+done 2026-11-22 | maruti-alto-800-2025-new-model | Automobile | 2025-10-26 | 792
+done 2026-11-22 | openai-ipo-soon-chatgpt | Technology | 2025-10-30 | 905
+done 2026-11-22 | lenskart-ipo-opens-today-31st-oct | Finance | 2025-10-31 | 1203
+done 2026-11-22 | whats-next-for-tiktok-in-the-us | Technology | 2025-12-16 | 843
+done 2026-11-22 | china-ai-jobs-plan | Technology | 2026-03-11 | 1029
 todo | gold-rate-today-dhanteras-2026 | Finance | 2026-11-06 | 859
 todo | energy-storage-vgf-scheme-rs-14500-crore | Yojana | 2026-11-06 | 831
 todo | cat-2026-admit-card-iimcat | Education | 2026-11-06 | 793

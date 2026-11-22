@@ -1,14 +1,93 @@
 ---
-title: "Arattai Big Update! Zoho CEO Confirms End-to-End Encryption Coming Soon"
+title: "Arattai End-to-End Encryption: What Is Protected Since November 2025"
 slug: "end-to-end-encryption-to-arattai"
-description: "Zoho CEO Sridhar Vembu confirms end-to-end encryption for Arattai text chats is under testing and will roll out soon, boosting privacy for Indian users"
+description: "Arattai turned on end-to-end encryption for direct chats on 18 November 2025. What is encrypted now, how the switch worked and how to keep your chats protected."
 date: 2025-10-19T03:36:06+05:30
+updated: 2026-11-22T21:30:00+05:30
 category: "Technology"
-tags: ["Arattai", "privacy"]
-keywords: "Arattai"
+tags: ["Arattai", "privacy", "Zoho", "end-to-end encryption", "messaging app"]
+keywords: "Arattai end-to-end encryption, Arattai encrypted chats, Arattai privacy, Zoho Arattai"
 image: "/wp-content/uploads/2025/10/Arratai-Security.webp"
 imageAlt: "Arratai Security"
 author: "Editorial Staff"
+sources:
+  - name: "Business Standard: Arattai chats get end-to-end encryption, users urged to update app, 18 Nov 2025"
+    url: "https://www.business-standard.com/companies/news/arattai-chats-get-end-to-end-encryption-users-urged-to-update-app-125111801312_1.html"
+  - name: "Outlook Money (PTI): Zoho's Arattai rolls out end-to-end encryption for direct chats, 19 Nov 2025"
+    url: "https://www.outlookmoney.com/news/zohos-arattai-rolls-out-end-to-end-encryption-for-direct-chats"
+  - name: "YourStory: Zoho's Arattai rolls out end-to-end encryption, Nov 2025"
+    url: "https://yourstory.com/2025/11/zoho-arattai-rolls-out-end-to-end-encryption-data-privacy"
+  - name: "DT Next: Zoho's Arattai now end-to-end encrypted, 19 Nov 2025"
+    url: "https://www.dtnext.in/news/business/zohos-arattai-now-end-to-end-encrypted-853673"
+  - name: "Gizbot: Arattai finally gets end-to-end encryption, but there's a catch"
+    url: "https://www.gizbot.com/apps/arattai-finally-gets-end-to-end-encryption-but-theres-a-catch-120783.html"
+  - name: "Storyboard18: Sridhar Vembu defends Arattai's end-to-end encryption rollout, Oct 2025"
+    url: "https://storyboard18.com/brand-makers/zoho-ceo-sridhar-vembu-defends-arattais-end-to-end-encryption-rollout-says-rebels-can-talk-like-secret-lovers-but-not-hide-from-courts-82271.htm"
+  - name: "Arattai official FAQ"
+    url: "https://www.arattai.in/faq.html"
+  - name: "Wikipedia: Arattai"
+    url: "https://en.wikipedia.org/wiki/Arattai"
 ---
 
-<p><a href="https://www.arattai.in/" target="_blank" rel="noopener">Arattai</a>- Zoho’s homegrown messaging app is about to take a big leap forward in user privacy. After months of speculation, Zoho CEO <a href="https://x.com/sridharvembu" target="_new" rel="noopener">Sridhar Vembu</a> has finally confirmed that <strong>end-to-end encryption (E2EE) for text messages</strong> is under testing and will be rolled out soon. </p><p>The news has sparked excitement among Indian users, many of whom have been waiting for Arattai to catch up with global competitors like <a target="_new" rel="noopener">WhatsApp</a> and <a target="_new" rel="noopener">Signal</a>.</p><p>In a recent post on X (formerly Twitter), Vembu wrote: <em>“We are testing end-to-end encryption this week on Arattai, will be rolled out soon.”</em> </p><p>This simple confirmation was enough to create buzz in the Indian <a href="https://topabcnews.com/technology/" target="_blank" rel="noopener">tech </a>community, where conversations around data privacy and homegrown apps have been gaining momentum.</p><h2>What Is End-to-End Encryption and Why Does It Matter?</h2><p>End-to-end encryption ensures that only the sender and receiver of a message can read it. Not even the company hosting the app has access to the conversations. This means that hackers, internet providers, or even the app developers themselves cannot snoop on private chats.</p><p>This app already offered E2EE for <strong>audio and video calls</strong>, but text chats were a glaring gap. For an app often positioned as India’s alternative to WhatsApp, this missing feature stood out. WhatsApp has used end-to-end encryption for all forms of communication since 2016, and rival platforms like Signal built their entire reputation around this feature.</p><p>By adding E2EE for text messages, this app is closing that gap and giving privacy-conscious Indians another reason to consider switching from foreign apps.</p><h2>Arattai’s Journey: From Desi Challenger to WhatsApp Alternative</h2><p>Launched around four years ago, this app has steadily evolved. The app gained attention during the government’s push for <a target="_new" rel="noopener">Digital India</a> and the <strong>Aatmanirbhar Bharat (self-reliant India)</strong> initiative. Promoted as a local alternative to foreign messaging platforms, Arattai positioned itself as not just a chat app, but a part of India’s growing digital independence.</p><p>Government officials and policymakers have often highlighted Arattai as an example of India’s potential in building homegrown technology. With its user-friendly interface, <strong>regional language support</strong>, and consistent updates, the app has managed to stay relevant.</p><p>Yet, critics often pointed out the lack of end-to-end encryption for text messages as a weakness. Now, with that issue set to be resolved, Arattai is back in the spotlight.</p><h2>Vembu’s Assurance: Privacy with Responsibility</h2><p>While announcing the update, Vembu also addressed how Zoho approaches user privacy. Unlike big tech companies that rely heavily on <strong>ad revenue and monetising user data</strong>, Zoho’s primary business model is selling <strong>software services to enterprises</strong>. This gives Arattai a natural advantage in building trust, since there is less incentive to exploit user data.</p><p>At the same time, Vembu clarified that Zoho would comply with government requests for data access when required by law, particularly in cases concerning <strong>national security</strong>. This balance between user privacy and lawful compliance is similar to the stance taken by major messaging platforms worldwide.</p><h2>Why the Buzz Around Arattai?</h2><p>The hype around Arattai isn’t just about features. It’s about identity and control in the digital space. India has over <strong>450 million WhatsApp users</strong>, making it the app’s largest market. But concerns about how foreign companies handle data have led to calls for <strong>local alternatives</strong> that are secure, reliable, and aligned with Indian regulations.</p><p>Arattai taps directly into this sentiment. By offering features on par with WhatsApp and Signal, while also promising deeper integration with <strong>local businesses and ecosystems</strong>, the app hopes to carve out a niche. For example, Vembu hinted at how Arattai could eventually move beyond peer-to-peer chatting and support India’s growing digital economy.</p><h2>The Road Ahead for Arattai</h2><p>The upcoming encryption update is not just about security — it’s about credibility. Once rolled out, Arattai will stand shoulder-to-shoulder with global messaging apps in terms of core privacy features. This could make it more attractive not just for individual users, but also for <strong>businesses</strong> looking for secure communication tools that are locally developed.</p><p>Looking ahead, Arattai’s growth will depend on two major factors:</p><ol><li><p><strong>Feature parity</strong> with international apps like WhatsApp, Telegram, and Signal.</p></li><li><p><strong>Trustworthiness</strong> in the eyes of Indian users who are becoming increasingly aware of data privacy issues.</p></li></ol><p>Zoho has already taken the first step by ensuring encryption for calls and now text chats. The next challenge will be scaling its user base and offering smooth performance even under heavy usage.</p><h2>Why This Matters for Indian Tech</h2><p>Arattai’s journey represents something bigger than just a new app update. It’s about India’s ability to <strong>create world-class alternatives</strong> to foreign-dominated platforms. As the country pushes for self-reliance in technology, success stories like Arattai show that Indian companies can compete on both innovation and trust.</p><p>With the rise of <strong>data localization policies</strong> and increasing global debates on privacy, Arattai’s timing couldn’t be better. If it manages to deliver a seamless, secure experience, it could become a serious player in India’s digital communication space.</p><p>For now, the wait is nearly over. Arattai is finally bringing <strong>end-to-end encryption for text messages</strong>, making chats as private as possible. While Zoho will still comply with lawful requests, users can expect a much more secure and trustworthy experience.</p><p>As Sridhar Vembu puts it, this is just the beginning. Arattai isn’t only about catching up with WhatsApp — it’s about building a <strong>uniquely Indian platform</strong> that prioritizes privacy, supports regional diversity, and integrates into the country’s digital future.</p><p>So, if you have been waiting to try a desi alternative to WhatsApp, this could be the right moment. With encryption rolling out soon, Arattai is set to become more than just another messaging app — it might just be India’s next big digital success story.</p>													<img loading="lazy" width="683" height="1024" src="/wp-content/uploads/2025/10/Arattai-2-683x1024.webp" alt="Arattai" />
+Zoho's messaging app Arattai switched on end-to-end encryption (E2EE) for direct, one-to-one chats on the night of Tuesday, 18 November 2025. When we first wrote this story in October 2025, Zoho founder Sridhar Vembu had only said the feature was being tested. Group chats were not part of that first rollout, and Vembu said encryption for groups of a certain size would follow "in a few weeks".
+
+## Update (22 November 2026)
+
+The feature we reported as "coming soon" is live. Arattai announced on 18 November 2025 that direct chats were now protected with end-to-end encryption, and Vembu asked users to update the app from the Play Store or App Store and to get their contacts to do the same, as <a href="https://www.business-standard.com/companies/news/arattai-chats-get-end-to-end-encryption-users-urged-to-update-app-125111801312_1.html" target="_blank" rel="noopener">Business Standard reported on the day of the rollout</a>. Older app versions got a three-day grace period, after which encryption became mandatory across the system. For how the app has done since the download rush, see our report on <a href="/zohos-arattai-7-5-million-downloads/">Arattai after the download surge</a>.
+
+## What Arattai Encrypts Today
+
+This table brings together what Zoho said at launch and what the <a href="https://www.arattai.in/faq.html" target="_blank" rel="noopener">official Arattai FAQ</a> says now.
+
+| Part of the app | Status | What Zoho has said |
+|---|---|---|
+| Direct (one-to-one) chats | End-to-end encrypted | Switched on 18 November 2025 for users on the latest version |
+| Voice and video calls | End-to-end encrypted | The FAQ says neither Arattai nor anyone in between can access call content |
+| Group chats | Not covered at launch | In November 2025 Vembu promised groups of a certain size "in a few weeks" |
+| Cloud backups | Optional encryption | The FAQ says you can encrypt a backup before upload and open it with your backup key or recovery code |
+| Where data is stored | India | The FAQ says data is kept in India and conversations are encrypted in storage |
+
+The FAQ also says groups can have up to 1,000 active participants and 50 admins, and one account can be used on up to five devices at a time.
+
+## How the Switch to Encrypted Chats Worked
+
+Zoho did not quietly flip a setting on old conversations. The rollout had rules that explain why some users saw their chat history move:
+
+1. An encrypted chat only works when both people run the latest version of Arattai.
+2. Once both sides have updated, the app opens a new encrypted session for that contact. The old, unencrypted session is archived, and the old chat screen points you to the new one.
+3. You cannot carry on the old session with a contact who has updated. Vembu said that from then on "you will only be able to use end-to-end encrypted chat with that contact".
+4. If a contact was still on an old version, you could keep using the old chat for three days. After that, Arattai pushed everyone to the latest app.
+
+At launch Vembu also said encrypted chats would get a backup option in about two weeks.
+
+## How to Check Your Own Arattai Chats Are Protected
+
+If you installed Arattai during the 2025 rush and have not opened it much since, a few steps based on the rollout rules above will make sure you are on encrypted chats:
+
+1. **Update the app.** Open the Play Store or App Store and install the latest Arattai version. Encryption depends on it.
+2. **Ask regular contacts to update too.** A one-to-one chat becomes encrypted only when both phones run the new version.
+3. **Look for the archived chat.** If an old conversation now appears as archived and a fresh chat has opened with the same person, that fresh chat is the encrypted one.
+4. **Set up backup encryption.** If you back up chats to the cloud, choose the option to encrypt the backup and keep the backup key or recovery code somewhere safe. The FAQ says only you can open such a backup.
+5. **Treat group chats with care.** Groups were not covered at launch, so check the app's own notes before sharing anything sensitive in a large group.
+
+## What Vembu Said About Privacy and the Law
+
+In October 2025, before the rollout, Vembu said Zoho had planned encryption for November but moved faster after users asked for it. He said Arattai would use the audited Signal protocol, that encrypted data stays on the device, and that encrypted chats do not use cloud storage unless a backup is set up. He added that this also cuts server load and running costs for Zoho.
+
+He was also clear that encryption does not put the company above the law. "Sovereign power always prevails over mere companies," he wrote. On advertising, he pointed to companies that use personal data to target ads and said Zoho does not want to do that.
+
+For context, Arattai (the name means "chat" in Tamil) was soft-launched in January 2021. In September 2025 its daily sign-ups rose from about 3,000 to more than 3.5 lakh within three days, and the lack of encrypted text chats drew privacy concerns from new users at the time.
+
+## Arattai Encryption: Common Questions
+
+**Are Arattai chats end-to-end encrypted?**
+Direct one-to-one chats have been end-to-end encrypted since 18 November 2025, as long as both people use the latest app version.
+
+**Are Arattai calls encrypted?**
+Yes. Arattai's FAQ says calls are end-to-end encrypted.
+
+**Where does Arattai store user data?**
+The official FAQ says data is stored in India and conversations are encrypted in storage.
+
+**On how many devices can I use one Arattai account?**
+Up to five devices at a time, according to the FAQ.
