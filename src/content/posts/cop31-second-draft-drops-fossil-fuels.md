@@ -9,12 +9,43 @@ keywords: "COP31 second draft, COP31 fossil fuels removed, COP31 cover decision,
 image: "/images/posts/cop31-second-draft-drops-fossil-fuels.webp"
 imageAlt: "Featured graphic on the revised COP31 climate deal draft in Antalya"
 author: "Editorial Staff"
+updated: 2026-11-23T07:10:00+05:30
 sources:
   - name: "UN News, COP31: Ambition goes missing as fossil fuel language drops from draft deal"
     url: "https://news.un.org/en/story/2026/11/1168839"
   - name: "ThePrint, Fossil fuels vanish from COP31's latest climate deal draft"
     url: "https://theprint.in/science/cop31-fossil-fuels-draft-climate-deal/3103843/"
+  - name: "UN News, COP31 ends without climate pact as UN chief warns there is no ambiguity in the science"
+    url: "https://news.un.org/en/story/2026/11/1168855"
+  - name: "Al Jazeera, COP31 talks break down as EU rejects deal without reference to fossil fuels"
+    url: "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+  - name: "ABC News (Australia), COP31 ends without deal after climate change talks break down"
+    url: "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772"
+  - name: "Xinhua, Extended COP31 concludes in Turkiye without overarching deal"
+    url: "https://english.news.cn/20261123/ab12aafac33e40959ab80a3c8640115e/c.html"
 ---
+
+## Update (23 November 2026): Summit Ends With No Cover Decision
+
+COP31 closed on Sunday, November 22, two days after its scheduled Friday finish, without adopting the cover decision. <a href="https://news.un.org/en/story/2026/11/1168855" target="_blank" rel="noopener">UN News</a> called Antalya the longest-running UN climate summit on record. ABC News (Australia) reports that the last time UN climate talks failed to adopt a deal backed by all parties was Copenhagen in 2009.
+
+The final text was a joint proposal from Australia and Türkiye. Like the November 19 draft described below, it did not name fossil fuels. COP31 President Murat Kurum told the closing session that "there is no agreement on this text", so the decisions were not adopted. ABC reports that the presidents said they would not table another draft.
+
+| Who | Position on the final text, as reported |
+|---|---|
+| European Union | Formally objected. Ireland's climate minister Darragh O'Brien, speaking for the EU presidency, said the bloc would not endorse a text that "does not even mention fossil fuels" (ABC) |
+| Panama | Rejected it, saying it weakened earlier decisions (UN News) |
+| Marshall Islands | Withheld support and called accepting it a "betrayal" of its people (UN News) |
+| Saudi Arabia, for the Arab Group | Defended the carbon capture references and rejected greenwashing claims (UN News). ABC reports Saudi Arabia and Russia backed leaving out the fossil fuel wording |
+| Ghana, for the African Group | Said it would not block consensus but criticised the treatment of finance, loss and damage and the just transition (UN News) |
+| Pakistan | Urged consensus, calling for "bridges, not barriers" (UN News) |
+
+UN Secretary-General António Guterres said he was deeply disappointed and that "there is no ambiguity in the science." Australia's Chris Bowen, co-president of the talks, called the outcome "very disappointing". UN climate chief Simon Stiell said some key decisions, including on a just transition, had been made, and Xinhua quotes him as saying around half the global economy is speeding up electrification. The reports we read do not say which, if any, separate decision texts were formally adopted.
+
+None of the four reports we read mentions India's delegation or its position on the final text. ABC notes that the failure does not cancel obligations agreed at earlier summits. The next summit, COP32, will be held in Addis Ababa, Ethiopia, according to UN News.
+
+The original report from November 20, written while talks were still going on, follows below.
+
 
 Negotiators at the COP31 climate summit in Antalya, Türkiye, released a second draft of the main political agreement on Thursday, November 19, and it no longer mentions fossil fuels at all. The first version, published on Monday, November 16, had two references to moving away from coal, oil and gas. The new text also drops the $120 billion figure for adaptation funding. The summit is due to close on Friday, November 20, and every country has to agree before a deal is adopted.
 
