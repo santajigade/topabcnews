@@ -1,8 +1,9 @@
 ---
 title: "TRAI Direct-to-Device Plan: Phones Could Soon Connect via Satellite"
 slug: "trai-satellite-direct-to-device-recommendations"
-description: "TRAI has recommended satellite direct-to-device services in India and a new 20-year satcom network authorisation with an 8% AGR fee. What it means for users."
+description: "TRAI wants phones to link directly to satellites on six mobile bands and proposes a 20-year satcom network licence with an 8% AGR fee. What changes for users."
 date: 2026-11-06T15:52:00+05:30
+updated: 2026-11-23T21:30:00+05:30
 category: "Technology"
 tags: ["trai", "satellite internet", "direct to device", "telecom", "starlink"]
 keywords: "TRAI direct to device satellite, satellite connectivity smartphones India, TRAI satcom recommendations"
@@ -10,71 +11,82 @@ image: "/images/posts/trai-satellite-direct-to-device-recommendations.webp"
 imageAlt: "TRAI satellite direct-to-device recommendations featured graphic"
 author: "Editorial Staff"
 sources:
-  - name: "Business Standard"
-    url: "https://www.business-standard.com/amp/industry/news/trai-proposes-new-satcom-provider-category-issues-d2d-connectivity-norms-126110502012_1.html"
-  - name: "TelecomLead"
-    url: "https://telecomlead.com/satellite/trai-proposes-20-year-satellite-network-licences-8-revenue-fee-and-direct-to-device-services-in-india-128559"
-  - name: "Inc42"
-    url: "https://inc42.com/"
+  - name: "TRAI: Recommendations on Satellite Communication Network Provider Authorisation and Spectrum Assignment (5 Nov 2026)"
+    url: "https://www.trai.gov.in/sites/default/files/2026-11/Recommendation_05112026.pdf"
+  - name: "TRAI press release list (PR No. 151 of 2026, 5 Nov 2026)"
+    url: "https://www.trai.gov.in/notifications/press-release"
+  - name: "PTI via The Week: TRAI moots separate satcom network authorisation, backs satellite-to-smartphone services"
+    url: "https://www.theweek.in/wire-updates/business/2026/11/05/trai-moots-separate-satcom-network-authorisation-backs-satellite-to-smartphone-services.html"
+  - name: "Apple Support: Use Emergency SOS via satellite on your iPhone"
+    url: "https://support.apple.com/en-hk/HT213426"
+  - name: "Engadget: T-Mobile's Starlink satellite service launches on July 23"
+    url: "https://www.engadget.com/mobile/smartphones/t-mobiles-starlink-satellite-service-launches-on-july-23-120050567.html"
+  - name: "GSMA: T-Mobile to launch T-Satellite commercial service in July"
+    url: "https://www.gsma.com/solutions-and-impact/technologies/networks/?p=44532"
 ---
 
-The <a href="https://www.trai.gov.in/" target="_blank" rel="noopener">Telecom Regulatory Authority of India</a> (TRAI) has recommended that mobile phones in India should be allowed to connect directly to satellites. On Thursday, November 5, 2026, the regulator released a set of recommendations that back satellite direct-to-device, or D2D, services and propose a brand new licence category for companies that run satellite networks. If the government accepts the plan, it could one day help people get mobile signal in places where there is no tower, such as remote villages, hills, forests and the open sea.
+The Telecom Regulatory Authority of India (TRAI) on Thursday, 5 November 2026, recommended that ordinary mobile phones be allowed to connect straight to satellites. Its <a href="https://www.trai.gov.in/sites/default/files/2026-11/Recommendation_05112026.pdf" target="_blank" rel="noopener">recommendations on satellite network authorisation and spectrum</a> back direct-to-device (D2D) service on six regular mobile bands (600, 700, 800, 900, 1800 and 2100 MHz) and create a new licence for companies that run satellite networks. That licence would be valid for 20 years with an authorisation fee of 8% of adjusted gross revenue (AGR). Nothing changes for users yet. The Department of Telecommunications (DoT) has to accept the plan first.
 
-## What is direct-to-device satellite connectivity
+The work began when DoT asked TRAI on 3 July 2025 to frame the terms. TRAI released a consultation paper on 8 April 2026 and held an open house discussion on 2 July before finalising its view.
 
-Today, a normal phone connects to a nearby mobile tower. In direct-to-device service, the phone talks straight to a satellite in the sky, with no tower in between. This is different from satellite broadband services that need a dish antenna on the roof.
+## Update (23 November 2026)
 
-To make D2D possible, TRAI has recommended allowing two kinds of spectrum for satellite to phone links:
+As of 23 November 2026 we found no public decision by DoT on these recommendations and no formal response from Jio, Airtel, Vi or Starlink. The recommendations are not binding. DoT can accept them in full, in part or with changes, and only then can companies apply.
 
-- **Mobile satellite spectrum (MSS)** in the L and S bands
-- **Regular mobile (IMT) spectrum** that telecom companies already use for 4G and 5G
+## Two Ways a Phone Could Reach a Satellite
 
-According to Business Standard, TRAI has suggested that D2D be allowed on six IMT bands, namely 600, 700, 800, 900, 1800 and 2100 MHz. This would be on a non interference, non protection basis, which means satellite use must not disturb existing mobile networks. TRAI also suggested India should not wait for the World Radiocommunication Conference in 2027 before allowing this.
+TRAI's plan allows satellite-to-phone links on two kinds of spectrum:
 
-## A new licence for satellite network providers
+- **Mobile satellite service (MSS) spectrum** in the L and S bands, which is set aside for satellite use.
+- **Terrestrial mobile (IMT) spectrum**, the airwaves mobile operators already use for their networks, on the six bands listed above.
 
-The second big part of the <a href="https://www.business-standard.com/amp/industry/news/trai-proposes-new-satcom-provider-category-issues-d2d-connectivity-norms-126110502012_1.html" target="_blank" rel="noopener">recommendations</a> is a new authorisation under the Telecommunications Act, 2023. TelecomLead calls it the Satellite Communication Network (SCN) Provider Authorisation, while Business Standard describes the business model as Satellite Communication Network as a Service (SCNaaS).
+The IMT route comes with guardrails. Satellite use would be on a "non-interference, non-protection basis", which means it must not disturb existing mobile networks and gets no protection from them. TRAI said India need not wait for the World Radiocommunication Conference in 2027 (WRC-27) to allow this, but conditions should be revisited once WRC-27 decides. According to PTI, IMT-based D2D also needs the agreement of one or more mobile operators that together hold the relevant channel across all 22 licensed service areas.
 
-Under this model, a company that owns or operates satellite capacity can offer it to telecom operators and satellite service providers. However, these network providers cannot sell telecom services directly to end users. Customers would still get the service through their telecom company or a licensed satellite service provider.
+A mobile operator using its own IMT spectrum for satellite D2D would pay no extra spectrum charge for it. TRAI also asked the government to encourage handset makers to include MSS band modules in future smartphones sold in India.
 
-Business Standard named Starlink, Eutelsat OneWeb and Jio Satellite Communications as existing satellite broadband players that could use this new route, and new companies could also enter.
+## The New Satellite Network Licence in Numbers
 
-## Key terms proposed by TRAI
+The second half of the package is a new "Satellite Communication Network Provider" authorisation. Holders would sell capacity as a service (TRAI calls it SCNaaS) to telecom operators and satellite service providers. They could not sell services to customers directly. Existing licence holders, such as access, internet, VSAT and GMPCS licensees, could also offer SCNaaS if they meet the conditions.
 
 | Item | TRAI recommendation |
 |---|---|
-| Licence area | Whole of India |
-| Licence period | 20 years, renewable for another 20 years |
-| Authorisation fee | 8% of adjusted gross revenue (AGR), no minimum fee |
-| Entry fee | Rs 37.50 lakh |
-| Initial guarantee | Rs 45 lakh |
+| Area | Whole of India |
+| Validity | Up to 20 years, renewable for up to 20 more |
+| Authorisation fee | 8% of AGR, no minimum fee |
+| Entry fee | Rs 37.5 lakh (only at first grant) |
+| Initial bank guarantee | Rs 45 lakh |
 | Minimum equity and net worth | Rs 60 lakh each |
 | Application processing fee | Rs 10,000 |
-| Minimum spectrum charge | Rs 3,500 per MHz per year for FSS and MSS spectrum |
+| Minimum spectrum charge | Rs 3,500 per MHz per year |
 | Spectrum assignment | Administrative, up to 5 years, extendable by 2 years |
-| Satellite bands covered | C, Ku, Ka and Q/V; MSS in L and S |
+| Rollout test | Feeder link within 12 months, user link within 6 months of spectrum assignment |
 
-TelecomLead adds that spectrum charges would be linked to revenue, with different treatment for urban and rural areas in the case of non geostationary systems such as low earth orbit satellites.
+Spectrum charges would be based on AGR, with an urban and rural difference for non-geostationary (low orbit) broadband systems. TRAI wants the government to assign spectrum within 30 days of an application. Telecom operators that buy SCNaaS could deduct those charges from their gross revenue, subject to documents.
 
-## Telecom operators can use their own spectrum
+## D2D Versus Dish Broadband: What Users Should Expect
 
-One user friendly detail is how D2D will work with existing mobile companies. Telecom operators that already hold the relevant IMT spectrum can partner with an authorised satellite network provider to offer satellite to phone services. As per TelecomLead, these operators would not pay any extra spectrum charge for using their own IMT spectrum for satellite D2D.
+People often mix up direct-to-device service with satellite broadband of the kind Starlink sells. They are different products.
 
-TRAI has also asked the government to encourage smartphone makers to include satellite band modules for the L and S bands in future phones. This matters because most phones sold today are not built to talk to satellites on these bands.
+| | Dish satellite broadband | Direct-to-device (D2D) |
+|---|---|---|
+| Equipment | A dish or terminal on the roof | Your phone, no extra hardware |
+| Spectrum for the user link | Fixed satellite (FSS) bands | MSS (L, S) or regular mobile bands |
+| Typical use | Home or office internet | Texts and basic data where no tower reaches |
+| Who sells it in TRAI's plan | Licensed satellite service providers | Mobile operators or satellite providers, using an SCN provider's network |
 
-## What it could mean for mobile users
+The US gives a sense of what D2D looks like in practice. According to Engadget, T-Mobile launched T-Satellite with Starlink on 23 July 2025, starting with texting, with data for select apps such as WhatsApp from 1 October. It was free on T-Mobile's top plan and cost $10 a month for others. The <a href="https://www.gsma.com/solutions-and-impact/technologies/networks/?p=44532" target="_blank" rel="noopener">GSMA reported</a> that most smartphones made in the previous four years were compatible without special equipment. That is the model TRAI's IMT route would make possible here.
 
-The recommendations are mainly about licences and fees, but the long term effect could be felt by ordinary users. Possible benefits include:
+Satellite messaging already exists on some phones, but not for Indian users. Apple's <a href="https://support.apple.com/en-hk/HT213426" target="_blank" rel="noopener">Emergency SOS via satellite</a> works on iPhone 14 and later models, yet India is not on its list of supported countries. Apple says availability depends on government rules and approvals, which is exactly what these recommendations are about. Even where it works, you need to be outdoors with a clear view of the sky.
 
-- **Coverage in dead zones** such as mountain roads, deserts, islands and border areas
-- **Emergency messaging** during floods, cyclones or earthquakes when towers go down
-- **Connectivity for fishermen, truckers and trekkers** who travel far from towns
-- **More competition** as new satellite players enter through the network provider route
+## Who Would Benefit Most in India
 
-These benefits depend on how the final rules look and on phones that support satellite bands, so users should not expect satellite calls on every phone overnight.
+The recommendations are about licences and fees, but the people most likely to feel the effect are those outside mobile coverage:
 
-Inc42 also reported the move as a push for satellite connectivity on smartphones. For more technology coverage, read our report on [Zoho's Arattai messaging app](/zohos-arattai-7-5-million-downloads/).
+- Travellers on mountain roads, in deserts and on islands
+- Fishermen at sea and truckers on long highway stretches
+- Residents of areas hit by floods or cyclones when towers fail
+- Trekkers and pilgrims in remote Himalayan regions
 
-## What Happens Next With TRAI's Proposal
+How useful the service becomes depends on the final rules, the price operators set and whether phones support the bands. In the US, T-Mobile's service began with texting, not calls or video.
 
-These are recommendations, not final rules. Business Standard notes that they are not binding on the government. The proposals now go to the <a href="https://dot.gov.in/" target="_blank" rel="noopener">Department of Telecommunications</a>, which will decide whether to accept them fully, partly or with changes. Only after that can companies apply for licences and start testing satellite to phone services. If DoT moves quickly, India could join the growing list of countries where a regular smartphone can reach a satellite when there is no mobile tower nearby.
+For more on the satellite race, read our report on the <a href="/ula-vulcan-failure-40-amazon-leo-satellites-lost/">ULA Vulcan failure that destroyed 40 Amazon Leo satellites</a>, and see how SpaceX is building its launch system in our story on <a href="/spacex-starship-caught-by-tower-first-time/">Starship being caught by the tower</a>.

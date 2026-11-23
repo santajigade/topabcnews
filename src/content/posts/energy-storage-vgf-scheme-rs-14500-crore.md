@@ -1,8 +1,9 @@
 ---
 title: "Energy Storage VGF Scheme: Cabinet Clears Rs 14,500 Crore for 92 GWh"
 slug: "energy-storage-vgf-scheme-rs-14500-crore"
-description: "The Union Cabinet approved a Rs 14,500 crore Viability Gap Funding scheme for 92 GWh of grid-scale energy storage. Know the capacity split, rules and timeline."
+description: "Cabinet approved Rs 14,500 crore VGF for 92 GWh of grid storage: 60 GWh pumped hydro, 30 GWh batteries, 40% local content. How it compares with earlier schemes."
 date: 2026-11-06T15:25:00+05:30
+updated: 2026-11-23T21:30:00+05:30
 category: "Yojana"
 tags: ["viability gap funding", "energy storage", "bess", "pumped storage", "cabinet decision"]
 keywords: "viability gap funding scheme, grid scale energy storage, battery energy storage system, pumped hydro storage"
@@ -10,71 +11,99 @@ image: "/images/posts/energy-storage-vgf-scheme-rs-14500-crore.webp"
 imageAlt: "Energy storage viability gap funding scheme featured graphic"
 author: "Editorial Staff"
 sources:
-  - name: "Vajiram and Ravi (citing PIB)"
-    url: "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/"
-  - name: "Note on Cabinet Decisions, 4 November 2026"
-    url: "https://clpgnfprcfoundation.substack.com/p/note-on-cabinet-decisions-4th-november"
-  - name: "Press Information Bureau"
-    url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474"
+  - name: "PM India: Cabinet approves Rs 14,500 crore VGF scheme for 92 GWh grid-scale energy storage (4 Nov 2026)"
+    url: "https://www.pmindia.gov.in/?p=16971185"
+  - name: "Argus Media: India approves funding for 92GWh grid-scale storage"
+    url: "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2899902-india-approves-funding-for-92gwh-grid-scale-storage"
+  - name: "Energy-Storage.news: India approves VGF to support 92GWh of BESS and pumped hydro"
+    url: "https://www.energy-storage.news/india-approves-viability-gap-funding-to-support-92gwh-of-bess-and-pumped-hydro-energy-storage-capacity/"
+  - name: "Business Standard: Govt announces additional VGF for 30 GWh battery storage (June 2025)"
+    url: "https://www.business-standard.com/industry/news/govt-additional-vgf-battery-storage-renewables-grid-125061001241_1.html"
+  - name: "Reuters via ThePrint: India to offer incentives for battery storage projects (June 2023)"
+    url: "https://theprint.in/india/india-to-offer-455-million-in-incentives-for-battery-storage-projects-sources/1614580"
+  - name: "Energy-Storage.news: India launches competitive tender scheme to help fund 4GWh of battery storage"
+    url: "https://www.energy-storage.news/india-launches-competitive-tender-scheme-to-help-fund-4gwh-of-battery-storage/"
 ---
 
-The <a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474" target="_blank" rel="noopener">Union Cabinet</a> has approved a new <a href="https://mnre.gov.in/" target="_blank" rel="noopener">Viability Gap Funding</a> (VGF) scheme to build large energy storage systems for India's power grid. Cleared in the Cabinet meeting of November 4, 2026, the scheme offers Rs 14,500 crore in financial support to help set up 92 gigawatt hours (GWh) of storage capacity by 2030-31. The aim is simple: store extra solar and wind power when it is produced and supply it when people need it, so that clean energy can keep the lights on even after sunset.
+The Union Cabinet on 4 November 2026 approved a Rs 14,500 crore Viability Gap Funding (VGF) scheme to build 92 gigawatt hours (GWh) of grid-scale energy storage. The money will be spent between FY 2026-27 and FY 2030-31, and the government expects it to pull in about Rs 97,600 crore of total investment. The purpose is to store solar and wind power when it is plentiful and release it when demand peaks, usually in the evening.
 
-The scheme is expected to attract total investment of about Rs 97,600 crore.
-
-## What is Viability Gap Funding?
-
-Large storage projects are expensive to build. If developers had to recover the full cost from electricity tariffs, the power would become too costly for distribution companies and consumers. Viability Gap Funding closes this gap. The government pays a part of the project cost upfront, so that the project becomes financially workable and the final tariff stays affordable.
-
-India has used this model earlier for roads, airports and a smaller battery storage scheme. This new scheme is much larger in size and also covers pumped hydro projects.
-
-## How the 92 GWh capacity is divided
-
-The scheme spreads support across three types of storage:
-
-| Storage type | Target capacity |
+| Item | What the Cabinet approved |
 |---|---|
-| Pumped Hydro Storage (PSP) | 60 GWh |
-| Battery Energy Storage Systems (BESS) | 30 GWh |
-| Alternative storage technologies | 2 GWh |
-| **Total** | **92 GWh** |
+| Total VGF support | Rs 14,500 crore |
+| Period | FY 2026-27 to FY 2030-31 |
+| Capacity | 92 GWh (not yet commissioned) |
+| Expected investment | About Rs 97,600 crore |
+| Local content rule | At least 40% for battery projects |
+| How capacity is given out | Tariff-based competitive bidding |
 
-**Pumped hydro storage** works like a giant water battery. When power is cheap and plentiful, water is pumped up to a higher reservoir. When demand rises, the water flows down through turbines to make electricity again.
+According to the <a href="https://www.pmindia.gov.in/?p=16971185" target="_blank" rel="noopener">official Cabinet release</a>, the new 92 GWh equals 170% of India's present grid-scale storage capacity. It is meant to help meet a projected need of 411 GWh of grid-scale storage by 2031-32.
 
-**Battery storage** uses large banks of batteries, usually lithium based, placed near substations or solar parks. They can respond within seconds, which helps keep the grid stable.
+## The 92 GWh Split and Who Can Apply
 
-The small **alternative technologies** share leaves room for newer methods that may become important in future.
+| Storage type | Target | Eligible entities |
+|---|---|---|
+| Pumped hydro storage (PSP) | 60 GWh | Public and private electricity distribution companies |
+| Battery energy storage (BESS) | 30 GWh | Public and private electricity distribution companies |
+| Alternative or emerging technologies | 2 GWh | Public and private sector entities |
 
-## Key highlights of the scheme
+Pumped hydro works like a water battery. Water is pumped uphill to a reservoir when power is cheap and let down through turbines when power is needed. Battery systems are banks of cells placed near substations or solar parks, and they can react within seconds. The 2 GWh slice keeps a door open for newer methods.
 
-- **Total support:** Rs 14,500 crore as Viability Gap Funding
-- **Expected investment:** about Rs 97,600 crore
-- **Capacity target:** 92 GWh of grid-scale storage
-- **Period:** FY 2026-27 to FY 2030-31
-- **Make in India rule:** battery projects must have at least 40% domestic content
-- **Selection:** capacity will be given through tariff-based competitive bidding
-- **Who can benefit:** public and private electricity distribution companies for BESS and pumped storage projects; public and private entities for alternative technology projects
+Note what the scheme is not. There is no payment to households and no direct application by individuals. The beneficiaries are distribution companies (discoms) and, for the alternative technology slice, companies. Ordinary consumers gain only if storage helps discoms supply steadier power at lower cost.
 
-## Why India needs energy storage
+## How Tariff-Based Bidding and VGF Work Together
 
-India is adding solar and wind power at a fast pace. But solar plants produce power only in the daytime, and wind output changes with the weather. Demand for electricity, on the other hand, often peaks in the evening. Without storage, a lot of clean power can go waste in the afternoon while costly power has to be bought at night.
+Storage is costly to build. If a developer had to recover the full cost through tariffs, stored power would be too expensive for discoms to buy. VGF is a government grant that covers part of the capital cost, so the developer can quote a lower tariff.
 
-Grid-scale storage solves this mismatch. It helps distribution companies supply reliable power round the clock and supports the integration of more renewable energy into the grid. According to the official description of the scheme, it should also improve the financial viability of storage projects and strengthen long-term energy security.
+Under tariff-based competitive bidding, developers compete on the price they will charge for storage. The lowest bid wins. A Reuters report on the first battery scheme in 2023 described this model: contracts went to the lowest bidder and the grant was paid in five tranches through 2030-31. Energy-Storage.news reported that the 2023 scheme capped support at 40% of a project's capital cost and tied each tranche to project milestones.
 
-## Boost for domestic manufacturing
+The Cabinet release for the 2026 scheme does not yet spell out the per-project cap or the payment schedule. Those details are expected in the scheme guidelines. We could not find published guidelines as of 23 November 2026.
 
-A major goal of the scheme is to reduce dependence on imported components. By requiring at least 40% domestic content in battery storage projects, the government wants to create steady demand for Indian made battery systems. This demand-side support is expected to encourage companies to set up and expand manufacturing units in India.
+## How the 2026 Scheme Compares With Earlier Storage VGF
 
-In the same Cabinet meeting, the government also approved a Rs 2,814 crore capex support scheme for processing critical minerals such as lithium and nickel, which are key raw materials for batteries. Together, the two decisions point towards a wider push to build a local battery supply chain.
+This is the third round of central VGF for storage. Unlike the two earlier rounds, which covered only batteries, it also includes pumped hydro.
 
-## What it means for common people
+| Round | Announced | Capacity | Central support | Other details |
+|---|---|---|---|---|
+| First BESS VGF | 2023 | 4,000 MWh (4 GWh) of batteries | Rs 3,760 crore | Up to 40% of capex; five tranches; later expanded to 13.2 GWh |
+| Second BESS VGF | June 2025 | 30 GWh of batteries | Rs 5,400 crore | Paid from the Power System Development Fund; expected investment Rs 33,000 crore |
+| Grid-scale storage VGF | November 2026 | 92 GWh (60 pumped hydro, 30 batteries, 2 other) | Rs 14,500 crore | 40% domestic content for batteries; expected investment Rs 97,600 crore |
 
-The scheme does not give money directly to households. Its benefit will reach people indirectly through more reliable electricity, fewer power cuts during peak hours and greater use of cleaner energy. If storage helps distribution companies avoid buying expensive power at peak times, it may also help keep power costs in check over the long run.
+A few points stand out:
 
-For job seekers and students, growth in battery manufacturing and pumped hydro construction may open new opportunities in engineering, construction and clean energy. You can also read about other government support schemes such as the [PM Vidya Lakshmi education loan scheme](/pm-vidya-lakshmi-education-loan-scheme-2025/) on our site.
+- **Support per GWh is falling.** By our own arithmetic, the June 2025 round worked out to about Rs 180 crore per GWh (Rs 5,400 crore for 30 GWh). The 2026 round is about Rs 158 crore per GWh (Rs 14,500 crore for 92 GWh), though it mixes battery and pumped hydro projects, so the two are not exactly alike.
+- **The local content bar has doubled.** Energy-Storage.news reported that a 20% minimum domestic content rule was set earlier in 2026. The new scheme raises this to 40% for battery projects.
+- **The base is still small.** The same report cited Central Electricity Authority data of 5.3 GWh of battery storage in operation and 185 GWh under development.
 
-## What the Scheme Means for India's Power Sector
+<a href="https://www.business-standard.com/industry/news/govt-additional-vgf-battery-storage-renewables-grid-125061001241_1.html" target="_blank" rel="noopener">Business Standard reported in June 2025</a> that the earlier Rs 3,700 crore incentive was supporting 13.2 GWh of battery storage, and that the 30 GWh round would give 25 GWh to 15 states and 5 GWh to NTPC.
 
-The Rs 14,500 crore Viability Gap Funding scheme for grid-scale energy storage is one of the biggest steps yet to make India's growing renewable power more dependable. With 92 GWh of planned storage, a 40% local content rule for batteries and a five year timeline, the scheme aims to make clean power available when it is needed most.
+## The 40% Local Content Rule and Battery Manufacturing
 
-*This article is for general information only and is not professional advice. For official details, see the [Press Information Bureau](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474).*
+The domestic content requirement is the part of the scheme aimed at factories, not power grids. Every battery project funded under it must source at least 40% of its value from India. That creates assured demand for Indian-made cells, packs and systems over five years.
+
+It ties in with other recent moves on the battery supply chain, such as the <a href="/critical-mineral-processing-scheme-lithium-nickel/">critical mineral processing scheme for lithium and nickel</a> and the <a href="/india-bans-lithium-ion-black-mass-export/">ban on exporting lithium-ion black mass</a>, which keeps recycled battery material in the country.
+
+## What Comes Next for Discoms and Developers
+
+The scheme sits alongside a push to make storage a standard part of new clean energy projects. <a href="https://www.argusmedia.com/en/news-and-insights/latest-market-news/2899902-india-approves-funding-for-92gwh-grid-scale-storage" target="_blank" rel="noopener">Argus Media reported</a> that the Central Electricity Authority has proposed mandatory co-located storage for new ground-mounted solar and onshore wind projects commissioned from July 2027, with a minimum storage duration of four hours from July 2029.
+
+Energy-Storage.news, citing Reuters, reported that Power Secretary Pankaj Agarwal said state utilities will face mandatory storage capacity requirements, though no date was given. Until guidelines and the first tenders under the new scheme are issued, the exact bid rules remain unknown.
+
+## Grid Storage VGF Scheme: Common Questions
+
+### Who can get money under the energy storage VGF scheme?
+
+Public and private electricity distribution companies can receive support for battery and pumped hydro projects. Public and private sector entities can take up the 2 GWh of alternative storage technology projects. Individuals and households cannot apply.
+
+### How much funding does the scheme provide and for how long?
+
+The total is Rs 14,500 crore, spread over FY 2026-27 to FY 2030-31. It is expected to support total investment of about Rs 97,600 crore.
+
+### What is the domestic content requirement for battery projects?
+
+Battery energy storage projects must have at least 40% domestic content. This is double the 20% minimum that was set earlier in 2026.
+
+### How are projects selected?
+
+Storage capacity will be allocated through tariff-based competitive bidding, where developers compete on the tariff they quote. We could not find published bidding guidelines as of 23 November 2026.
+
+*This article is general information only and is not professional or investment advice.*

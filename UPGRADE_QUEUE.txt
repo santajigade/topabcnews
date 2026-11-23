@@ -30,16 +30,16 @@ done 2026-11-22 | openai-ipo-soon-chatgpt | Technology | 2025-10-30 | 905
 done 2026-11-22 | lenskart-ipo-opens-today-31st-oct | Finance | 2025-10-31 | 1203
 done 2026-11-22 | whats-next-for-tiktok-in-the-us | Technology | 2025-12-16 | 843
 done 2026-11-22 | china-ai-jobs-plan | Technology | 2026-03-11 | 1029
-todo | gold-rate-today-dhanteras-2026 | Finance | 2026-11-06 | 859
-todo | energy-storage-vgf-scheme-rs-14500-crore | Yojana | 2026-11-06 | 831
-todo | cat-2026-admit-card-iimcat | Education | 2026-11-06 | 793
-todo | india-win-asian-champions-trophy-2026 | Sports | 2026-11-06 | 724
-todo | ramayana-part-one-box-office-day-1 | Bollywood | 2026-11-06 | 1025
-todo | mercedes-glc-electric-launched-india | Automobile | 2026-11-06 | 921
-todo | trai-satellite-direct-to-device-recommendations | Technology | 2026-11-06 | 851
-todo | delhi-aqi-severe-diwali-health-tips | Health | 2026-11-06 | 910
-todo | sensex-jumps-1718-points-nifty-25000 | Finance | 2026-11-06 | 939
-todo | india-vs-new-zealand-2nd-odi-wellington | Sports | 2026-11-06 | 818
+done 2026-11-23 | gold-rate-today-dhanteras-2026 | Finance | 2026-11-06 | 859
+done 2026-11-23 | energy-storage-vgf-scheme-rs-14500-crore | Yojana | 2026-11-06 | 831
+done 2026-11-23 | cat-2026-admit-card-iimcat | Education | 2026-11-06 | 793
+done 2026-11-23 | india-win-asian-champions-trophy-2026 | Sports | 2026-11-06 | 724
+done 2026-11-23 | ramayana-part-one-box-office-day-1 | Bollywood | 2026-11-06 | 1025
+done 2026-11-23 | mercedes-glc-electric-launched-india | Automobile | 2026-11-06 | 921
+done 2026-11-23 | trai-satellite-direct-to-device-recommendations | Technology | 2026-11-06 | 851
+done 2026-11-23 | delhi-aqi-severe-diwali-health-tips | Health | 2026-11-06 | 910
+noindex 2026-11-23 | sensex-jumps-1718-points-nifty-25000 | Finance | 2026-11-06 | 939
+noindex 2026-11-23 | india-vs-new-zealand-2nd-odi-wellington | Sports | 2026-11-06 | 818
 todo | india-data-centre-capacity-7-5-gw-2030 | Technology | 2026-11-06 | 809
 todo | ramayana-box-office-day-2-collection | Bollywood | 2026-11-07 | 874
 todo | critical-mineral-processing-scheme-lithium-nickel | Yojana | 2026-11-07 | 889

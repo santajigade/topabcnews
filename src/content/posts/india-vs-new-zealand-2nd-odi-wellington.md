@@ -9,6 +9,7 @@ keywords: "India vs New Zealand 2nd ODI, IND vs NZ Wellington, Devon Conway rule
 image: "/images/posts/india-vs-new-zealand-2nd-odi-wellington.webp"
 imageAlt: "India vs New Zealand 2nd ODI preview featured graphic"
 author: "Editorial Staff"
+noindex: true
 sources:
   - name: "ANI: Devon Conway ruled out of India ODI series with concussion"
     url: "https://aninews.in/news/sports/cricket/new-zealand-suffer-injury-blow-as-devon-conway-ruled-out-of-india-odi-series-with-concussion-matt-henry-cleared-for-second-odi20261106082930"

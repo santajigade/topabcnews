@@ -9,6 +9,7 @@ keywords: "Sensex today, Nifty 25000, stock market November 6 2026, Sensex Dhant
 image: "/images/posts/sensex-jumps-1718-points-nifty-25000.webp"
 imageAlt: "Sensex and Nifty Dhanteras rally featured graphic"
 author: "Editorial Staff"
+noindex: true
 sources:
   - name: "HDFC Sky market close report, November 6, 2026"
     url: "https://hdfcsky.com/news/market-close-report-today-november-6-2026-diwali-party-continues-in-full-swing-ignoring-global-selloff"
