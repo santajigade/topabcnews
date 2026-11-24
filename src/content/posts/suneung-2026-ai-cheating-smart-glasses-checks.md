@@ -9,6 +9,7 @@ keywords: "Suneung 2026 AI cheating, CSAT smart glasses check, South Korea colle
 image: "/images/posts/suneung-2026-ai-cheating-smart-glasses-checks.webp"
 imageAlt: "Graphic on South Korea's Suneung exam and new checks against AI smart glasses cheating"
 author: "Editorial Staff"
+updated: 2026-11-24T06:59:00+05:30
 sources:
   - name: "ABC News (AP): AI cheating fears spook South Korea ahead of high-stakes college entrance exam"
     url: "https://abcnews.com/Technology/wireStory/ai-cheating-fears-spook-south-korea-ahead-high-138171058"
@@ -24,7 +25,29 @@ sources:
     url: "https://en.fnnews.com/news/202610201000321049"
   - name: "India Code: Public Examinations (Prevention of Unfair Means) Act, 2024, as amended"
     url: "https://www.indiacode.nic.in/bitstream/123456789/20100/1/A20241.pdf"
+  - name: "The Korea Times: Education minister resigns amid backlash over CSAT anti-cheating measures"
+    url: "https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures"
+  - name: "Korea JoongAng Daily: Lee accepts education minister's resignation after CSAT anticheating measures trigger nationwide confusion"
+    url: "https://www.koreajoongangdaily.com/korea/lee-accepts-education-ministers-resignation-after-csat-anticheating-measures-trigger-nationwide-confusion/12984387"
+  - name: "SBS News: Education Minister Choi Kyo-jin resigns over CSAT chaos"
+    url: "https://news.sbs.co.kr/english/article.do?news_id=N1008858088"
 ---
+
+## Update (24 November 2026): Education Minister Resigns Over Exam Rule Chaos
+
+South Korea's Education Minister Choi Kyo-jin resigned on Sunday, November 22, three days after the exam, and President Lee Jae Myung accepted the resignation the same day. <a href="https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures" target="_blank" rel="noopener">The Korea Times</a> reports that Lee accepted it within an hour. Choi said last-minute changes to exam preparations had "caused inconvenience to the public", and that the test had still ended without major incident.
+
+The complaints were about timing. According to The Korea Times, the ministry announced 8,400 extra staff two days before the exam, about 1,800 of them for detecting smart devices and 6,600 as hallway proctors, and told students to cover clothing buttons with stickers. A day before the exam it banned items that had been allowed until then, including computer-readable marking pens, correction tape, erasers and mechanical pencil lead. Newly assigned proctors got rushed online training the day before. Korea JoongAng Daily reports that proctors checked glasses on exam day, that emergency phone alerts went out nationwide three times during the test, and that the ministry caught 111 suspected cases of cheating with electronic devices.
+
+| What happened | Date |
+|---|---|
+| Tax accountant exam topper admits AI cheating | November 15 |
+| Choi tells a parliamentary committee he doubts he can catch all AI cheating | November 16 |
+| Suneung held | November 19 |
+| Choi resigns, Lee accepts | November 22 |
+
+Lee has asked Prime Minister Han Seong-sook to oversee the follow-up. In a post on X, reported by JoongAng Daily, Lee said exam fairness "can never be compromised", promised a full inspection of how the CSAT and other exams are run, and said he would order a review of adding identification marks to question papers so that photographed or leaked papers can be traced. No successor had been named in the reports we read. The original report from November 17 follows below.
+
 
 South Korea will inspect the glasses of every student sitting the Suneung, its national college entrance exam, on Thursday, November 19. The move follows a scandal that broke on November 15, when the top scorer of this year's national tax accountant exam admitted he had cheated with a hidden camera and a generative AI tool. More than half a million students take the Suneung, and officials now fear that AI devices small enough to hide in a frame or a button could undermine the country's most important test.
 
