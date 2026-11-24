@@ -9,6 +9,7 @@ keywords: "ramayana box office collection day 2, ramayana part one collection, r
 image: "/images/posts/ramayana-box-office-day-2-collection.webp"
 imageAlt: "Ramayana Part One box office day 2 featured graphic"
 author: "Editorial Staff"
+noindex: true
 sources:
   - name: "Sacnilk, Ramayana Part 1 day wise box office"
     url: "https://www.sacnilk.com/news/ramayana_part_1_2026_Box_Office_Collection_Day_Wise_Worldwide"

@@ -40,16 +40,16 @@ done 2026-11-23 | trai-satellite-direct-to-device-recommendations | Technology |
 done 2026-11-23 | delhi-aqi-severe-diwali-health-tips | Health | 2026-11-06 | 910
 noindex 2026-11-23 | sensex-jumps-1718-points-nifty-25000 | Finance | 2026-11-06 | 939
 noindex 2026-11-23 | india-vs-new-zealand-2nd-odi-wellington | Sports | 2026-11-06 | 818
-todo | india-data-centre-capacity-7-5-gw-2030 | Technology | 2026-11-06 | 809
-todo | ramayana-box-office-day-2-collection | Bollywood | 2026-11-07 | 874
-todo | critical-mineral-processing-scheme-lithium-nickel | Yojana | 2026-11-07 | 889
-todo | royal-enfield-himalayan-750-unveiled | Automobile | 2026-11-07 | 889
-todo | fada-october-2026-vehicle-retail-sales | Automobile | 2026-11-07 | 860
-todo | muhurat-trading-2026-timings-samvat-2083 | Finance | 2026-11-07 | 811
-todo | cosmoserve-base-1-space-debris-hyderabad | Technology | 2026-11-07 | 859
-todo | paraguay-president-pena-removed-ueno-bank | World | 2026-11-07 | 940
-todo | india-beat-new-zealand-2nd-odi-dls-wellington | Sports | 2026-11-07 | 819
-todo | november-2026-night-sky-supermoon-leonids | Science | 2026-11-07 | 999
+done 2026-11-24 | india-data-centre-capacity-7-5-gw-2030 | Technology | 2026-11-06 | 809
+noindex 2026-11-24 | ramayana-box-office-day-2-collection | Bollywood | 2026-11-07 | 874
+done 2026-11-24 | critical-mineral-processing-scheme-lithium-nickel | Yojana | 2026-11-07 | 889
+done 2026-11-24 | royal-enfield-himalayan-750-unveiled | Automobile | 2026-11-07 | 889
+done 2026-11-24 | fada-october-2026-vehicle-retail-sales | Automobile | 2026-11-07 | 860
+done 2026-11-24 | muhurat-trading-2026-timings-samvat-2083 | Finance | 2026-11-07 | 811
+done 2026-11-24 | cosmoserve-base-1-space-debris-hyderabad | Technology | 2026-11-07 | 859
+done 2026-11-24 | paraguay-president-pena-removed-ueno-bank | World | 2026-11-07 | 940
+noindex 2026-11-24 | india-beat-new-zealand-2nd-odi-dls-wellington | Sports | 2026-11-07 | 819
+done 2026-11-24 | november-2026-night-sky-supermoon-leonids | Science | 2026-11-07 | 999
 todo | us-jobs-report-october-2026-165000 | Finance | 2026-11-07 | 907
 todo | karnataka-ethanol-petrol-tests-e20-row | Automobile | 2026-11-07 | 878
 todo | cop31-antalya-climate-summit-india | World | 2026-11-07 | 884

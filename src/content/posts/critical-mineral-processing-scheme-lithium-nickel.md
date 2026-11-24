@@ -3,6 +3,7 @@ title: "Critical Mineral Processing Scheme: Rs 2,814 Crore for Lithium, Nickel"
 slug: "critical-mineral-processing-scheme-lithium-nickel"
 description: "Cabinet clears Rs 2,814 crore capex support scheme with 30% subsidy for four lithium and nickel processing plants. Know caps, capacity, selection and timeline."
 date: 2026-11-07T07:35:00+05:30
+updated: 2026-11-24T21:45:00+05:30
 category: "Yojana"
 tags: ["critical minerals", "lithium", "nickel", "cabinet decision", "ministry of mines"]
 keywords: "capex support scheme critical mineral processing, lithium processing plant india, nickel processing scheme"
@@ -10,69 +11,88 @@ image: "/images/posts/critical-mineral-processing-scheme-lithium-nickel.webp"
 imageAlt: "Critical mineral processing scheme for lithium and nickel featured graphic"
 author: "Editorial Staff"
 sources:
+  - name: "PM India: Cabinet approves Capex Support Scheme to Promote Critical Mineral Processing (4 November 2026)"
+    url: "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-capex-support-scheme-to-promote-critical-mineral-processing-with-an-outlay-of-rs-2814-crore-for-lithium-and-nickel-processing/"
+  - name: "PM India: Cabinet approves Rs 1,500 crore incentive scheme for critical mineral recycling (3 September 2025)"
+    url: "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-1500-crore-incentive-scheme-to-promote-critical-mineral-recycling-in-the-country/"
+  - name: "The Hans India: Kishan Reddy on capex support scheme for lithium and nickel"
+    url: "https://www.thehansindia.com/news/cities/hyderabad/extending-the-capex-support-scheme-for-cmp-for-lithium-and-nickel-is-a-game-changer-um-kishan-reddy-said-1139421"
+  - name: "Mining Weekly (Reuters): India to soon unveil incentives for lithium, nickel processing (4 June 2026)"
+    url: "https://www.miningweekly.com/article/india-to-soon-unveil-incentives-for-lithium-nickel-processing-with-313m-outlay-sources-say-2026-06-04"
+  - name: "Open Magazine: Why is India spending Rs 2,814 crore on lithium and nickel processing"
+    url: "https://openthemagazine.com/india/quick-take-why-is-india-spending-2814-crore-on-lithium-and-nickel-processing-seven-things-to-know"
+  - name: "YourStory: Cabinet approves Rs 2,814 Cr scheme to promote processing of lithium, nickel"
+    url: "https://yourstory.com/2026/11/cabinet-approves-rs-2814-cr-scheme-to-promote-processing-of-lithium-nickel"
   - name: "PSU Watch, Cabinet approves Rs 2,814 cr capex support"
     url: "https://psuwatch.com/newsupdates/cabinet-approves-rs-2814-cr-capex-support-for-4-lithium-nickel-processing-plants"
   - name: "Devdiscourse (ANI), Cabinet approves Rs 2,814 crore capex scheme"
     url: "https://www.devdiscourse.com/article/business/4001530-cabinet-approves-rs-2814-crore-capex-scheme-for-domestic-lithium-and-nickel-processing"
-  - name: "Vajiram and Ravi (citing PIB)"
-    url: "https://vajiramandravi.com/current-affairs/capex-support-scheme-to-promote-critical-mineral-processing/"
 ---
 
-The Union Cabinet has approved a new scheme to help companies set up plants in India that turn raw lithium and nickel into battery grade material. Called the Capex Support Scheme to Promote Critical Mineral Processing, it carries a total outlay of Rs 2,814 crore and will run for five years, from 2026-27 to 2030-31. Union Minister Ashwini Vaishnaw announced the decision at a media briefing after the Cabinet meeting on Wednesday, November 4, 2026. The goal is to cut India's dependence on imported refined minerals that go into electric vehicle batteries, energy storage, electronics and defence equipment.
+The Union Cabinet approved the Capex Support Scheme to Promote Critical Mineral Processing on Wednesday, November 4, 2026. It has an outlay of Rs 2,814 crore and runs for five years, from 2026-27 to 2030-31. The government will pay a 30 percent capital subsidy to four new plants, two that refine lithium and two that refine nickel, so that battery grade material can be made in India instead of imported.
 
-The same Cabinet meeting also cleared a large <a href="/energy-storage-vgf-scheme-rs-14500-crore/">energy storage funding scheme</a>, and both decisions are linked to India's clean energy and battery plans.
+Support is capped at Rs 500 crore for each lithium plant and Rs 900 crore for each nickel plant. Companies will be chosen through a technical round followed by bidding, and the lowest bids for subsidy win. Money is paid in three tranches tied to milestones, as set out in the <a href="https://www.pmindia.gov.in/en/news_updates/cabinet-approves-capex-support-scheme-to-promote-critical-mineral-processing-with-an-outlay-of-rs-2814-crore-for-lithium-and-nickel-processing/" target="_blank" rel="noopener">official Cabinet release</a>.
 
-## Why India Needs Its Own Lithium and Nickel Processing
-
-Mining a mineral is only the first step. Before it can be used in a battery cell, lithium ore has to be refined into high purity chemicals, and nickel has to be turned into battery grade nickel sulphate or high purity metal. This middle step, known as processing or refining, is where India is weak today.
-
-In its official statement, the government noted that critical mineral processing is concentrated in only a few locations around the world. That leaves supply chains open to geopolitical disruption, sudden price swings and export restrictions. India still depends heavily on imports for refined intermediates and high purity materials, because domestic processing for lithium, nickel and cobalt is at an early stage.
-
-Speaking at the briefing, Mr Vaishnaw said raw critical material, whether it comes from mines or from recycling, must be brought into a condition that is ready for manufacturing. The new scheme is meant to fill exactly that gap.
-
-## How the 30 Percent Capital Subsidy Will Work
-
-The scheme offers a capital subsidy of 30 percent on eligible investment in new processing plants. In simple words, the government will pay back almost a third of the money a company spends on building the plant, up to a fixed limit.
-
-Support will go to only four plants in total, two for lithium and two for nickel. Each plant must meet a minimum size so that the country gets meaningful output.
+## Scheme Details at a Glance
 
 | Detail | Lithium plants | Nickel plants |
 |---|---|---|
 | Number of plants | 2 | 2 |
 | Minimum capacity per plant | 30 kilotonnes | 50 kilotonnes |
+| Combined minimum capacity | 60 kilotonnes | 100 kilotonnes |
 | Maximum support per beneficiary | Rs 500 crore | Rs 900 crore |
-| Output | Battery grade lithium products from ores and concentrates (brines excluded) | Class 1 nickel or battery grade nickel sulphate |
+| Output | High purity lithium compounds from ores or intermediates | High purity nickel compounds, with cobalt as a by-product |
 
-Nickel plants are also expected to recover cobalt as a by-product. Cobalt is another key battery mineral that India imports.
+The combined row simply adds up the two plants of each type. Mines Minister G Kishan Reddy gave the same totals, 60,000 tonnes a year of lithium refining and 1,00,000 tonnes of nickel, and said this would come close to India's estimated need for the two minerals by 2030, according to The Hans India. He put the estimated investment under the scheme at Rs 9,560 crore and the expected production value at Rs 25,000 crore.
 
-## How Companies Will Be Selected
+## Why Refining Is the Gap India Wants to Fill
 
-Beneficiaries will be picked through a two stage process. In the first stage, applicants will be checked for technical qualification. Only those who clear this round will move to financial bidding.
+Before lithium or nickel can go into a battery cell, the ore has to be refined into high purity compounds. India does very little of this today. The Cabinet release says processing is concentrated in a few countries, which leaves supply chains open to geopolitical shocks, price swings and export curbs. India still imports most of its refined intermediates and high purity materials. Open Magazine, citing the International Energy Agency's 2026 outlook, noted that Indonesia (for nickel) and China (for other key energy minerals) supplied more than three quarters of the growth in refined supply over the previous two years.
 
-In the bidding round, the government will choose two winners for each mineral on a least cost basis. This means companies that ask for the lowest amount of capital support will be preferred. The money will not be given in one go. It will be released in three tranches, each linked to the project reaching specified milestones.
+At the briefing, Information and Broadcasting Minister Ashwini Vaishnaw said raw material, whether it comes from mines or from recycling, has to be brought to a state that factories can use. He added that the "National Critical Mineral Mission has been progressing in a very systematic manner."
 
-### Key highlights
+## How Companies Will Be Selected and Paid
 
-- Scheme name: Capex Support Scheme to Promote Critical Mineral Processing
-- Total outlay: Rs 2,814 crore
-- Period: Five years, FY 2026-27 to FY 2030-31
-- Subsidy: 30 percent of eligible capital investment
-- Plants: Two lithium (30 kt or more each) and two nickel (50 kt or more each)
-- Support cap: Rs 500 crore per lithium beneficiary and Rs 900 crore per nickel beneficiary
-- Selection: Technical qualification followed by least cost financial bidding
-- Payment: Three milestone linked tranches
-- Nodal ministry: <a href="https://mines.gov.in/" target="_blank" rel="noopener">Ministry of Mines</a>
+There are two stages. First, applicants are checked for technical qualification. Only those who pass move to financial bidding, where the government picks two winners for each mineral on a least cost basis, meaning the companies that ask for the least capital support.
 
-## Which Sectors Stand to Gain
+The subsidy comes in three tranches, each released when the project reaches a set milestone.
 
-The government has named electric mobility, battery energy storage systems, electronics, defence and specialty steel as the main users of the processed minerals. Lithium and nickel are core ingredients of the lithium ion batteries used in electric cars, two wheelers and grid storage. Nickel is also used in stainless and specialty steels.
+The approved scheme is close to what was reported months earlier. In June 2026, Reuters, quoting unnamed sources, reported a planned outlay of about Rs 3,000 crore and the same 30,000 tonne and 50,000 tonne minimum plant sizes. The Cabinet cleared slightly less, Rs 2,814 crore, with the subsidy rate fixed at 30 percent.
 
-If domestic plants come up as planned, battery makers in India could source more of their key materials locally. That could reduce the risk of supply shocks and help companies that are building battery cell factories in the country. Readers can follow official updates on Cabinet decisions through the <a href="https://www.pib.gov.in/" target="_blank" rel="noopener">Press Information Bureau</a>.
+## Processing Scheme vs the Recycling Scheme Already Running
 
-## What Comes Next for the Scheme
+This is the second capital support plan for critical minerals in just over a year. The first, a recycling scheme, was cleared in September 2025. Here is how the two compare, based on the two official Cabinet releases, including the <a href="https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-1500-crore-incentive-scheme-to-promote-critical-mineral-recycling-in-the-country/" target="_blank" rel="noopener">recycling scheme approval</a>. The investment figure for the processing scheme comes from the minister.
 
-The next visible step will be the two stage selection process run under the Ministry of Mines. Interested companies will need to show they have the technology and financial strength to build plants of the required size within the scheme period. Since only four plants will be supported, competition for the subsidy is likely to be tight, and the least cost rule should help the government stretch its budget.
+| Point | Processing scheme (2026) | Recycling scheme (2025) |
+|---|---|---|
+| Outlay | Rs 2,814 crore | Rs 1,500 crore |
+| Period | FY 2026-27 to FY 2030-31 | FY 2025-26 to FY 2030-31 |
+| Raw material | Lithium and nickel ores or intermediates | E-waste, lithium-ion battery scrap, other scrap such as catalytic converters |
+| Capital subsidy | 30 percent | 20 percent, plus an opex subsidy on extra sales |
+| Cap per company | Rs 500 crore (lithium), Rs 900 crore (nickel) | Rs 50 crore (large), Rs 25 crore (small) |
+| Who can apply | Four large plants picked by bidding | Many units, with one third of outlay kept for small and new recyclers |
+| Expected investment | About Rs 9,560 crore (minister's estimate) | About Rs 8,000 crore |
 
-The scheme adds a processing layer to India's critical minerals push, which has so far focused largely on exploration, mining auctions and recycling. Turning ore into battery ready material at home is the missing link that this Rs 2,814 crore plan aims to address.
+Speaking on November 4, Mr Reddy said 58 companies had been approved under the recycling scheme, with a proposed capacity of 850 kilotonnes a year. The government has also stopped exports of battery scrap, which we covered in our report on the <a href="/india-bans-lithium-ion-black-mass-export/">ban on lithium-ion black mass exports</a>.
 
-*This article is for general information only and is not professional or investment advice.*
+## Who Gains From Local Lithium and Nickel
+
+The government lists electric mobility, battery energy storage, electronics, defence and specialty steel as the main users. Reuters noted that India wants electric cars to reach 30 percent of sales and electric two-wheelers 80 percent by 2030, up from about 6 percent and 9 percent now. Every one of those vehicles needs a battery.
+
+Local refining would let Indian battery cell makers buy more of their inputs at home. The same Cabinet meeting cleared a large <a href="/energy-storage-vgf-scheme-rs-14500-crore/">energy storage funding scheme</a>, so demand for battery material from grid storage is also set to grow. Official notices on bidding are expected from the <a href="https://mines.gov.in/" target="_blank" rel="noopener">Ministry of Mines</a>, the nodal ministry.
+
+## Critical Mineral Processing Scheme: Common Questions
+
+**What is the subsidy under the critical mineral processing scheme?**
+It is a 30 percent capital subsidy on eligible investment, capped at Rs 500 crore per lithium plant and Rs 900 crore per nickel plant.
+
+**How many plants will get support?**
+Four in total: two lithium plants of at least 30 kilotonnes each and two nickel plants of at least 50 kilotonnes each.
+
+**How will companies be selected?**
+Applicants first clear a technical round. Qualified bidders then compete, and the two that seek the lowest capital support for each mineral are chosen.
+
+**Can small companies or startups apply?**
+Only four plants of 30 or 50 kilotonnes and above will be backed, so this scheme suits large projects. Smaller firms are better served by the Rs 1,500 crore recycling scheme, which keeps a third of its outlay for small and new recyclers.
+
+*This article is general information only and is not professional or investment advice.*

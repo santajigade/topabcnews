@@ -1,8 +1,9 @@
 ---
 title: "India Data Centre Capacity to Grow 5 Times to 7.5 GW by 2030: Crisil"
 slug: "india-data-centre-capacity-7-5-gw-2030"
-description: "Crisil Ratings says India's data centre capacity could rise five fold to about 7.5 GW by March 2030, with over Rs 3 lakh crore investment driven by AI demand."
+description: "Crisil Ratings sees India's data centre capacity rising five fold to 7.5 GW by March 2030 with over Rs 3 lakh crore of investment. How the forecast has changed."
 date: 2026-11-06T19:25:00+05:30
+updated: 2026-11-24T21:45:00+05:30
 category: "Technology"
 tags: ["data centre", "artificial intelligence", "crisil", "cloud computing", "hyperscalers"]
 keywords: "India data centre capacity, data centre 7.5 GW 2030, Crisil data centre report, AI data centres India"
@@ -12,68 +13,75 @@ author: "Editorial Staff"
 sources:
   - name: "Business Standard (PTI): India's data centre capacity expected to increase five fold by 2030"
     url: "https://www.business-standard.com/amp/technology/artificial-intelligence/india-s-data-centre-capacity-expected-to-increase-five-fold-by-2030-126110300990_1.html"
+  - name: "DD India (PTI): India's data centre capacity set for 5x surge by 2030 (Nov 3, 2026)"
+    url: "https://ddindia.co.in/2026/11/indias-data-centre-capacity-set-for-5x-surge-by-2030/"
+  - name: "Crisil press release: India's data centre capacity to double by fiscal 2025 (Jun 8, 2022)"
+    url: "https://crisil.com/en/home/newsroom/press-releases/2022/06/indias-data-centre-capacity-to-double-by-fiscal-2025.html"
+  - name: "Business Standard: India's data centre capacity to more than double by FY27, Crisil Ratings (Dec 23, 2024)"
+    url: "https://business-standard.com/industry/news/india-s-data-centre-capacity-to-more-than-double-by-fy27-crisil-ratings-124122300677_1.html"
+  - name: "The Tribune (ANI): India's data centre capacity may reach 3-3.6 GW by 2030, Axis Capital (Aug 2, 2026)"
+    url: "https://www.tribuneindia.com/news/business/indias-data-centre-capacity-may-reach-3-3-6-gw-by-2030-hyperscalers-to-drive-growth-axis-capital/"
+  - name: "Business Standard: India's data centre capacity to hit 3 GW by 2030, Avendus report (Jul 11, 2025)"
+    url: "https://www.business-standard.com/technology/tech-news/india-s-data-centre-capacity-to-hit-3gw-by-2030-on-investment-surge-report-125071100552_1.html"
   - name: "Convergence Now: India's data centre capacity to rise five fold to 7.5 GW by 2030"
     url: "https://www.convergence-now.com/artificial-intelligence/indias-data-centre-capacity-to-rise-five-fold-to-7-5-gw-by-2030-%E2%82%B93-lakh-crore-investment-expected/"
-  - name: "PW school assembly headlines, November 6, 2026"
-    url: "https://www.pw.live/school-prep/exams/school-assembly-news-headlines-today"
 ---
 
-India's data centre industry is heading for a massive expansion. A new report by Crisil Ratings, released on Tuesday, November 3, 2026, says the country's data centre capacity could grow about five times to nearly 7.5 gigawatts (GW) by March 2030. Building this will need investment of more than Rs 3 lakh crore over the next four financial years. The main driver is the boom in generative artificial intelligence, along with faster digitalisation by businesses and rising data use by ordinary Indians.
+India's data centre capacity could grow about five times to roughly 7.5 gigawatts (GW) by March 2030, Crisil Ratings said in a report released on Tuesday, November 3, 2026. Building it will take more than Rs 3 lakh crore of investment over the next four financial years. About 6 GW of that total is new capacity that is planned or already under construction.
 
-## What the Crisil Report Says
+Crisil says generative AI is the main driver, with businesses moving more work online and Indians using more data. Existing data centres already run at about 90% utilisation, and more than 95% of the capacity now being built has a customer signed up.
 
-According to the report, as covered by <a href="https://www.business-standard.com/amp/technology/artificial-intelligence/india-s-data-centre-capacity-expected-to-increase-five-fold-by-2030-126110300990_1.html" target="_blank" rel="noopener">Business Standard</a>, about 6 GW of the expected 7.5 GW is upcoming capacity that is either planned or under construction. Existing data centres are already running at roughly 90% utilisation, which shows that demand is keeping pace with supply.
-
-Here are the key numbers at a glance:
-
-| Item | Figure |
+| Item | Crisil figure |
 |---|---|
 | Expected capacity by March 2030 | About 7.5 GW |
-| Upcoming capacity | About 6 GW |
-| Investment needed | Over Rs 3 lakh crore in four years |
-| Current utilisation | About 90% |
+| New capacity in the pipeline | About 6 GW |
+| Investment needed | Over Rs 3 lakh crore in four financial years |
+| Utilisation of existing data centres | About 90% |
 | Under construction capacity already contracted | Over 95% |
 | Typical contract length | 15 to 20 years (earlier 10 to 12 years) |
+| Hyperscaler share of leased capacity | 60 to 65% in FY2026, 75 to 80% by FY2030 |
 
-Nearly half of the planned capacity is already committed under long term contracts. The longer contract periods give developers more certainty about future income, which makes it easier to raise money for new projects.
+## Why Investors Are Backing the Build-Out
 
-## Why AI Is Driving the Data Centre Boom
+According to the report, as covered by <a href="https://www.business-standard.com/amp/technology/artificial-intelligence/india-s-data-centre-capacity-expected-to-increase-five-fold-by-2030-126110300990_1.html" target="_blank" rel="noopener">Business Standard</a>, nearly half of the upcoming capacity is already tied up in long term contracts. Nitin Bansal, Associate Director at Crisil Ratings, said contract terms have stretched to 15 to 20 years from 10 to 12 years earlier. A longer contract means a developer knows its income for longer, so it finds it easier to borrow for the next building.
 
-A data centre is a large building full of servers that store data and run online services, from banking apps and video streaming to AI chatbots. Generative AI tools need huge amounts of computing power, and that power has to sit somewhere.
+Cost helps too. Crisil puts the cost of building a data centre in India about 20% below several competing Asia Pacific markets, and rentals are 30 to 35% lower. Anand Kulkarni, Director at Crisil Ratings, pointed to India's "structural cost advantages" as part of the pull.
 
-The report says global hyperscalers, which are the big cloud companies, want more capacity in India for cloud services and compute heavy AI workloads. Their share of leased capacity is expected to rise from 60 to 65% in fiscal 2026 to 75 to 80% by fiscal 2030.
+Most of the demand comes from hyperscalers, the big global cloud companies that rent space for cloud services and AI workloads that need a lot of computing. They already take 60 to 65% of leased capacity and could take 75 to 80% by fiscal 2030.
 
-India also offers cost benefits. As per Crisil, building a data centre here costs about 20% less than in several competing Asia Pacific markets, and rentals are 30 to 35% lower. Anand Kulkarni, Director at Crisil Ratings, said India's "structural cost advantages" make it more attractive as a data centre destination.
+## How Crisil's Own Forecast Has Grown Since 2022
 
-The report came out at a time when global investors are worried about AI spending. Our [Sensex report from Dhanteras](/sensex-jumps-1718-points-nifty-25000/) explains how a sell-off in AI linked stocks on Wall Street affected markets this week.
+The 7.5 GW figure makes more sense next to Crisil's earlier calls and other recent estimates. The numbers below come from each report as published.
 
-## Visakhapatnam, Mumbai and Hyderabad to Lead
+| Report | Date | Forecast | Investment estimate |
+|---|---|---|---|
+| Crisil | June 8, 2022 | About 870 MW to 1,700 to 1,800 MW by fiscal 2025 | Over Rs 40,000 crore |
+| Crisil Ratings | December 23, 2024 | 2 to 2.3 GW by fiscal 2027 | Rs 55,000 to 65,000 crore over three fiscals |
+| Avendus Capital | July 11, 2025 | From about 1.1 GW in 2024 to 3 GW by 2030 | $1 to 1.5 billion a year now, expected to double |
+| Axis Capital | August 2, 2026 | 3 to 3.6 GW by 2030, about 2.8 GW of it operational | Not given as a total |
+| Crisil Ratings | November 3, 2026 | About 7.5 GW by March 2030 | Over Rs 3 lakh crore over four fiscals |
 
-Three cities are expected to host nearly three fourths of the upcoming capacity:
+Crisil's <a href="https://crisil.com/en/home/newsroom/press-releases/2022/06/indias-data-centre-capacity-to-double-by-fiscal-2025.html" target="_blank" rel="noopener">2022 estimate</a> put the whole country at about 870 MW, so the 2030 figure is more than eight times that base. The investment estimate has also climbed from about Rs 40,000 crore to over Rs 3 lakh crore in four years.
 
-- **Visakhapatnam**
-- **Mumbai**
-- **Hyderabad**
+Not every analyst is this bullish, though. In August 2026, Axis Capital said current capacity was about 1.3 to 1.4 GW and called announced targets of 6 to 8 GW "aggressive", according to The Tribune. It said 7 to 8 GW was possible by 2035 if every announced project was built. The gap between the estimates is largely about how much announced capacity will actually be running by 2030.
 
-This concentration brings a big challenge. Crisil estimates that by fiscal 2030, data centre demand in these cities could equal about 80% of Visakhapatnam's current peak electricity demand, 60% of Mumbai's and 20% of Hyderabad's. That is a huge extra load for local power grids.
+Readers comparing these numbers should note that the reports use different end points (fiscal year versus calendar year) and that planned capacity is not the same as capacity that is up and running.
 
-## Power Is the Biggest Hurdle
+## Visakhapatnam, Mumbai and Hyderabad Carry the Load
 
-Electricity supply is the key risk for the sector. The report stresses that timely grid connections and upgrades to transmission lines are critical, or projects could face delays and cost overruns. Large campuses that run on renewable energy are seen as an advantage, since global cloud firms prefer cleaner power.
+Crisil expects Visakhapatnam, Mumbai and Hyderabad to host nearly three fourths of the upcoming capacity. That puts a lot of strain on a few local grids. By fiscal 2030, data centre demand in these cities could equal about 80% of Visakhapatnam's current peak electricity demand, 60% of Mumbai's and 20% of Hyderabad's, according to the <a href="https://ddindia.co.in/2026/11/indias-data-centre-capacity-set-for-5x-surge-by-2030/" target="_blank" rel="noopener">PTI report carried by DD India</a>.
 
-Large scale energy storage will also matter for keeping power supply steady. You can read about the government's recent [Rs 14,500 crore energy storage VGF scheme](/energy-storage-vgf-scheme-rs-14500-crore/) for more on this.
+Crisil says timely grid connections and transmission upgrades are critical, and that without them projects could run late and over budget. Campuses that run on renewable power have an edge, since the global cloud firms prefer cleaner electricity. Storage that keeps supply steady will also matter, which is the aim of the government's [Rs 14,500 crore energy storage VGF scheme](/energy-storage-vgf-scheme-rs-14500-crore/).
 
-Other risks flagged in the report include:
+## Risks Crisil Flags for Developers
 
-- **Execution risk:** Projects need regulatory approvals, cost control and timely completion.
-- **Dependence on a few big clients:** As hyperscalers take a larger share, they could gain more bargaining power and push rentals down when new capacity arrives.
-- **High debt:** Investment usually comes 24 to 36 months before revenue starts, so borrowing levels will stay high in the medium term.
-- **Technology upgrades:** Older facilities will need higher power density and advanced cooling to handle AI workloads.
+- **Execution:** projects depend on regulatory approvals, cost control and finishing on time.
+- **A few big customers:** as hyperscalers take a bigger share of leases, they gain bargaining power and could push rentals down once new capacity arrives.
+- **Debt:** money usually goes in 24 to 36 months before any revenue comes back, so borrowing will stay high in the medium term.
+- **Older buildings:** facilities built for ordinary servers will need higher power density and better cooling to host AI workloads.
 
-## What This Means for India's Digital Economy
+The report landed during a week when investors were nervous about AI spending. Our [Sensex report from Dhanteras](/sensex-jumps-1718-points-nifty-25000/) covers how a sell-off in AI linked stocks on Wall Street hit markets that week.
 
-For everyday users, more local data centres generally mean that the apps and cloud services they use can run on servers inside India. For the economy, the Rs 3 lakh crore investment will flow into construction, power and technology over the next four years. The full methodology and sector outlook can be followed on the <a href="https://www.crisilratings.com/" target="_blank" rel="noopener">Crisil Ratings website</a>.
+## What a Bigger Data Centre Base Changes in India
 
-## Growth Depends on Reliable Power
-
-Crisil's numbers show strong confidence in India as a data centre destination, backed by long contracts, high utilisation and lower costs. But the report makes it clear that the real test is not how many projects are announced. It is whether India can supply enough reliable, clean electricity to cities like Visakhapatnam, Mumbai and Hyderabad in time to keep these servers running.
+For users, more local data centres mean more of the apps and cloud services they use can run on servers inside India. For the economy, the Rs 3 lakh crore Crisil expects will go into construction, power equipment and technology over four years. Whether India gets close to 7.5 GW by March 2030 or ends nearer the 3 to 3.6 GW Axis Capital expects will depend mostly on how quickly power and grid links reach Visakhapatnam, Mumbai and Hyderabad.

@@ -1,8 +1,9 @@
 ---
-title: "Paraguay Senate Removes President Pena Over Ueno Bank Collapse"
+title: "Paraguay Removes President Pena Over Ueno Bank Collapse: Latest"
 slug: "paraguay-president-pena-removed-ueno-bank"
-description: "Paraguay's Senate removed President Santiago Pena after Ueno Bank's collapse froze millions of accounts. Pedro Alliana is now president. Here is what happened."
+description: "Paraguay's Senate removed Santiago Pena on Nov 6 after Ueno Bank's collapse. He is now in a military prison; 1.8 million savers got guaranteed deposits back."
 date: 2026-11-07T15:55:00+05:30
+updated: 2026-11-24T21:45:00+05:30
 category: "World"
 tags: ["paraguay", "santiago pena", "ueno bank", "impeachment", "pedro alliana", "latin america"]
 keywords: "Paraguay president removed, Santiago Pena impeachment, Ueno Bank collapse, Pedro Alliana president"
@@ -18,55 +19,76 @@ sources:
     url: "https://www.tribuneindia.com/news/impeachment/paraguay-senate-votes-to-impeach-prez-santiago-pena-over-bank-collapse-vp-sworn-in"
   - name: "Just Security Early Edition, November 6, 2026"
     url: "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+  - name: "Al Jazeera and AP (via Yahoo News): Paraguay's Santiago Pena under arrest, new president Pedro Alliana sworn in"
+    url: "https://www.yahoo.com/news/politics/articles/paraguay-santiago-pena-under-arrest-003141364.html"
+  - name: "Al Jazeera: Paraguay raids ex-president's home: Why a bank crash brought down Pena (9 Nov 2026)"
+    url: "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena"
+  - name: "AFP (via Yahoo Finance UK): Paraguay leader says retirees with accounts in collapsed bank to be paid this week (16 Nov 2026)"
+    url: "https://uk.finance.yahoo.com/news/paraguay-leader-says-retirees-accounts-202450290.html"
+  - name: "Latin Times: Paraguay's banking crisis leaves millions locked out of accounts as Santiago Pena faces criminal charges"
+    url: "https://www.latintimes.com/paraguay-ueno-bank-collapse-political-crisis-601410"
+  - name: "EFE (via Infobae): Reino Unido expresa apoyo al Gobierno del presidente paraguayo Pedro Alliana (23 Nov 2026)"
+    url: "https://www.infobae.com/america/agencias/2026/11/23/reino-unido-expresa-apoyo-al-gobierno-del-presidente-paraguayo-pedro-alliana/"
+  - name: "Reserve Bank of India: A Guide to the Deposit Insurance and Credit Guarantee Corporation (FAQ)"
+    url: "https://www.rbi.org.in/scripts/FS_FAQs.aspx?Id=64"
 ---
 
-Paraguay's Senate removed President Santiago Pena from office on Friday, November 6, 2026, after a one day impeachment trial linked to the collapse of the digital lender Ueno Bank. The failure of the bank froze the accounts of close to three million customers, along with pensions and hundreds of millions of dollars in public money. Vice President Pedro Alliana was sworn in as president minutes after the vote, while prosecutors later ordered Pena to be held under house arrest as they investigate alleged economic crimes. Pena denies any wrongdoing.
+Paraguay's Senate removed President Santiago Pena from office on Friday, 6 November 2026. The vote came three days after the central bank seized Ueno Bank, a fast growing digital lender that had nearly 3 million customers, close to half the country's population, and about $850 million in public money. According to the Associated Press, 44 of the 45 senators voted for removal and one abstained, a day after the lower house voted 78 to 0 to impeach him. Vice President Pedro Alliana, 52, was sworn in the same day as Paraguay's 53rd president and will serve until August 2028.
 
-## How the Ueno Bank Collapse Triggered the Crisis
+Pena, 48, is now in pretrial detention at the Vinas Cue military prison. Prosecutors have charged him with breach of trust, administration for personal gain and criminal association. He denies wrongdoing, and his lawyer Ricardo Preda has said he will plead not guilty.
 
-Ueno began as a niche digital lender but grew quickly into a mid sized bank. According to a Reuters report carried by <a href="https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse" target="_blank" rel="noopener">Al Jazeera</a>, it claimed about 3 million customers in a country of roughly 6.5 million people and was handling close to $850 million in public funds.
+## Update (24 November 2026)
 
-Earlier this week, Paraguay's central bank took control of Ueno after finding it had fallen below the legal solvency ratio. Once its books were corrected, the bank's capital was found to be less than half of the legal minimum. MercoPress reported that regulators also cited irregular loans to companies owned by the bank's owners. Deposits were frozen for nearly three million customers, which the outlet said is about 60% of the adult population. Many people suddenly lost access to their savings and to pensions paid through the bank.
+Our first report said Pena had been placed under house arrest. That was true on the night of his removal, but the case has moved on:
 
-The central bank itself came under fire for weak supervision. Its head, Carlos Carvallo, who had earlier been Ueno's chief executive before Pena appointed him to the central bank, resigned. Ueno has not made a public statement.
+- **Detention:** On 7 November, Judge Humberto Otazu ordered pretrial detention at a military facility so Pena would stay in the country. On 16 November, his 48th birthday, he was moved to Vinas Cue military prison after reports that he had privileges in his earlier cell, including use of a gym, AFP reported.
+- **Wider charges:** On 13 November, prosecutors accused him of leading a criminal group with five former central bank directors to shield Ueno from scrutiny.
+- **Savers:** By 11 November, the central bank had paid guarantee advances to 1,812,348 eligible depositors, about 80% of the total. Deposits of up to about $19,000 were repaid in full. Larger balances and investments are still unresolved. About 32,000 pensioners paid through Ueno were due their pension and Christmas bonus on 16 and 17 November.
+- **Diplomacy:** On 23 November, Paraguay's foreign ministry said the UK had expressed support for Alliana's government, EFE reported.
 
-## Why Lawmakers Turned on the President
+## How Ueno Went From Startup to National Crisis
 
-The pressure on Pena came from his personal links to the bank. He was a shareholder in Grupo Vazquez, Ueno's parent company. He says he sold his stake in 2025, and MercoPress put the date at April 2025. Lawmakers accused him of a conflict of interest and questioned whether there had been an institutional cover-up of the bank's weak finances.
+Ueno launched in 2021 as a digital lender aimed at people that traditional banks had not served well. It grew fast. By September 2026 it held about 9% of all deposits in the banking system, and by June it was holding about $850 million in public funds, Al Jazeera reported. The AP put state pension money invested in the bank at about $355 million.
 
-On Thursday, November 5, Pena tried to step down. In a recorded message he said he was resigning for "the stability of our country, social peace" and to protect democratic institutions. Congress refused to accept the resignation. The lower house instead voted 78 to 0 to impeach him.
+On 3 November, the Central Bank of Paraguay intervened after finding that Ueno had breached the minimum solvency rule. Once its accounts were corrected, its capital came to less than half of the legal minimum. Investigators are now looking at about $146 million in loans to companies linked to the bank's owner, Grupo Vazquez.
 
-The decision mattered. In Paraguay, former presidents normally become senators for life and enjoy legal immunity. That protection does not apply to a president removed through an impeachment trial. Pena's own Colorado Party also abandoned him. Former president and party leader Horacio Cartes said the party backed impeachment and would not side with the loss of public, private and pension funds.
+The central bank's own role is part of the case. Its president, Carlos Carvallo, had run Ueno before Pena appointed him in 2023. Carvallo resigned on 3 November, surrendered to the authorities on 6 November and is now charged and held in pretrial detention.
 
-## Inside the Senate Trial
+## Why Pena Lost His Party and His Office
 
-The Senate trial lasted about ten hours. Pena did not attend. His lawyers, Adolfo Ferreiro and Ricardo Preda, asked for 72 more hours to prepare a defence and argued the trial was pointless after his resignation. The Senate rejected both arguments.
+Pena held a 1.58% stake in Ueno's parent company until March 2025. Prosecutors allege that, as president, he pushed state bodies to deposit public money in the bank. Al Jazeera also reported that he took two loans of about $500,000 in 2024 for his mansion, with a monthly mortgage payment of $38,000, six times his presidential salary.
 
-At the end, 44 senators voted to remove Pena for poor performance of his duties, including members of the ruling Colorado Party. Hours later, prosecutor Christian Benitez said Pena would remain detained at home until he is handed over to the unit for economic crimes and anti-corruption. The Associated Press reported that the order also covers Carvallo, the former central bank chief.
+When he offered to resign on 5 November, Congress refused to accept it. That refusal mattered. Former presidents in Paraguay usually become senators for life and get legal immunity, but a president removed by impeachment loses that protection. His own Colorado Party, led by former president Horacio Cartes, backed the impeachment.
 
-Paraguay's attorney general has ordered three criminal investigations into the collapse. They cover the supervision of the bank and the way public funds came to be placed there. Pena has said his main goal is to make sure the money is returned and public resources are protected.
+Opposition senator Rafael Filizzola called it "the biggest corruption scandal in our democratic history."
 
-### Key highlights
+## Ueno Crisis Timeline, 3 to 23 November
 
-- **Bank:** Ueno Bank, a fast growing digital lender owned by Grupo Vazquez
-- **Customers affected:** close to 3 million, with deposits and pensions frozen
-- **Public money involved:** close to $850 million placed with the bank
-- **Lower house vote:** 78 to 0 for impeachment
-- **Senate vote:** 44 senators backed removal
-- **New president:** Pedro Alliana, to serve until August 15, 2028
+| Date | What happened |
+|---|---|
+| 3 Nov | Central bank seizes Ueno; central bank chief Carlos Carvallo resigns |
+| 5 Nov | Pena offers to resign; Congress refuses; lower house votes 78 to 0 to impeach |
+| 6 Nov | Senate removes Pena (44 of 45 senators); Alliana sworn in; Pena held at home |
+| 7 Nov | Judge orders pretrial detention at a military facility |
+| 8 Nov | Police raid Pena's mansion outside Asuncion |
+| 11 Nov | 1,812,348 depositors have received guaranteed amounts |
+| 12 Nov | Investigators raid the presidential residence |
+| 13 Nov | Prosecutors widen charges to leading a criminal group |
+| 16 Nov | Pena moved to Vinas Cue military prison; pension payments begin |
+| 23 Nov | UK voices support for Alliana's government |
 
-## Who Is Pedro Alliana, Paraguay's New President
+At least 27 people now face criminal charges, including bank president Juan Manuel Gustale and former chief executive Federico Miguel Vazquez Villasanti, whose assets have been frozen. The attorney general has opened three separate criminal cases tied to the collapse.
 
-Pedro Alliana, 52, comes from the city of Pilar. He is a former governor of Neembucu department and a former president of the Colorado Party. He will complete the current term, which runs until August 15, 2028, and is expected to make changes in the cabinet and at the <a href="https://www.bcp.gov.py/" target="_blank" rel="noopener">Central Bank of Paraguay</a>.
+## Deposit Guarantees: Paraguay and India Compared
 
-The opposition accepted the handover but with clear reservations. Senator Rafael Filizzola said they accepted it to ensure institutional continuity, while calling Alliana complicit in what happened. Thousands of savers gathered outside Congress to welcome the removal, and groups of mostly young protesters continued to demand wider change in the political class.
+Paraguay's deposit guarantee fund is why most small Ueno savers got their money back within days, while larger depositors, including pension funds, are still waiting.
 
-A US State Department spokesperson said relations with Paraguay remain intact, according to an ANI report published by The Tribune.
+Indian bank customers have a similar safety net. The <a href="https://www.rbi.org.in/scripts/FS_FAQs.aspx?Id=64" target="_blank" rel="noopener">Deposit Insurance and Credit Guarantee Corporation (DICGC)</a> insures each depositor up to Rs 5 lakh, principal and interest combined, according to the RBI. It covers all commercial banks, including branches of foreign banks, local area banks and regional rural banks, and cooperative banks, but not primary cooperative societies. India's rules for digital payment firms are covered in our report on <a href="/rbi-cyber-rules-payment-apps-six-hour-reporting/">RBI's cyber rules for payment apps</a>.
 
-## What Comes Next for Ueno Customers
+## Alliana's Task and the Road Ahead
 
-For ordinary Paraguayans, the most urgent question is when they will get their money back. The central bank has voted to transfer Ueno's remaining funds to other financial institutions, but there is no public timeline yet for when frozen accounts will be fully restored. The criminal cases are also likely to take time.
+Alliana, a former governor of Neembucu department and former president of the Chamber of Deputies, has said his priority is getting pension money back and paying depositors quickly. His government now has to deal with the losses that the guarantee does not cover and with a <a href="https://www.bcp.gov.py/" target="_blank" rel="noopener">Central Bank of Paraguay</a> whose former head is charged in the case.
 
-The crisis is a sharp lesson in how quickly a fast growing digital bank can become a national problem when supervision is weak. Readers following other global political shake-ups can see our coverage in the [World section](/category/world/).
+Paraguay's Colorado Party has held the presidency since 1948, except from 2008 to 2013. Andrew Nickson of the University of Birmingham told <a href="https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena" target="_blank" rel="noopener">Al Jazeera</a> he expects directors and officials to face court, but he doubts powerful politicians will face lasting consequences. Two earlier prosecutions of former presidents since the 1990s were dropped on appeal.
 
-Paraguay now has a new president, a damaged central bank and millions of depositors waiting for answers. How quickly Alliana's government restores access to savings and pensions will shape public trust in the country's institutions in the months ahead.
+Leadership crises have hit other governments this month too. Read our report on <a href="/indonesia-vice-president-gibran-offers-resign/">Indonesia's vice president offering to resign</a>.

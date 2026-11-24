@@ -9,6 +9,7 @@ keywords: "India vs New Zealand 2nd ODI result, IND vs NZ Wellington DLS, Gurnoo
 image: "/images/posts/india-beat-new-zealand-2nd-odi-dls-wellington.webp"
 imageAlt: "Graphic for India's 4 run DLS win over New Zealand in the 2nd ODI at Wellington"
 author: "Editorial Staff"
+noindex: true
 sources:
   - name: "NewsBytes: 2nd ODI report and stats"
     url: "https://www.newsbytesapp.com/news/sports/new-zealand-vs-india-2nd-odi-report-and-stats/story"

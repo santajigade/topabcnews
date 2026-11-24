@@ -1,11 +1,12 @@
 ---
-title: "November 2026 Night Sky: Leonids, Mars-Jupiter Pair and a Supermoon"
+title: "November 2026 Night Sky: Nov 24 Supermoon, Uranus and December Dates"
 slug: "november-2026-night-sky-supermoon-leonids"
-description: "November 2026 brings the Taurid and Leonid meteor showers, a close Mars and Jupiter pairing, Voyager 1's light-day milestone and a supermoon on November 24."
+description: "Full supermoon on Nov 24 at 8:23 PM IST, Uranus at opposition on Nov 25, Geminids on Dec 14 and a Christmas Eve supermoon. What has passed and what is ahead."
 date: 2026-11-07T16:02:00+05:30
+updated: 2026-11-24T21:45:00+05:30
 category: "Science"
 tags: ["night sky", "supermoon", "leonid meteor shower", "taurids", "voyager 1", "astronomy"]
-keywords: "November 2026 night sky, supermoon November 24 2026, Leonid meteor shower 2026, Mars Jupiter conjunction"
+keywords: "November 2026 night sky, supermoon November 24 2026, Leonid meteor shower 2026, Geminids 2026, Uranus opposition 2026"
 image: "/images/posts/november-2026-night-sky-supermoon-leonids.webp"
 imageAlt: "Graphic showing November 2026 sky events including meteor showers and a supermoon"
 author: "Editorial Staff"
@@ -16,54 +17,66 @@ sources:
     url: "https://www.rmg.co.uk/stories/space-astronomy/astronomy/night-sky-highlights-november-2026"
   - name: "BBC Sky at Night Magazine: Voyager 1 light-day milestone"
     url: "https://www.skyatnightmagazine.com/news/nasa-voyager-1-light-day-milestone"
+  - name: "Royal Museums Greenwich: Space and astronomy highlights 2026"
+    url: "https://rmg.co.uk/stories/space-astronomy/space-astronomy-highlights-2026"
+  - name: "BBC Sky at Night Magazine: Christmas Eve supermoon 2026"
+    url: "https://skyatnightmagazine.com/news/christmas-eve-supermoon-2026"
+  - name: "BBC Sky at Night Magazine: How to see Uranus at its best in November 2026"
+    url: "https://www.skyatnightmagazine.com/news/uranus-november-2026"
+  - name: "NASA Science: Leonids"
+    url: "https://science.nasa.gov/solar-system/meteors-meteorites/leonids"
+  - name: "Al Jazeera: Leonid meteor shower 2026, when and where to see it (17 Nov 2026)"
+    url: "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live"
 ---
 
-The rest of November 2026 is packed with free shows for anyone willing to step outside and look up. According to a skywatching guide from NASA's Jet Propulsion Laboratory, the month brings two Taurid meteor peaks, the Leonid meteor shower, a close pairing of Mars and Jupiter, and a full supermoon on November 24. NASA is also marking a historic moment for the Voyager 1 spacecraft. None of these events needs a telescope, so students, families and first time stargazers in India and around the world can enjoy them with just their eyes.
+The Moon turns full tonight, 24 November 2026, at 14:53 GMT, which is 8:23 PM IST. It is a supermoon, about 360,800 km from Earth, so viewers in India can watch a nearly full, slightly larger and brighter Moon rise in the east around sunset. Uranus reaches opposition, its closest and brightest point of the year, on 25 November at magnitude 5.6.
 
-## Taurid Fireballs and the Northern Taurids Peak
+Next come the Geminid meteor shower, which peaks on 14 December, and a second supermoon on Christmas Eve, full at 01:28 UTC on 24 December (6:58 AM IST). Most of November's other events, including the Leonids, the Mars and Jupiter pairing and Voyager 1's milestone, are now over.
 
-The Taurid meteor showers are known less for numbers and more for drama. They sometimes produce fireballs, which are unusually bright meteors that can light up the sky for a moment. The Southern Taurids peaked around November 5, and the Northern Taurids are expected to peak around November 12.
+## Update (24 November 2026): What You Missed and What Is Left
 
-Rates are modest. NASA JPL says the Northern Taurids give about five meteors an hour under ideal conditions. The good news is timing. The Royal Observatory Greenwich notes that the new moon falls on November 9, so the sky around the Northern Taurid peak will be fairly dark. The Taurids are active from October to December, which is why they are sometimes called "Halloween fireballs."
+When we first published this guide on 7 November, most of the month was still ahead. Here is where things stand:
 
-## Leonid Meteor Shower: Best Nights to Watch
+- **Over:** the Southern Taurids (peak around 5 November), the Northern Taurids (around 12 November), Mars and Jupiter about 1.2 degrees apart at dawn on 15 and 16 November, the Leonid peak on the night of 17 to 18 November, and Voyager 1 reaching one light-day from Earth.
+- **Still possible:** the Leonids stay active until 30 November, but NASA says rates away from the peak are usually fewer than three meteors an hour.
+- **Ahead:** tonight's supermoon, Uranus at opposition on 25 November, the Geminids from 4 to 20 December, the winter solstice on 21 December and the Christmas Eve supermoon.
 
-The Leonids are the main meteor event of the month. The shower is active from November 6 to 30, and NASA JPL says the best viewing will be before dawn on November 17 and 18, after the Moon has set. Under clear and dark skies, the shower can produce up to about 15 meteors per hour, though NASA cautions that actual counts are usually lower.
+## Tonight's Supermoon, Explained
 
-Leonid meteors are fast. For the best chance, find a spot away from city lights, give your eyes time to adjust to the dark, and look at a wide area of sky rather than one point. Viewers in large Indian cities should keep air quality in mind, since haze and smoke can wash out fainter meteors. Our guide to [Delhi's air quality and lung care](/delhi-aqi-severe-diwali-health-tips/) has tips for days when pollution is high.
+A supermoon is a full Moon that happens close to perigee, the point in its orbit where the Moon comes nearest to Earth. Royal Museums Greenwich says tonight's Moon will be about 20,000 km closer than average and can look up to 7% larger and 15% brighter than an average full Moon. Its 2026 highlights page compares it with a full Moon at apogee, the farthest point, and gives figures of up to 14% bigger and 30% brighter.
 
-## Mars and Jupiter Meet in the Dawn Sky
+In India, the exact full moment of 8:23 PM IST falls after moonrise, so the whole evening works. NASA JPL says this is the first of three supermoons in a row, with the next two in December and January.
 
-On the mornings of November 15 and 16, Mars and Jupiter will appear very close together in the southeastern sky before sunrise. NASA JPL says the two planets will be about 1.2 degrees apart. The Royal Observatory Greenwich describes that as roughly the width of a little finger held at arm's length.
+## Uranus at Opposition on 25 November
 
-Jupiter will be the brighter of the two, while Mars will look smaller with a reddish tint. Both are easy to see without binoculars. Planetary pairings like this, called conjunctions, are only a line of sight effect. In space, the two planets remain very far apart.
+Uranus is the hardest target on this list. Even at its brightest it is faint, at magnitude 5.6, so binoculars and a dark sky make a big difference. It is in the constellation Taurus. <a href="https://www.skyatnightmagazine.com/news/uranus-november-2026" target="_blank" rel="noopener">BBC Sky at Night Magazine</a> points out a problem with this year's timing: on opposition night, Uranus is only about 6 degrees from the bright full Moon, which washes it out. The magazine had suggested 22 November as an easier night. Through a small telescope, Uranus shows only a tiny green disc. Seeing its moons Titania and Oberon takes a telescope of about 200 to 250 mm.
 
-## Voyager 1 Reaches One Light-Day From Earth
+## Sky Calendar in IST, 24 November to 24 December
 
-This month also brings a milestone that cannot be seen in the sky but is just as remarkable. NASA's Voyager 1, launched in 1977, is reaching a distance of one light-day from Earth, which means a radio signal travelling at the speed of light takes a full day to reach it. BBC Sky at Night Magazine puts this distance at about 25.9 billion kilometres. Voyager 1 is the first human-made object to get that far.
+We converted the GMT and UTC times given by Royal Museums Greenwich and BBC Sky at Night Magazine into Indian Standard Time (GMT plus 5 hours 30 minutes).
 
-NASA plans to mark the moment on November 17 with an activation it calls "Shine Bright for Voyager's Light-Day." Skywatchers who want to point towards the spacecraft can look in the direction of the constellation Ophiuchus. The spacecraft is still sending back science data, though its power has dropped to about half of its launch level and many instruments have been switched off. More details are available on <a href="https://science.nasa.gov/mission/voyager/" target="_blank" rel="noopener">NASA's Voyager mission page</a>.
+| Date (IST) | Event | Published time | Time in IST | Tip for India |
+|---|---|---|---|---|
+| 24 Nov | Full supermoon | 14:53 GMT | 8:23 PM | Look east from sunset onwards |
+| 25 Nov | Uranus at opposition | 25 Nov | All night | Binoculars, in Taurus; the Moon is close by |
+| Until 30 Nov | Leonids still active | 6 to 30 Nov | After midnight | Low rates, fewer than 3 an hour |
+| 4 to 20 Dec | Geminids active | 4 to 20 Dec | Night hours | Build up towards the peak |
+| 14 Dec | Geminid peak | 14 Dec | Night of 13 to 14 Dec | Up to 120 meteors an hour in ideal skies |
+| 22 Dec | Winter solstice | 21 Dec, 8.50pm GMT | 2:20 AM, 22 Dec | Longest night of the year in India |
+| 24 Dec | Full supermoon | 01:28 UTC | 6:58 AM | Watch on the night of 23 to 24 Dec |
 
-Space fans in India may also enjoy our report on [India's private space debris removal facility](/cosmoserve-base-1-space-debris-hyderabad/).
+The December supermoon reaches perigee at 08:30 UTC on 24 December, which is 2:00 PM IST, only about seven hours after it turns full. Because the full moment falls around dawn in India, the night of 23 December is the one to watch.
 
-## Supermoon on November 24 and Uranus at Opposition
+## The Geminids: December's Big Meteor Shower
 
-The month ends with a full supermoon on November 24. A supermoon happens when a full Moon occurs close to the Moon's nearest point to Earth. The <a href="https://www.rmg.co.uk/stories/space-astronomy/astronomy/night-sky-highlights-november-2026" target="_blank" rel="noopener">Royal Observatory Greenwich</a> says the Moon will be about 360,800 km away, roughly 20,000 km closer than average, and can look up to 7% larger and 15% brighter than an average full Moon. The exact full moon moment is at 14:53 GMT, which is 8:23 PM IST, so viewers in India will see a nearly full disc rising in the east around sunset that evening.
+The Leonids are known for speed. NASA says they hit our atmosphere at about 71 km per second, and they come from Comet 55P/Tempel-Tuttle. They gave modest numbers this year, with the International Meteor Organization expecting up to about 15 an hour at the peak, according to Al Jazeera. The Geminids are a much stronger shower. Royal Museums Greenwich gives a possible peak rate of 120 meteors an hour on 14 December. Al Jazeera's comparison put the Geminids at about 150 an hour, against roughly 100 for August's Perseids.
 
-NASA JPL says this is the first of three supermoons in a row, with more in December and January. A day later, on November 25, Uranus reaches opposition, meaning it is at its closest and brightest for the year. It will still be faint, at magnitude 5.6, so binoculars and a dark sky will help.
+The Moon helps this year. RMG says it will be a waxing crescent that sets around 9 PM, so it should not get in the way of the peak. That time is for the UK, so check your local moonset.
 
-### November 2026 sky calendar at a glance
+## Viewing Tips for Indian Cities
 
-| Date | Event | When to look |
-|---|---|---|
-| Nov 9 | New moon | Dark skies for meteor watching |
-| Nov 12 | Northern Taurids peak | Late night, about 5 meteors an hour |
-| Nov 15 to 16 | Mars and Jupiter about 1.2 degrees apart | Southeast, before sunrise |
-| Nov 17 | NASA marks Voyager 1 light-day | Look towards Ophiuchus |
-| Nov 17 to 18 | Leonids best viewing | Before dawn, after moonset |
-| Nov 24 | Full supermoon | East, around sunset |
-| Nov 25 | Uranus at opposition | All night, binoculars help |
+- **Get away from lights.** For meteors, a rooftop with no street lamps or an open field outside town helps much more than any equipment. The supermoon is bright enough for a balcony.
+- **Give your eyes time.** Al Jazeera's guide suggests lying back and letting your eyes adjust for about 20 minutes. Meteors can appear anywhere in the sky, so take in a wide area rather than one spot.
+- **Check the air.** Smoke and haze in north Indian cities can hide faint meteors and dim Uranus. Our report on [Delhi's air quality forecast](/delhi-aqi-very-poor-severe-forecast-november-13/) explains the AQI levels to watch.
 
-## Making the Most of the November Sky
-
-Clear weather is the biggest factor, so check the local forecast and pick nights with low cloud cover. A dark rooftop, an open field or a trip outside the city can make a big difference for meteors, while the supermoon and the Mars and Jupiter pairing are bright enough to enjoy even from a balcony. With meteor showers, planets and a supermoon all lined up, November is a good month to start the habit of looking up.
+For the space story of the month that you could not see with your eyes, read our report on [Voyager 1 reaching one light-day from Earth](/voyager-1-one-light-day-from-earth-november-18/). Royal Museums Greenwich keeps a fuller <a href="https://www.rmg.co.uk/stories/space-astronomy/astronomy/night-sky-highlights-november-2026" target="_blank" rel="noopener">night sky guide for November 2026</a>, and NASA's <a href="https://science.nasa.gov/solar-system/meteors-meteorites/leonids" target="_blank" rel="noopener">Leonids page</a> covers the history of the shower's famous meteor storms.

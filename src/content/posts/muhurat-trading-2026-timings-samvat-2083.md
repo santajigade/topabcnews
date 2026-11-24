@@ -1,8 +1,9 @@
 ---
-title: "Muhurat Trading 2026: NSE, BSE Timings for Sunday, November 8 Session"
+title: "Muhurat Trading 2026: Sensex, Nifty Result and NSE, BSE Timings"
 slug: "muhurat-trading-2026-timings-samvat-2083"
-description: "Muhurat trading 2026 will be held on Sunday, November 8 from 2:20 pm to 3:30 pm. Check pre-open timings, settlement rules and the November 10 market holiday."
+description: "Muhurat trading 2026 ran on November 8 from 2:20 pm to 3:30 pm. Sensex fell 28.62 points to 80,999.40. See the full timings, settlement rules and holidays."
 date: 2026-11-07T12:25:00+05:30
+updated: 2026-11-24T21:45:00+05:30
 category: "Finance"
 tags: ["muhurat trading", "diwali 2026", "NSE", "BSE", "samvat 2083", "stock market holiday"]
 keywords: "muhurat trading 2026 timings, muhurat trading date 2026, samvat 2083, stock market holiday Diwali 2026"
@@ -12,6 +13,14 @@ author: "Editorial Staff"
 sources:
   - name: "NSE circular 64/2026: Muhurat Trading session on account of Diwali (commodity derivatives), 19 October 2026"
     url: "https://nsearchives.nseindia.com/content/circulars/COM76978.pdf"
+  - name: "Business Today: Muhurat trading 2026, Sensex, Nifty edge lower (8 November 2026)"
+    url: "https://www.businesstoday.in/markets/stocks/story/muhurat-trading-2026-sensex-nifty-edge-lower-key-sectors-to-watch-566377-2026-11-08"
+  - name: "DD News: Sensex, Nifty end lower in Diwali special trading session as banking stocks drag"
+    url: "https://ddindia.co.in/2026/11/sensex-nifty-end-lower-in-diwali-special-trading-session-as-banking-stocks-drag/"
+  - name: "The Week (PTI): Muhurat Trading 2026, Sensex, Nifty end lower despite positive start"
+    url: "https://www.theweek.in/news/biz-tech/2026/11/08/muhurat-trading-2026-sensex-nifty-end-lower-despite-positive-start-check-gainers-and-losers-here.html"
+  - name: "Moneylife: Sensex, Nifty end Muhurat trading in the red for first time since 2017"
+    url: "https://www.moneylife.in/article/sensex-nifty-end-muhurat-trading-in-the-red-for-first-time-since-2017-broader-markets-stay-firm/82153.html"
   - name: "TradingView News: Diwali 2026 stock market holiday, Muhurat trading date and time"
     url: "https://www.tradingview.com/news/moodys:2e497a3e995c9:0-diwali-2026-stock-market-holiday-nse-bse-open-on-sunday-but-closed-this-day-muhurat-trading-date-time-samvat-2083/"
   - name: "ETV Bharat: Muhurat Trading 2026 date and time"
@@ -22,13 +31,38 @@ sources:
     url: "https://www.newsonair.gov.in/nse-and-bse-hold-muhurat-trading-session-on-diwali"
 ---
 
-The National Stock Exchange (NSE) and BSE will hold the special Diwali Muhurat trading session on Sunday, November 8, 2026, the day of Lakshmi Puja. Normal trading will run for a short window from 2:20 pm to 3:30 pm. The session marks the start of Samvat 2083, the new Hindu calendar year that many traders and business families treat as the beginning of their financial year. Markets will then stay shut on Tuesday, November 10, for Diwali Balipratipada.
+NSE and BSE held the Diwali Muhurat trading session on Sunday, November 8, 2026, the day of Lakshmi Puja, with normal trading from 2:20 pm to 3:30 pm IST. The session opened Samvat 2083, the Hindu calendar year that many traders and business families treat as the start of their financial year. Markets were shut on Tuesday, November 10, for Diwali Balipratipada.
 
-Here is everything investors need to know before placing orders.
+The session is over, and it ended slightly in the red. The Sensex closed at 80,999.40, down 28.62 points (0.04%), and the Nifty 50 closed at 24,986.40, down 43.95 points (0.18%). The timings and rules below stay here as a reference for next year.
 
-## Muhurat Trading 2026 Date and Session Timings
+## Update (24 November 2026): How Sensex and Nifty Did
 
-Unlike a normal trading day, the Muhurat session is short and has its own fixed schedule. Based on timings reported by IBTimes India and ETV Bharat, the equity market schedule on November 8 is:
+Both indices opened higher and then gave the gains back. The Sensex touched an intraday high of 81,442.11, up 414.09 points, before profit booking near the close pulled it below the previous day's level. The Nifty moved between a high of 25,132 and a close just under 25,000, as reported by <a href="https://ddindia.co.in/2026/11/sensex-nifty-end-lower-in-diwali-special-trading-session-as-banking-stocks-drag/" target="_blank" rel="noopener">DD News</a>.
+
+| Index | Close | Change | Intraday high |
+|---|---|---|---|
+| BSE Sensex | 80,999.40 | -28.62 (-0.04%) | 81,442.11 |
+| NSE Nifty 50 | 24,986.40 | -43.95 (-0.18%) | 25,132 |
+| Nifty MidCap 100 | Not reported | +0.13% | Not reported |
+| Nifty SmallCap | Not reported | +0.94% | Not reported |
+
+Banking and IT stocks dragged the headline indices, with Nifty Bank and Nifty Private Bank the weakest sectors, while pharma and healthcare led. Sun Pharma and Tata Steel were among the top Nifty gainers, and SBI Life Insurance, InterGlobe Aviation and Bharti Airtel were among the laggards.
+
+The wider market told a different story. Moneylife reported that 3,253 stocks rose on the BSE against 947 that fell. PTI, via The Week, said investor wealth rose by Rs 2.60 lakh crore to about Rs 505.68 lakh crore. For the full session report, read our story on <a href="/muhurat-trading-2026-sensex-nifty-close-lower/">how Sensex and Nifty closed in the Samvat 2083 opener</a>.
+
+## Why the First Red Muhurat Close Since 2017 Matters Less Than It Looks
+
+This was the first Muhurat session to close lower since October 19, 2017, when both indices fell about 0.6%, which ended eight straight years of gains, according to Moneylife. A few facts put the 0.04% dip in context:
+
+- **The run-up was steep.** In the seven sessions before Diwali, the Sensex gained 7,781.99 points (10.62%) and the Nifty rose 2,331.5 points (10.27%), PTI reported. A pause after that is not unusual. Our report on the <a href="/sensex-jumps-1718-points-nifty-25000/">Dhanteras rally in Sensex and Nifty</a> covers part of that climb.
+- **Volumes were thin.** Analysts quoted by Moneylife said low volumes in the hour-long session limit what its direction tells you.
+- **Selling was narrow.** The losses came from a few large caps, while the Nifty SmallCap index rose 0.94%.
+
+Ajit Mishra of Religare Broking told Business Today he sees 24,200 to 24,500 as Nifty support and 25,200 to 25,600 as the next upside zone. Treat this as one broker's view, not a forecast.
+
+## Muhurat Trading 2026 Session Timings for Reference
+
+The session followed its own short schedule. Based on timings reported by IBTimes India and ETV Bharat, the equity market ran as follows on November 8:
 
 | Activity | Time (IST) |
 |---|---|
@@ -38,51 +72,34 @@ Unlike a normal trading day, the Muhurat session is short and has its own fixed 
 | Closing auction | 3:15 pm to 3:35 pm |
 | Post-closing session | 3:50 pm to 4:00 pm |
 
-As per TradingView News, during pre-open both limit and market orders are accepted until 2:10 pm, only limit orders are allowed between 2:10 pm and 2:15 pm, and order matching happens from 2:15 pm to 2:17 pm. ETV Bharat reported that futures and options will trade until 3:40 pm.
+TradingView News said pre-open took limit and market orders until 2:10 pm, only limit orders from 2:10 pm to 2:15 pm, with matching from 2:15 pm to 2:17 pm. ETV Bharat reported that futures and options traded until 3:40 pm. For commodity derivatives, the NSE <a href="https://nsearchives.nseindia.com/content/circulars/COM76978.pdf" target="_blank" rel="noopener">circular on the Muhurat trading session</a> dated October 19, 2026 set market open at 2:20 pm, close at 3:30 pm and the trade modification cut-off at 3:40 pm.
 
-For commodity derivatives, NSE has issued a separate <a href="https://nsearchives.nseindia.com/content/circulars/COM76978.pdf" target="_blank" rel="noopener">circular on the Muhurat trading session</a> dated October 19, 2026. It sets market open at 2:20 pm, close at 3:30 pm, and the trade modification cut-off at 3:40 pm.
-
-Traders should confirm final timings with their broker, as small differences between segments are common.
+The timing changes every year with the festival calendar. In 2025 the session ran from 1:45 pm to 2:45 pm, as reported by <a href="https://www.newsonair.gov.in/nse-and-bse-hold-muhurat-trading-session-on-diwali" target="_blank" rel="noopener">News On Air</a>. IBTimes India noted that BSE began the practice in 1957 and NSE carried it on after it was set up in 1992.
 
 ## Settlement Rules: Muhurat Trades Are Real Trades
 
-Many first-time investors think the Muhurat session is only ceremonial. It is not. NSE's circular clearly states that all trades executed in the session will result in settlement obligations. This means:
+The session is not just a ritual. The NSE circular states that all trades executed in it create settlement obligations. So shares bought are delivered to your demat account on the normal settlement cycle, intraday positions must be squared off within the session, and margin rules and brokerage charges apply as on any day. ETV Bharat also warned that prices can swing sharply in such a short, thin session, so limit orders are safer than market orders in illiquid stocks.
 
-- Shares bought will be delivered to your demat account on the normal settlement cycle.
-- Intraday positions must be squared off within the session, as with any regular trading day.
-- Margin rules and brokerage charges apply as usual.
+## Diwali and November 2026 Market Holidays
 
-ETV Bharat also cautioned that prices can swing sharply because volumes in such a short session are usually thin. Investors should avoid market orders in illiquid stocks and stick to limit orders where possible.
+- **Sunday, November 8:** Special Muhurat session (2:20 pm to 3:30 pm)
+- **Monday, November 9:** Regular trading resumed
+- **Tuesday, November 10:** Holiday for Diwali Balipratipada. TradingView News said the equity, derivatives, electronic gold receipts and debt segments were shut.
+- **Tuesday, November 24:** Holiday for Prakash Gurpurb Sri Guru Nanak Dev, as listed by Business Today
+- **Friday, December 25:** Holiday for Christmas
 
-## Why Muhurat Trading Matters to Investors
+## Muhurat Trading 2026: Common Questions
 
-Muhurat means an auspicious time. Many investors buy a few shares of companies they plan to hold for years, treating it as a token investment for good luck in the new Samvat. IBTimes India noted that BSE began the practice in 1957, and NSE continued it after it was set up in 1992.
+**What were the Muhurat trading 2026 timings?**
+Normal trading ran from 2:20 pm to 3:30 pm IST on Sunday, November 8, 2026, with a pre-open session from 2:05 pm to 2:20 pm.
 
-The timing changes every year based on the festival calendar. Last year, the 2025 Muhurat session was held on Diwali from 1:45 pm to 2:45 pm, as reported by <a href="https://www.newsonair.gov.in/nse-and-bse-hold-muhurat-trading-session-on-diwali" target="_blank" rel="noopener">News On Air</a>. This year it moves to a 2:20 pm start.
+**How did Sensex and Nifty do in Muhurat trading 2026?**
+The Sensex fell 28.62 points to 80,999.40 and the Nifty fell 43.95 points to 24,986.40. It was the first lower Muhurat close since 2017.
 
-## Market Mood Ahead of Samvat 2083
+**Are trades in the Muhurat session settled like normal trades?**
+Yes. NSE says all trades in the session result in settlement obligations, so delivery, margins and charges work as on a normal day.
 
-The markets enter the Muhurat session on a strong note. TradingView News reported that the Nifty 50 gained nearly 8% during the week, and benchmark indices rose almost 2% on Friday, November 6, extending their winning streak. The Sensex jumped 1,718 points that day while the Nifty closed above 25,000. You can read the full details in our report on the <a href="/sensex-jumps-1718-points-nifty-25000/">Dhanteras rally in Sensex and Nifty</a>.
+**Is the stock market open on November 24, 2026?**
+No. November 24 is a market holiday for Prakash Gurpurb Sri Guru Nanak Dev.
 
-A strong run-up does not guarantee gains in the Muhurat hour. The session is short and mood driven, so it is better seen as a symbolic start to the new year than a signal for the months ahead.
-
-## Diwali 2026 Stock Market Holiday List
-
-Investors should plan around the following dates:
-
-- **Saturday, November 7:** Regular weekend, markets closed
-- **Sunday, November 8:** Special Muhurat trading session (2:20 pm to 3:30 pm)
-- **Tuesday, November 10:** Market holiday for Diwali Balipratipada. As per TradingView News, the equity, derivatives, electronic gold receipts and debt segments will remain shut.
-
-## Smart Ways to Approach the Session
-
-- Decide your stocks in advance. With only about 70 minutes of trading, there is little time to research.
-- Use limit orders to avoid buying at a sudden spike.
-- Keep the amount small if you are trading only for tradition.
-- Check that your demat account has enough funds before 2:05 pm.
-
-Gold buyers who missed Dhanteras can also look at our <a href="/gold-rate-today-dhanteras-2026/">gold rate update for Dhanteras 2026</a>.
-
-The Muhurat session on November 8 is a short but real trading window to begin Samvat 2083. Knowing the timings and settlement rules in advance helps investors avoid last-minute mistakes.
-
-*This article is for general information only and is not professional financial or investment advice. Please consult a SEBI-registered advisor before making investment decisions.*
+*This article is general information only and is not professional financial or investment advice. Please consult a SEBI-registered advisor before making investment decisions.*
