@@ -38,6 +38,15 @@ RewriteRule ^(wp-admin|wp-login\.php|wp-json|xmlrpc\.php)(/.*)?$ / [R=301,L]
 RewriteRule ^(home-[0-9]+|sample-page|refund_returns|bookmarks|content-widgets|our-team|categories-list|login|login-custom|newsletter|landing|reviews|blog|out-authors|authors-list|resources|maintenance|coming-soon|footer-styles|advanced-search|catalogue|faq)/?$ / [R=301,L]
 RewriteRule ^(bollywood|technology|health|finance|education|yojana|sports|automobile)/?$ /category/$1/ [R=301,L]
 RewriteRule ^tag/.*$ / [R=301,L]
+# Old WordPress query links: ?p=123 shortlinks and ?paged=N (drop the query)
+RewriteCond %{QUERY_STRING} (^|&)(p|page_id|paged|cat)= [NC]
+RewriteRule ^$ /? [R=301,L]
+RewriteCond %{QUERY_STRING} (^|&)(p|page_id|paged|cat)= [NC]
+RewriteRule ^(world|technology|finance|sports|health|science|entertainment|bollywood|education|automobile|yojana)/?$ /category/$1/? [R=301,L]
+# Old WordPress category pagination, e.g. /technology/page/2/ -> /category/technology/2/
+RewriteRule ^(world|technology|finance|sports|health|science|entertainment|bollywood|education|automobile|yojana)/page/([0-9]+)/?$ /category/$1/$2/ [R=301,L]
+# Truncated old link seen in Search Console
+RewriteRule ^technology/end-to-end-/?$ /end-to-end-encryption-to-arattai/ [R=301,L]
 # Old WordPress article URLs with a category prefix, e.g. /education/slug/ -> /slug/
 RewriteRule ^(world|technology|finance|sports|health|science|entertainment|bollywood|education|automobile|yojana|news|uncategorized)/([a-z0-9-]+)/?$ /$2/ [R=301,L]
 # Old WordPress date based URLs, e.g. /2025/09/06/slug/ -> /slug/
