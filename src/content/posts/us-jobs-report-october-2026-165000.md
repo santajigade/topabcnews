@@ -1,76 +1,93 @@
 ---
 title: "US Jobs Report October 2026: 165,000 Jobs Added, Fed Hike Odds Rise"
 slug: "us-jobs-report-october-2026-165000"
-description: "The US added 165,000 jobs in October 2026 and unemployment fell to 4.1%, nearly triple forecasts, lifting the odds of a Federal Reserve rate hike in December."
+description: "The US added 165,000 jobs in October 2026 against a 65,000 forecast and unemployment fell to 4.1%. What it means for a December Fed hike and the rupee."
 date: 2026-11-07T19:05:00+05:30
+updated: 2026-11-25T21:30:00+05:30
 category: "Finance"
-tags: ["us jobs report", "nonfarm payrolls", "federal reserve", "interest rates", "us economy"]
+tags: ["us jobs report", "nonfarm payrolls", "federal reserve", "interest rates", "us economy", "rupee"]
 keywords: "US jobs report October 2026, nonfarm payrolls 165000, Fed rate hike December, US unemployment rate 4.1%"
 image: "/images/posts/us-jobs-report-october-2026-165000.webp"
 imageAlt: "US jobs report October 2026 featured graphic"
 author: "Editorial Staff"
 sources:
-  - name: "US Bureau of Labor Statistics, Employment Situation Summary, October 2026"
-    url: "https://www.bls.gov/news.release/empsit.nr0.htm"
-  - name: "InvestmentNews, October jobs report beats forecasts"
-    url: "https://www.investmentnews.com/fixed-income/october-jobs-report-beats-forecasts-lifting-december-fed-hike-odds/268915"
-  - name: "The Tribune (ANI), US nonfarm payrolls rise by 165,000 in October"
-    url: "https://www.tribuneindia.com/news/business/us-nonfarm-payrolls-rise-by-165000-in-october-over-three-times-12-month-average"
+  - name: "Fox Business, US economy adds 165,000 jobs in October"
+    url: "https://foxbusiness.com/economy/us-jobs-report-october-2026"
+  - name: "Associated Press (via ABC7), US employers added a surprising 165,000 jobs in October"
+    url: "https://abc7news.com/story/us-employers-added-surprising-165000-jobs-october-unemployment-rate-dipped-41/20020018/"
+  - name: "Federal Reserve, Minutes of the FOMC meeting of October 27-28, 2026"
+    url: "https://federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+  - name: "Associated Press (via Anchorage Daily News), Fed minutes: higher interest rates needed in December"
+    url: "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"
+  - name: "US Bureau of Labor Statistics, Employment Situation release schedule"
+    url: "https://www.bls.gov/schedule/news_release/empSit.htm"
+  - name: "US Bureau of Labor Statistics, December 2026 release calendar"
+    url: "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+  - name: "Business Today, The rupee bounces back but the Rs 100 threat isn't gone yet"
+    url: "https://www.businesstoday.in/latest/economy/story/bt-big-story-the-rupee-bounces-back-but-the-rs100-threat-isnt-gone-yet-566935-2026-11-12"
+  - name: "ThePrint (PTI), Rupee rallies for 4th session to close at 93.32"
+    url: "https://theprint.in/economy/rupee-rallies-for-4th-session-to-close-9-paise-higher-at-93-32-against-us-dollar/3103570/"
 ---
 
-The United States economy added far more jobs than expected in October 2026. Nonfarm payrolls rose by 165,000 last month and the unemployment rate slipped to 4.1%, according to data released on Friday, November 6, by the US Bureau of Labor Statistics (BLS). Economists had expected a much smaller gain, and the strong numbers have pushed up the chances that the Federal Reserve will raise interest rates again at its December meeting.
+US employers added 165,000 jobs in October 2026, far more than the 65,000 economists polled by LSEG had expected, and the unemployment rate dipped to 4.1% from the 4.2% forecast. The Bureau of Labor Statistics (BLS) released the figures on Friday, November 6. Because wages also rose faster than expected, the report strengthened the case for the Federal Reserve to raise interest rates again at its December 8 and 9 meeting.
 
-## How Strong Were the October Numbers?
+## Update (25 November 2026)
 
-The headline gain of 165,000 jobs was well above the average monthly increase of 48,000 seen over the previous 12 months, the BLS said. According to InvestmentNews, economists polled by Dow Jones had forecast just 59,000 new jobs, so the actual figure was close to three times the consensus.
+Since this report came out, the Fed has made its December intentions clearer. Minutes of the October 27 and 28 meeting, published on November 18, show the Fed held its target range at 3.75% to 4%, but two members, Lisa Cook and Beth Hammack, dissented because they wanted a quarter-point hike straight away. Almost all participants judged that <a href="https://federalreserve.gov/monetarypolicy/fomcminutes20261028.htm" target="_blank" rel="noopener">"further action to raise the target range"</a> would likely be appropriate in December.
 
-The jobless rate came in at 4.1%, lower than the 4.2% that forecasters had pencilled in. About 7.1 million Americans were counted as unemployed. The rate has stayed in a narrow band between 4.1% and 4.3% since March.
+Fed Governor Christopher Waller backs a half-point move and said inflation is "headed in the wrong direction," the Associated Press reported. New York Fed President John Williams opposes a large step. After the minutes, CME FedWatch put the chance of a December hike at about 95%, up from 76.8% on the day of the jobs report. Our report on <a href="/us-cpi-october-2026-inflation-fed-hike/">October US inflation</a> covers the price data that fed into this shift.
 
-Earlier months also looked better on a second look. The BLS revised August payrolls up by 53,000 to 186,000 and September up by 31,000 to 60,000. Together, those two months now show 84,000 more jobs than first reported.
+The next jobs report, for November, is due on Friday, December 4 at 8:30 am Eastern time (7:00 pm IST), four days before the Fed meets.
 
-### Key highlights of the October 2026 report
+## The October Numbers at a Glance
 
-| Indicator | October 2026 figure |
-|---|---|
-| Jobs added (nonfarm payrolls) | 165,000 |
-| Dow Jones consensus forecast | 59,000 |
-| Unemployment rate | 4.1% |
-| Average hourly earnings | $38.00 (up 0.4% in the month) |
-| Annual wage growth | 3.1% |
-| Labour force participation rate | 61.9% |
-| Long-term unemployed (27 weeks or more) | 2.0 million (27.6% of jobless) |
-| Revisions to August and September | +84,000 combined |
+| Indicator | October 2026 | What was expected |
+|---|---|---|
+| Jobs added (nonfarm payrolls) | 165,000 | 65,000 |
+| Private sector jobs | 159,000 | 64,000 |
+| Unemployment rate | 4.1% | 4.2% |
+| Hourly earnings, monthly change | +0.4% | +0.3% |
+| Hourly earnings, yearly change | +3.1% | +2.4% |
+| Labour force participation | 61.9% | |
+| August and September revisions | +84,000 combined | |
 
-## Which Sectors Did the Hiring?
+The BLS also revised earlier months up. August now shows 186,000 jobs instead of 133,000, and September 60,000 instead of 29,000. The AP noted that unemployment fell even though 421,000 people joined the labour force. Still, hiring in 2026 has averaged only about 68,000 a month so far, according to the AP, well below the 166,000 monthly average of 2023 and 2024.
 
-Hiring was led by service industries. Professional and business services added 70,000 jobs, the largest gain of any sector. Health care followed with 42,000 new positions, while transportation and warehousing added 25,000.
+## Where the New Jobs Came From
 
-Factories also had a good month. Manufacturing employment grew by 19,000, and The Tribune, citing the BLS release, reported that the sector has now added 101,000 jobs since its low point in December 2025. Construction, retail trade and government showed little change.
+Professional and business services added 70,000 jobs, against a 12-month average of 15,000. Within that, professional, scientific and technical roles grew by 32,900 and administrative and support services by 28,100. Health care added 41,600, led by hospitals (16,000) and home health care (10,500). Transportation and warehousing added 24,800, most of it from couriers and messengers. Manufacturing added 19,000 against an expected 5,000, while government rose by just 6,000. Hotels, restaurants and bars shed about 10,600 jobs.
 
-Not every number was positive. The count of people working part time because they could not find full-time work rose by 339,000 to 4.8 million. Long-term unemployment also remains a concern, with 2.0 million people out of work for 27 weeks or longer, making up 27.6% of all unemployed Americans.
+There were weaker spots too. The number of people working part time because they could not find full-time work rose by 339,000 to 4.8 million. About 2 million people had been jobless for 27 weeks or more, 27.6% of all the unemployed.
 
-## Wages Keep Pressure on the Federal Reserve
+## What Nonfarm Payrolls and the Other Terms Mean
 
-Pay growth was firmer than expected. Average hourly earnings for private sector workers rose 14 cents, or 0.4%, to $38.00. Over the past year, wages are up 3.1%. InvestmentNews noted that forecasters had expected a 0.3% monthly rise and 2.9% annual growth.
+For readers new to this report, a few terms come up every month:
 
-Faster wage growth matters because it can feed into prices. The Fed raised rates at its September meeting and then held them steady on October 28, keeping the federal funds rate in a range of 3.75% to 4%, according to InvestmentNews. Policymakers next meet on December 8 and 9.
+- **Nonfarm payrolls** is the monthly change in the number of paid jobs in the US, leaving out farm workers. It is the headline number markets react to first.
+- **Unemployment rate** is the share of people actively looking for work who do not have a job. It comes from a separate survey of households, so it can move differently from payrolls.
+- **Revisions** are corrections to the two previous months as more employer data arrives. In October they added 84,000 jobs, which changes the picture almost as much as a new month.
+- **Federal funds rate** is the overnight rate the Fed targets. A quarter-point hike in December would lift the range from 3.75% to 4% to 4% to 4.25%.
 
-After the jobs data, CME FedWatch showed a 76.8% probability of a quarter-point rate hike in December, InvestmentNews reported. Janus Henderson's Addison Maier described the report as "unambiguously strong," saying it lets Fed officials stay focused on inflation. Franklin Templeton Institute's Jeff Schulze made a similar point, arguing that lower unemployment gives the central bank room to keep a hawkish stance.
+## Why Indian Investors and the Rupee Feed Off This Data
 
-## Bond Yields Climb After the Release
+US jobs and wage data move expectations for US interest rates, and higher US rates tend to pull money towards dollar assets and away from markets such as India. This year shows how much those flows matter. Business Today, citing NSDL data, reported that foreign portfolio investors pulled $3.6 billion out of India in October, then bought about $6.4 billion in November up to the 11th, their largest monthly purchase since September 2024. Even so, they were net sellers of $24.98 billion for 2026 as of that date.
 
-US government bond yields moved higher as traders priced in tighter policy. The 10-year Treasury yield rose more than 3 basis points to about 4.87%, the 2-year yield climbed nearly 5 basis points to 4.52%, and the 30-year yield touched about 5.28%, according to InvestmentNews.
+The rupee has recovered with those inflows. It closed at 93.32 per dollar on November 19, its fourth straight gain, according to PTI, compared with its record low of 96.96 on May 20. An analyst quoted by PTI said the Fed's hawkish minutes could limit further gains. Brent crude was at $92.44 a barrel that day, which also matters for India's import bill.
 
-Chris Zaccarelli of Northlight Asset Management told the publication that the economy is able to absorb higher oil prices and rates for now, pointing to strong growth and corporate earnings, but he also warned that rates can only rise so far before something breaks.
+At home, the RBI raised the repo rate by 25 basis points in October and a similar move is expected at its December policy meeting, Business Today reported. Our story on the <a href="/rbi-december-2026-rate-hike-emi-impact/">RBI December policy and EMIs</a> explains what that could mean for home loan borrowers.
 
-## What It Could Mean for Indian Investors
+## US Jobs Report: Common Questions
 
-For Indian markets, US jobs data and Fed decisions are closely watched because they influence global money flows. In general, higher US interest rates and bond yields make dollar assets more attractive, which can weigh on foreign investment in emerging markets and put pressure on currencies like the rupee. Indian shares had rallied sharply just before this release, as covered in our report on the <a href="/sensex-jumps-1718-points-nifty-25000/">Sensex jump of 1,718 points on Dhanteras</a>, so traders will be watching how foreign investors react when markets reopen.
+**When is the November 2026 US jobs report released?**
+The BLS has scheduled it for Friday, December 4, 2026 at 8:30 am Eastern time, which is 7:00 pm in India.
 
-Gold prices, which have been near record levels in India, can also react to shifts in US rate expectations. Our recent <a href="/gold-rate-today-dhanteras-2026/">Dhanteras gold rate update</a> has the latest local prices.
+**How many jobs did the US add in October 2026?**
+Employers added 165,000 jobs, against a forecast of 65,000. The unemployment rate fell to 4.1%.
 
-## What Comes Next
+**When is the next Fed meeting?**
+The Federal Open Market Committee meets on December 8 and 9, 2026. After the October minutes, futures markets put the odds of a hike at about 95%.
 
-The next big test will be the November jobs report, which the <a href="https://www.bls.gov/news.release/empsit.nr0.htm" target="_blank" rel="noopener">Bureau of Labor Statistics</a> plans to release on Friday, December 4, 2026. That data will arrive just days before the Fed's December meeting, and inflation figures released in between will also shape the decision. For now, the October report shows a US job market that is holding up better than many expected, which supports growth but makes a further rate hike more likely. Readers can follow official policy statements on the <a href="https://www.federalreserve.gov/" target="_blank" rel="noopener">Federal Reserve website</a>.
+**Why does the US jobs report affect the Indian rupee?**
+Strong US jobs and wage data raise the chance of higher US rates, which can draw foreign money out of Indian markets and weaken the rupee. Flows can also reverse, as November's foreign buying showed.
 
 *This article is for general information only and is not financial or investment advice.*

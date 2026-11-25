@@ -50,16 +50,16 @@ done 2026-11-24 | cosmoserve-base-1-space-debris-hyderabad | Technology | 2026-1
 done 2026-11-24 | paraguay-president-pena-removed-ueno-bank | World | 2026-11-07 | 940
 noindex 2026-11-24 | india-beat-new-zealand-2nd-odi-dls-wellington | Sports | 2026-11-07 | 819
 done 2026-11-24 | november-2026-night-sky-supermoon-leonids | Science | 2026-11-07 | 999
-todo | us-jobs-report-october-2026-165000 | Finance | 2026-11-07 | 907
-todo | karnataka-ethanol-petrol-tests-e20-row | Automobile | 2026-11-07 | 878
-todo | cop31-antalya-climate-summit-india | World | 2026-11-07 | 884
-todo | herzog-taps-eisenkot-form-israel-government | World | 2026-11-08 | 1022
-todo | mohammed-shami-retires-test-cricket | Sports | 2026-11-08 | 812
-todo | neet-pg-2026-round-2-counselling-dates | Education | 2026-11-08 | 778
-todo | nasa-swift-observatory-reenters-over-indonesia | Science | 2026-11-08 | 824
-todo | mississippi-alaska-senate-races-still-counting | World | 2026-11-08 | 973
-todo | sao-paulo-grand-prix-2026-norris-pole | Sports | 2026-11-08 | 847
-todo | polar-vortex-weakening-record-early-2026 | Science | 2026-11-08 | 953
+done 2026-11-25 | us-jobs-report-october-2026-165000 | Finance | 2026-11-07 | 907
+done 2026-11-25 | karnataka-ethanol-petrol-tests-e20-row | Automobile | 2026-11-07 | 878
+done 2026-11-25 | cop31-antalya-climate-summit-india | World | 2026-11-07 | 884
+done 2026-11-25 | herzog-taps-eisenkot-form-israel-government | World | 2026-11-08 | 1022
+done 2026-11-25 | mohammed-shami-retires-test-cricket | Sports | 2026-11-08 | 812
+done 2026-11-25 | neet-pg-2026-round-2-counselling-dates | Education | 2026-11-08 | 778
+done 2026-11-25 | nasa-swift-observatory-reenters-over-indonesia | Science | 2026-11-08 | 824
+done 2026-11-25 | mississippi-alaska-senate-races-still-counting | World | 2026-11-08 | 973
+noindex 2026-11-25 | sao-paulo-grand-prix-2026-norris-pole | Sports | 2026-11-08 | 847
+done 2026-11-25 | polar-vortex-weakening-record-early-2026 | Science | 2026-11-08 | 953
 todo | india-services-pmi-october-2026-four-month-high | Finance | 2026-11-08 | 784
 todo | new-zealand-election-2026-preliminary-results | World | 2026-11-08 | 1045
 todo | india-horizon-europe-association-talks-concluded | Science | 2026-11-08 | 787

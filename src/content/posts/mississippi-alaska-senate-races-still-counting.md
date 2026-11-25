@@ -1,72 +1,90 @@
 ---
-title: "Mississippi, Alaska Senate Races Uncalled After Democratic Sweep"
+title: "Colom and Peltola Win Mississippi, Alaska Senate Seats: Final Results"
 slug: "mississippi-alaska-senate-races-still-counting"
-description: "Five days after the US midterms, Mississippi and Alaska Senate races remain uncalled. Here are the margins, ballot deadlines and what Democrats' win means."
+description: "Democrats Scott Colom and Mary Peltola won the last two uncalled US Senate races of 2026. Final margins, certification and the new 56-44 Senate explained."
 date: 2026-11-08T12:15:00+05:30
+updated: 2026-11-25T21:30:00+05:30
 category: "World"
 tags: ["us midterms 2026", "us senate", "mississippi", "alaska", "scott colom", "cindy hyde-smith", "mary peltola", "dan sullivan"]
-keywords: "Mississippi Senate race, Alaska Senate race, US midterm results 2026, Colom Hyde-Smith, Peltola Sullivan"
+keywords: "Mississippi Senate race result, Alaska Senate race result, US midterm results 2026, Colom Hyde-Smith, Peltola Sullivan"
 image: "/images/posts/mississippi-alaska-senate-races-still-counting.webp"
 imageAlt: "Graphic on the uncalled Mississippi and Alaska US Senate races after the 2026 midterms"
 author: "Editorial Staff"
 sources:
-  - name: "ABC News: What to know about recounts in Mississippi with razor-thin margin in Senate race"
-    url: "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
-  - name: "AFP via Yahoo News: Mississippi vote count drags in US Senate cliffhanger"
-    url: "https://www.yahoo.com/news/politics/articles/mississippi-vote-count-drags-us-164652352.html"
-  - name: "Yahoo News: How the Mississippi Senate race between Scott Colom and Cindy Hyde-Smith got so close"
-    url: "https://www.yahoo.com/news/politics/article/how-the-mississippi-senate-race-between-scott-colom-and-cindy-hyde-smith-got-so-close--and-what-happens-next-212946040.html"
-  - name: "Fox News: Alaska, Mississippi Senate races separated by razor-thin vote margins"
-    url: "https://www.foxnews.com/politics/alaska-mississippi-senate-races-separate-razor-thin-vote-margins"
-  - name: "CBS News: 2026 midterm election updates"
-    url: "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+  - name: "Mississippi Today: Why AP called the Mississippi Senate race for Scott Colom"
+    url: "https://mississippitoday.org/2026/11/11/why-ap-called-mississippi-senate-race-scott-colom/"
+  - name: "WLOX: Sen. Cindy Hyde-Smith concedes defeat to Scott Colom"
+    url: "https://www.wlox.com/2026/11/12/i-respect-decision-sen-cindy-hyde-smith-concedes-defeat-scott-colom/"
+  - name: "WLOX: MS Secretary of State releases final election numbers"
+    url: "https://www.wlox.com/2026/11/14/ms-secretary-state-releases-final-election-numbers/"
+  - name: "Associated Press via WLOX: Mississippi elects Scott Colom as first Black US senator since Reconstruction"
+    url: "https://www.wlox.com/2026/11/11/mississippi-elects-democrat-scott-colom-states-first-black-us-senator-since-reconstruction/"
+  - name: "Anchorage Daily News: Democrat Mary Peltola wins US Senate race in Alaska"
+    url: "https://www.adn.com/politics/2026/11/17/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan/"
+  - name: "Associated Press via ABC30: Democrat Mary Peltola wins US Senate race in Alaska"
+    url: "https://abc30.com/post/alaska-senate-race-2026-update-democrat-mary-peltola-wins-election-beating-incumbent-republican-dan-sullivan/20049828/"
+  - name: "Alaska Public Media: Mary Peltola wins US Senate seat in Alaska"
+    url: "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska"
+  - name: "Alaska Beacon: Peltola elected to fill Alaska US Senate seat, becomes Senate's 56th Democrat"
+    url: "https://alaskabeacon.com/?p=30829"
+  - name: "NPR via GPB: Mary Peltola flips Alaska's Senate seat into Democrats' column"
+    url: "https://www.gpb.org/news/2026/11/17/mary-peltola-flips-alaskas-senate-seat-democrats-column"
+  - name: "NPR via OPB: The midterms were the largest win for either party in 50 years"
+    url: "https://www.opb.org/article/2026/11/19/democrats-house-win-was-the-largest-in-50-years/"
 ---
 
-Five days after Americans voted in the November 3 midterm elections, two US Senate seats are still without a winner. In Mississippi, Democrat Scott Colom holds a lead of about 2,500 votes over Republican Senator Cindy Hyde-Smith, while in Alaska, Democrat Mary Peltola leads Republican Senator Dan Sullivan by only a few hundred votes. Democrats have already won control of both the House and the Senate, so neither race will decide who runs Congress, but both will shape how large the new Democratic majority becomes.
+## Update (25 November 2026)
 
-## Where the Mississippi Count Stands
+Both races are now decided, and Democrats won both. In Mississippi, Scott Colom beat Republican Senator Cindy Hyde-Smith by 7,587 votes, and Hyde-Smith conceded on November 11. In Alaska, Mary Peltola unseated Republican Senator Dan Sullivan with 50.1% of first-choice votes, enough to win outright without a ranked-choice count. The two results give Democrats a 56-44 Senate majority when the new Congress is sworn in on January 3, 2027. Alaska's Division of Elections is due to publish certified results today, November 25.
 
-According to the results dashboard tracked by <a href="https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445" target="_blank" rel="noopener">ABC News</a>, with about 97% of the expected vote in, Colom had 467,930 votes (49.1%) against 465,356 (48.8%) for Hyde-Smith. Independent candidate Ty Pinkins took a little over 2% of the vote. Colom's lead has grown since election night, when the gap was just over 1,100 votes.
+| Race | Winner | Runner-up | Margin | Status |
+|---|---|---|---|---|
+| Mississippi | Scott Colom (D), 479,404 votes, 49.3% | Cindy Hyde-Smith (R), 471,817 votes, 48.6% | 7,587 votes | All 82 counties reported official results on November 13; Hyde-Smith conceded |
+| Alaska | Mary Peltola (D), 144,302 votes, 50.1% | Dan S. Sullivan (R), 131,844 votes, 45.8% | 12,458 votes | AP call on November 17; state certification scheduled for November 25 |
 
-The result is striking because Mississippi is one of the most Republican states in the country. Donald Trump carried it by more than 20 points in 2024, and the state has not sent a Democrat to the Senate since 1982. If Colom wins, he would also become Mississippi's first Black US senator since the Reconstruction era after the Civil War.
+This article was first published on November 8, when both contests were still too close to call, and has been revised to reflect the final outcome.
 
-Reports point to several reasons for the close contest. Hyde-Smith ran a low-key campaign, while national Democrats spent heavily in the state. Colom's mid-October advertisement about rising beef prices drew wide attention. Some voters were also wrongly marked inactive because of faulty data from the credit bureau Experian, which led to confusion at polling stations and more provisional ballots.
+## How Colom Won in Mississippi
 
-## Ballots Left to Count and Key Deadlines
+The Associated Press called the race for Colom on Wednesday, November 11, shortly before 5 pm Central time, after Jackson County added 2,173 votes. At that point Colom led by 4,669 votes out of 962,237 counted, according to Mississippi Today, and the AP estimated fewer than 12,000 ballots were left. On election night his lead had been just 43 votes. Late updates from counties across the state, including most Republican-leaning ones, kept widening the gap.
 
-Thousands of ballots are still outstanding. Mississippi Secretary of State Michael Watson said late last week that roughly 3,300 absentee ballots had not yet arrived or been processed. The bigger unknown is the number of affidavit ballots, which are provisional votes cast by people whose eligibility could not be confirmed at the polls. Estimates range from about 10,000 to 20,000, and the Secretary of State's office has said it has no exact figure.
+Hyde-Smith conceded the same evening in a video posted on X, saying, "I respect the decision of Mississippi voters." No recount request, court challenge or ballot box examination has been reported since.
 
-| Step | Deadline |
-|---|---|
-| Mail ballots (postmarked by Election Day) must arrive | Tuesday, November 10 |
-| Affidavit voters must verify with acceptable ID | Tuesday, November 10 |
-| All 82 counties must certify results | Friday, November 13 |
+Two days later, Secretary of State Michael Watson said official results from all 82 counties were in. Colom finished with 479,404 votes to Hyde-Smith's 471,817, while independent Ty Pinkins took 20,439 votes, or 2.1%. Officials processed 21,344 affidavit ballots, and about 73% of them were accepted.
 
-Unlike many states, Mississippi has no formal recount process. A candidate cannot request one and none is triggered automatically. After certification, a campaign can carry out a "ballot box exam" of the materials and go to court if it finds problems. Both parties have sent lawyers, and Hyde-Smith's team has asked officials to preserve the affidavit ballots, a step that often comes before legal challenges.
+The result stands out in a state Donald Trump carried by nearly 23 points in 2024. Colom, a 43-year-old local prosecutor, becomes Mississippi's first Black US senator since Reconstruction. In 2022, President Joe Biden nominated him for a federal judgeship, but Hyde-Smith blocked his confirmation.
 
-## The Alaska Race and the "Decoy Dan" Dispute
+## How Peltola Won in Alaska
 
-In Alaska, Peltola, a former congresswoman, led Sullivan by about 637 votes with roughly three quarters of the expected vote counted, according to ABC's tally. Alaska counts slowly because of its size and its ranked-choice voting system. If no candidate crosses 50%, the last-placed candidate is eliminated and those ballots move to voters' next choices. Further count updates are scheduled for November 10, 13 and 18, with the ranked-choice tabulation due on November 18.
+Alaska took longer because it accepts absentee ballots for up to 15 days after Election Day. The AP called the race on November 17. In the count reported by the Anchorage Daily News, Peltola had 144,302 first-choice votes against Sullivan's 131,844. Republican Gerald Heikes received 6,105 votes and Daniel J. Sullivan, a retired teacher from Petersburg, received 4,760.
 
-The race has been complicated by a third candidate, retired schoolteacher Daniel J. Sullivan, who shares the senator's name. Fox News reported that he received about 3,600 votes, several times the current margin, and that the Justice Department opened an inquiry into his candidacy in July. Peltola has denied any involvement in his entry, and President Trump has called for those votes to be credited to the incumbent.
+Because Peltola crossed 50%, the ranked-choice rounds were not needed. She had more votes than the other three candidates combined. Alaska Public Media reported that Sullivan had not conceded; his campaign said it would let the process run until every legal vote is counted and certified.
 
-## How Big the Democratic Win Was
+Peltola flipped a seat Trump carried by 13 points in 2024, according to <a href="https://www.gpb.org/news/2026/11/17/mary-peltola-flips-alaskas-senate-seat-democrats-column" target="_blank" rel="noopener">NPR's report on the result</a>, and Alaska Public Media notes she is the first Democrat to win a Senate race in the state since 2008. A former congresswoman and a Yup'ik, she was the first Alaska Native to serve in Congress, and Alaska Public Media reports she will be the first Alaska Native in the Senate. Our earlier piece on the <a href="/alaska-senate-race-peltola-leads-sullivan-ranked-choice/">Alaska count and ranked-choice rules</a> covers the race before the call.
 
-The two uncalled races come on top of a broad Democratic victory. CBS News projected that Democrats would hold at least 54 Senate seats and between 251 and 268 House seats, after flipping Senate seats in states including Texas, Ohio, North Carolina, Maine and Michigan. Hakeem Jeffries is expected to become Speaker of the House, while Speaker Mike Johnson has said he will not seek another term as Republican leader.
+### The two Dan Sullivans and the Justice Department case
 
-Trump said he was surprised by the results but accepted them, adding that he would work with Democrats while using his veto where needed. Vice President JD Vance linked the losses to the Iran conflict, and Trump called that view "largely true", pointing to higher petrol prices. Democrats have said they plan to push to reverse Medicaid cuts, restore health insurance tax credits and challenge the administration's tariffs, and incoming committee chairs have promised investigations.
+The second Sullivan on the ballot became the most disputed part of the race. The New York Times reported that Peltola's team helped recruit him to draw votes from the senator. Peltola denied any involvement, and Daniel J. Sullivan denied any contact with her campaign. NPR noted it had not independently confirmed the report and that ballot stacking and spoiler efforts are generally legal in Alaska.
 
-### Key highlights
+The US Justice Department filed a lawsuit on October 22 seeking to block certification if the senator lost, arguing voters may have been confused by the two names. A federal judge dismissed the case. The department has appealed to the 9th US Circuit Court of Appeals but did not ask for an expedited schedule, so Alaska Public Media reported that no ruling is expected before the new Congress is sworn in. Alaska's governor has also ordered an investigation.
 
-- Mississippi: Colom leads Hyde-Smith by about 2,574 votes with 97% counted
-- Alaska: Peltola leads Sullivan by about 637 votes, final ranked-choice count on November 18
-- Mississippi certification deadline: November 13, with no automatic recount
-- Democrats already hold a Senate majority of at least 54 seats
+## Two Different Counting Rules, Explained
 
-## Why Indian Readers Should Watch Washington
+The two states settle close races in very different ways.
 
-For India, the shift in Congress matters mainly through trade and markets. Democratic leaders have named tariffs among the policies they want to challenge, and any change in US trade policy can affect Indian exporters, the rupee and foreign investment flows. Global investors are also watching US jobs and interest rate data closely, as covered in our report on the <a href="/us-jobs-report-october-2026-165000/">October US jobs report</a>. The new Congress takes office in January 2027, and the final size of the Democratic majority will become clear only after Mississippi and Alaska finish counting.
+| Question | Mississippi | Alaska |
+|---|---|---|
+| Can a losing candidate ask for a recount? | No. The state has no recount law; a candidate would need a court to order a review | No recount has been reported in this race |
+| What decides the winner? | Most votes wins | Over 50% of first choices wins outright; otherwise the last-placed candidate is eliminated and votes move to next choices |
+| Was the backup step used? | No court review was sought | No ranked-choice rounds were needed |
+| Why the count took time | Absentee and affidavit (provisional) ballots had to be checked | Absentee ballots accepted up to 15 days after Election Day |
 
-## What Comes Next in the Count
+Recounts rarely change outcomes anywhere in the US. Mississippi Today counted about 40 statewide recounts since 2000, of which only three reversed the result, each decided by a few hundred votes. Colom's final margin of 7,587 is well beyond that range.
 
-Over the coming week, the focus will be on the November 10 ballot deadline in Mississippi, the county certifications due by November 13, and Alaska's ranked-choice tabulation on November 18. Any court challenge could stretch the Mississippi result further. Until official certification, the margins reported above remain provisional and may change as the remaining ballots are counted.
+## What the New Senate and House Look Like
+
+Republicans went into the midterms with a 53-47 Senate majority. According to the <a href="https://abc30.com/post/alaska-senate-race-2026-update-democrat-mary-peltola-wins-election-beating-incumbent-republican-dan-sullivan/20049828/" target="_blank" rel="noopener">Associated Press</a>, Democrats flipped nine seats, the most for any party since 1958, to reach 56-44. Alaska was the last Senate race to be resolved. For more on the Mississippi winner, see our report on <a href="/scott-colom-wins-mississippi-senate-race/">Scott Colom's victory</a>.
+
+The House picture was not fully final in the latest count we checked. NPR reported on November 19 that Democrats had flipped 46 Republican-held seats, with three races in North Carolina, Minnesota and Tennessee still uncalled and Democrats leading in all three. If those leads hold, Democrats would reach 260 seats, which NPR described as the largest midterm win for either party in 50 years.
+
+With both Senate seats settled, the remaining formal steps are Alaska's certification and the swearing-in of the new Congress on January 3, 2027, while the Justice Department's appeal continues in the 9th Circuit.

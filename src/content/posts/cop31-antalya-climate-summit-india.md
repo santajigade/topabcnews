@@ -1,72 +1,95 @@
 ---
-title: "COP31 Antalya Climate Summit Opens Nov 9: What's at Stake for India"
+title: "COP31 Antalya Ends Without a Final Deal: What It Means for India"
 slug: "cop31-antalya-climate-summit-india"
-description: "COP31 runs from November 9 to 20 in Antalya, Turkey, with Australia leading talks. Here is the agenda, who is in charge and what India will push for."
+description: "COP31 in Antalya closed on November 22 without adopting its main Antalya Pact. What was agreed, what failed and where India now stands on climate finance."
 date: 2026-11-07T19:35:00+05:30
+updated: 2026-11-25T21:30:00+05:30
 category: "World"
-tags: ["COP31", "climate change", "Antalya", "UN climate summit", "India climate policy"]
-keywords: "COP31 Antalya, COP31 2026 dates, India at COP31, Bhupender Yadav COP31, UN climate conference"
+tags: ["COP31", "climate change", "Antalya", "UN climate summit", "India climate policy", "adaptation finance"]
+keywords: "COP31 outcome, Antalya Pact, India at COP31, COP31 adaptation finance, UN climate conference 2026"
 image: "/images/posts/cop31-antalya-climate-summit-india.webp"
 imageAlt: "COP31 climate summit in Antalya featured graphic"
 author: "Editorial Staff"
 sources:
-  - name: "UN News, UN Climate Conference COP31"
-    url: "https://news.un.org/en/events/cop31"
-  - name: "Amnesty International, COP31 explained"
-    url: "https://www.amnesty.org/en/latest/campaigns/2026/11/cop31-explainer/"
-  - name: "ThePrint, India will be part of the solution, says Bhupender Yadav ahead of COP31"
-    url: "https://theprint.in/environment/india-solution-never-problem-bhupender-yadav-cop31/3089454/"
-  - name: "Wikipedia, 2026 United Nations Climate Change Conference"
-    url: "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+  - name: "Carbon Brief, COP31: Key outcomes agreed at the UN climate talks in Antalya"
+    url: "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya"
+  - name: "The Wire, UN climate summit talks break down, no consensus on final cover decision"
+    url: "https://m.thewire.in/article/environment/profound-disappointment-un-climate-summit-talks-break-down/amp"
+  - name: "News On Air, India calls for equity and climate justice at COP31 (18 November 2026)"
+    url: "https://newsonair.gov.in/india-calls-for-equity-climate-justice-and-fulfilment-of-climate-finance-obligations-at-un-climate-conference-cop31/"
+  - name: "News On Air, India reaffirms commitment to climate multilateralism at COP31 (10 November 2026)"
+    url: "https://newsonair.gov.in/india-reaffirms-commitment-to-climate-multilateralism-and-fair-ambitious-outcome-at-unfccc-cop31-in-antalya/"
+  - name: "Down To Earth, COP31 adopts climate finance work programme"
+    url: "https://www.downtoearth.org.in/story/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped"
+  - name: "UNFCCC, Draft COP31 cover decision (16 November 2026)"
+    url: "https://unfccc.int/sites/default/files/resource/dt_cop31_cover_decision.pdf"
+  - name: "UNFCCC, The Road to Antalya"
+    url: "https://www.unfccc.int/cop31/the-road-to-antalya"
+  - name: "Australian Minister for Foreign Affairs, COP to be hosted by Turkiye with Australia leading negotiations"
+    url: "https://www.foreignminister.gov.au/minister/penny-wong/media-release/cop-be-hosted-turkiye-australia-leading-negotiations"
+  - name: "Climate Home News, Turkiye says it has final decision at COP31"
+    url: "https://www.climatechangenews.com/2026/09/11/turkiye-says-it-has-final-decision-at-cop31-despite-australia-running-negotiations/"
 ---
 
-The world's biggest annual climate meeting opens on Monday, November 9, 2026, in the Turkish coastal city of Antalya. The 31st UN Climate Change Conference, known as COP31, will run until November 20 and bring together government negotiators, scientists, business leaders and civil society groups. It comes weeks after the UN acknowledged that global warming is set to pass the 1.5°C mark within the next few years, which puts pressure on countries to show that the Paris Agreement goals still mean something.
+COP31, the UN climate conference in Antalya, Turkey, ended on Sunday, November 22, 2026, without agreeing on its main political text. The final gavel came at 7:33 pm local time (10:03 pm IST), about 50 hours after the planned close on November 20, which Carbon Brief says makes it the longest COP on record. The presidency's cover decision, called the "Antalya Pact", was rejected by at least 32 countries. Technical decisions on adaptation and carbon markets did pass.
 
-## An Unusual Shared Arrangement Between Turkey and Australia
+## Update (25 November 2026)
 
-COP31 is the first climate summit run under a split arrangement. Both Turkey and Australia bid to host the 2026 conference. UN rules require consensus on the host, and without a deal the meeting would have moved by default to Bonn, Germany. After about a week of talks in November 2025, the two sides agreed that Turkey would host the event while Australia would lead the actual negotiations.
-
-Turkey's Minister of Environment, Urbanization and Climate Change, Murat Kurum, is the COP President. Australia's Minister for Climate Change and Energy, Chris Bowen, serves as Vice President and President of Negotiations. Before the main event, a pre-COP meeting was held in Fiji, with a leaders' event in Tuvalu in early October, to focus attention on the Pacific islands that face rising seas.
-
-### Key highlights
-
-| Detail | Information |
+| Item | What happened at COP31 |
 |---|---|
-| Dates | November 9 to 20, 2026 |
-| Venue | Antalya Expo Center, Antalya, Turkey |
-| COP President | Murat Kurum (Turkey) |
-| President of Negotiations | Chris Bowen (Australia) |
-| World Leaders' Summit | November 11 and 12 |
-| Pre-COP | Fiji and Tuvalu, October 5 to 8 |
+| Closing | Sunday, November 22, 7:33 pm Antalya time (10:03 pm IST) |
+| Antalya Pact (cover decision) | Not adopted; at least 32 countries objected |
+| Main objections | No mention of fossil fuels, no clear adaptation finance figure, no response to overshooting 1.5°C |
+| Global Goal on Adaptation | Agreed, with an indicator taskforce |
+| Carbon markets (Article 6.2 and 6.4) | Rules adopted |
+| Just transition mechanism | Deferred to COP32 |
+| Mitigation work programme | Blocked; talks move to Bonn in 2027 |
+| Next summit | COP32 in Ethiopia, November 2027 |
 
-One change from past summits is timing. The World Leaders' Summit is scheduled for November 11 and 12, the third and fourth days, instead of the opening days as in earlier COPs.
+The European Union led the objections. Speaking for the bloc, Irish climate minister Darragh O'Brien said it would not back a pact that "does not even mention fossil fuels", The Wire reported. According to Carbon Brief's tally, Panama, Norway, Vanuatu, Belize and the Marshall Islands rejected it outright, while the least developed countries, the UK, Japan and South Korea said there was no consensus. Russia opposed any fossil fuel wording.
 
-## What Is on the Negotiating Table
+India was ready to go along. Amandeep Garg, additional secretary in the environment ministry, spoke for the Like Minded Developing Countries (LMDC) group and said India accepted the text despite its discomfort, even though its concerns on equity and common but differentiated responsibilities were not properly reflected. Environment Minister Bhupender Yadav later wrote on X that India regretted that consensus on the cover decision could not be reached, and said India had engaged constructively until the end.
 
-The <a href="https://news.un.org/en/events/cop31" target="_blank" rel="noopener">UN's COP31 page</a> lists the broad agenda as cutting emissions, speeding up the move to clean energy, protecting nature, strengthening climate finance and helping communities adapt to climate risks such as extreme heat, water shortages and food insecurity.
+For a look at how the text changed during the second week, see our report on <a href="/cop31-second-draft-drops-fossil-fuels/">how the second COP31 draft dropped fossil fuels</a>.
 
-The scientific backdrop is stark. Amnesty International, in an explainer published on November 2, cited the UN Environment Programme's October 2026 warning that emissions need to fall by nearly a fifth within four years and by close to half within a decade. The UN also reported that August 2026 was the hottest August on record.
+## What India Asked For and What It Got
 
-Civil society groups have set out clear demands. Amnesty is calling for an end to new fossil fuel expansion, a funded and working Just Transition Mechanism, which it says was established at COP30 in Belém, Brazil, and far more grant based climate finance for poorer countries so they do not sink deeper into debt. Environmental groups have also questioned the host country's own record, with NGOs criticising the proposed expansion of a coal fired power plant in Turkey.
+India went to Antalya with a clear list. In its opening statement, Environment Secretary Narendra Bhooshan said public finance from developed countries is central to climate action in developing nations, <a href="https://newsonair.gov.in/india-reaffirms-commitment-to-climate-multilateralism-and-fair-ambitious-outcome-at-unfccc-cop31-in-antalya/" target="_blank" rel="noopener">according to All India Radio</a>. In the national statement on November 18, Yadav said "equitable access to the remaining carbon budget is non-negotiable".
 
-## India's Priorities in Antalya
+| India's position | Outcome at COP31 |
+|---|---|
+| A standalone climate finance work programme on Article 9.1 (developed countries providing finance) | Added to the agenda on day one over EU objections; it now runs until 2028 |
+| More adaptation finance; India regretted that a separate agenda item on tripling it was dropped | No tripling figure in any final text |
+| Just transition guided by the right to development | The new mechanism's details were pushed to COP32 |
+| Equity and differentiated responsibilities in the cover text | Cover text not adopted; India said its equity concerns were not reflected |
+| No prescriptive guidance on national climate plans (LMDC position) | The NDC outcome was procedural; stronger draft language was removed |
 
-India's delegation will be led by Environment Minister Bhupender Yadav, along with Environment Secretary Narendra Bhooshan and senior officials, ThePrint reported. Officials told the publication that Prime Minister Narendra Modi is unlikely to attend.
+The finance work programme is the main item on India's list that came out of Antalya intact. The questions about how much money flows, and from when, are still open.
 
-Yadav said India would represent the concerns of the Global South and would "be the part of the solution and never the problem." India will work with the G77 and China, the Like Minded Developing Countries group and the BASIC group.
+## The Adaptation Money That Did Not Make It
 
-According to ThePrint, India's main positions include:
+The first draft cover text, released on November 16, said tripled adaptation finance should reach at least $120 billion a year by 2035, as we covered in <a href="/cop31-draft-deal-adaptation-finance-120-billion/">our report on the first COP31 draft</a>. That figure disappeared from the final texts.
 
-- **Fairness in duties:** full respect for the principle of Common but Differentiated Responsibilities, which says richer nations that polluted earlier should do more.
-- **Adaptation:** keeping indicators under the Global Goal on Adaptation voluntary and not linked to access to finance, while seeking a big increase in adaptation funding.
-- **Technology:** treating technology transfer as an obligation of developed countries and tackling high costs, patent barriers and trade restrictions.
-- **Carbon markets:** keeping participation voluntary and keeping the host's voluntary action initiatives separate from formal negotiations.
-- **Just transition:** a party driven process guided by climate justice, the right to development and affordable energy access.
+The fight was over the starting point. Developing countries wanted a 2025 baseline of about $40 billion, which tripled gives $120 billion. France reportedly proposed a 2019 baseline, which would give about $60 billion. The UN Environment Programme estimates developing countries need about $305 billion a year for adaptation by 2035, while international public adaptation finance in 2024 was between $28.2 billion and $31.7 billion, Down To Earth reported.
 
-## Why the Outcome Matters for Indian Households
+India told the conference that public finance from developed countries is central to strengthening adaptation finance flows. Without a fixed number, there is no agreed adaptation target to hold richer countries to before COP32. The wider finance goal agreed at COP29 in Baku still stands: developed countries are to lead in mobilising at least $300 billion a year by 2035, within a broader aim of $1.3 trillion a year from all sources.
 
-For India, these talks are not abstract. The country faces intense heat waves, erratic monsoons and severe air pollution, the last of which is again visible in north India this week, as covered in our report on <a href="/delhi-aqi-severe-diwali-health-tips/">Delhi's air quality before Diwali</a>. How much adaptation money flows to developing countries, and on what terms, will shape funding for flood defences, heat action plans and climate resilient farming. Rules on carbon markets and technology costs will also affect how quickly Indian industry can switch to cleaner power at a price people can afford.
+## What Passed: Adaptation Indicators and Carbon Market Rules
 
-## What to Watch Over the Next Two Weeks
+- **Global Goal on Adaptation:** countries set up an indicator taskforce with six experts from each UN regional group, plus three each from the least developed countries and small island states.
+- **Adaptation Fund:** it can now receive a share of proceeds from the Article 6.4 carbon market, and developing countries keep a majority on its board.
+- **Article 6.4 (UN carbon market):** a proposed "cumulative impact" test on standards was dropped, and a review begins in 2028.
 
-The first days in Antalya will be spent on technical negotiations before world leaders arrive for their summit on November 11 and 12. Key signals to watch include whether countries agree on steps to move away from fossil fuels, whether a clear finance package for adaptation emerges, and how the joint Turkey and Australia leadership handles disagreements between rich and developing nations. Official updates will be posted on the <a href="https://unfccc.int/" target="_blank" rel="noopener">UNFCCC website</a> throughout the conference, and we will follow major outcomes as they are announced.
+Trade did not survive. The first draft had asked developed countries to phase out unilateral climate-related trade measures by the end of 2027. That paragraph was cut from the second draft, and no reference to trade measures made it into any final decision.
+
+## How the Turkey and Australia Arrangement Played Out
+
+COP31 was the first summit run under a split presidency. Under a deal struck at COP30 in Belém, Turkey hosted the meeting and Environment Minister Murat Kurum served as COP President, while Australia's climate minister Chris Bowen took the role of President of Negotiations with, in the words of the <a href="https://www.foreignminister.gov.au/minister/penny-wong/media-release/cop-be-hosted-turkiye-australia-leading-negotiations" target="_blank" rel="noopener">joint statement announcing the deal</a>, "exclusive authority in relation to the negotiations". A pre-COP was held in Nadi, Fiji, from October 5 to 8, alongside a leaders' gathering in Tuvalu, according to the <a href="https://www.unfccc.int/cop31/the-road-to-antalya" target="_blank" rel="noopener">UNFCCC</a>.
+
+A 126-country coalition including the EU, small island states and least developed countries pushed for changes to the cover text, such as a link to the first global stocktake, but the final version changed little.
+
+## What Comes Next Before COP32 in Ethiopia
+
+Much of the unfinished work now moves to the Bonn intersessional talks in 2027 and then to COP32 in Ethiopia in November 2027. That includes the just transition mechanism, the mitigation work programme and the review of the long-term global goal. The second global stocktake, launched in Antalya, runs until 2028.
+
+Yadav said India remains committed to consensus-based multilateralism on the road to COP32. For India, the open questions are the adaptation finance baseline, how the just transition mechanism will work and whether trade measures return to the formal agenda.

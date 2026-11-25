@@ -3,6 +3,7 @@ title: "NASA Swift Observatory Reenters Over Indonesia After 22 Years in Orbit"
 slug: "nasa-swift-observatory-reenters-over-indonesia"
 description: "NASA's Swift observatory fell to Earth over North Sumatra on November 4 after 22 years studying gamma-ray bursts. Why it came down and what it achieved."
 date: 2026-11-08T06:52:00+05:30
+updated: 2026-11-25T21:30:00+05:30
 category: "Science"
 tags: ["nasa", "swift observatory", "gamma-ray bursts", "satellite reentry", "hubble", "space"]
 keywords: "NASA Swift reentry, Swift observatory Indonesia, Swift gamma-ray burst telescope, satellite reentry November 2026"
@@ -10,62 +11,78 @@ image: "/images/posts/nasa-swift-observatory-reenters-over-indonesia.webp"
 imageAlt: "Graphic on NASA's Swift observatory reentering Earth's atmosphere over Indonesia"
 author: "Editorial Staff"
 sources:
-  - name: "Spaceflight Now: NASA's Neil Gehrels Swift Observatory reenters over Western Indonesia"
-    url: "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
-  - name: "AP via News4JAX: NASA space telescope plunges to Earth after two decades studying cosmic explosions"
-    url: "https://www.news4jax.com/business/2026/11/04/nasa-space-telescope-plunges-to-earth-after-two-decades-studying-cosmic-explosions/"
+  - name: "NASA Science: NASA's Swift Observatory Re-Entered Atmosphere"
+    url: "https://science.nasa.gov/blogs/swift/2026/11/02/NASAs-swift-observatory-to-re-enter-atmosphere/"
+  - name: "NASA Science: NASA's Swift Mission Ends Ahead of Re-Entry"
+    url: "https://science.nasa.gov/blogs/swift/2026/10/23/nasas-swift-mission-ends-ahead-of-re-entry/"
+  - name: "NASA Science: NASA's Swift Mission Ends"
+    url: "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+  - name: "Space.com: NASA's Swift space telescope crashes back to Earth after failed rescue attempt"
+    url: "https://space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth"
+  - name: "Live Science: Swift has fallen, NASA's 22-year-old space telescope burns up over Sumatra"
+    url: "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra"
+  - name: "AP via WSOC-TV: NASA space telescope plunges to Earth after two decades studying cosmic explosions"
+    url: "https://www.wsoctv.com/news/business/nasa-space-telescope/TKY2RZD6DY77JBP3SCLJGC6OGA/"
+  - name: "NASA Science: NASA Explores Potential Commercial Servicing for Hubble Telescope"
+    url: "https://science.nasa.gov/news/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+  - name: "NASA: NASA Missions Study What May Be a 1-in-10,000-Year Gamma-ray Burst"
+    url: "https://www.nasa.gov/universe/NASA-missions-study-what-may-be-a-1-in-10000-year-gamma-ray-burst/"
+  - name: "NASA Imagine the Universe: New Gamma-Ray Burst Smashes Cosmic Distance Record"
+    url: "https://imagine.gsfc.nasa.gov/news/4may09.html"
 ---
 
-NASA's Neil Gehrels Swift Observatory, a space telescope that spent 22 years chasing the most powerful explosions in the universe, has fallen back to Earth. The roughly 1.5-tonne spacecraft reentered the atmosphere on Wednesday, November 4, at 12:39 UTC (6:09 pm IST) over North Sumatra in western Indonesia, according to US Space Force tracking data later confirmed by NASA. Its end came after rising solar activity dragged it down faster than expected and a commercial rescue attempt failed.
+NASA's Neil Gehrels Swift Observatory, the space telescope that spent nearly 22 years chasing the most powerful explosions in the universe, fell back to Earth on Wednesday, November 4. The US Space Force confirmed that it reentered at 7:39 am EST (12:39 UTC, or 6:09 pm IST) over the North Sumatra region of Indonesia, at about 3.4 degrees north and 98.6 degrees east. The spacecraft weighed about 1,450 kg. Rising solar activity had pulled it down faster than planned, and a commercial rescue attempt earlier in the year failed.
 
-## Where and When Swift Came Down
-
-Spaceflight Now reported that Swift reentered near 3 degrees north latitude and 99 degrees east longitude. The US Space Force had forecast a two-hour window, from 6:42 am to 8:42 am US Eastern time, and the actual reentry at 7:39 am EST fell close to the middle of it.
-
-NASA said some components "may have survived re-entry." It is not yet clear how much of the spacecraft burned up, the Associated Press reported, but NASA had expected some of the denser parts to reach the surface. The agency estimated the risk to any person on the ground from surviving fragments at about 1 in 2,100.
-
-## Why Swift's Orbit Decayed So Quickly
-
-Swift had no engine of its own, so it could never raise its orbit once it began to sink. Over the past few years, intense activity on the Sun heated and expanded Earth's upper atmosphere. That increased the drag on satellites in low Earth orbit and pulled Swift down sooner than NASA had planned for.
-
-The telescope made its final science observation on October 20, from an altitude of about 275 km.
-
-## The Rescue Mission That Did Not Work
-
-NASA tried to save Swift with help from the private sector. It paid Katalyst Space 30 million dollars for a robotic tug called LINK, which was meant to grab the observatory and push it into a higher orbit.
-
-- The tug launched on July 3, 2026.
-- Weeks later, it lost control of its orientation in space.
-- NASA cancelled the planned capture on August 19.
-- The AP reported that the three-armed craft crashed in September, less than three months before Swift itself reentered.
-
-## What Swift Achieved in Two Decades
-
-Swift launched on November 20, 2004, from Cape Canaveral on a Delta 2 rocket. It was designed for a two-year mission but kept working for about 11 times longer than planned. Its main job was to catch gamma-ray bursts, brief flashes of extreme energy produced when massive stars collapse or dense objects collide.
-
-| Swift mission fact | Detail |
+| Reentry fact | Detail |
 |---|---|
-| Launch date | November 20, 2004 |
-| Planned mission length | 2 years |
-| Gamma-ray bursts observed | More than 2,000 |
-| Supernovae studied | More than 1,400 |
-| Time to swing towards a new burst | About 1 minute |
-| Scientific papers using its data | About 7,000 |
-| Final observation | October 20, 2026 |
-| Reentry | November 4, 2026 |
+| Date and time | November 4, 2026, 7:39 am EST / 6:09 pm IST |
+| Location | North Sumatra, Indonesia (about 3.4° N, 98.6° E) |
+| Mass | About 1,450 kg (3,200 lb) |
+| NASA risk estimate | 1 in 2,100 chance of surviving debris harming anyone |
+| Final science observation | October 20, 2026, at about 275 km altitude |
 
-The speed of Swift was its biggest strength. It could turn its telescopes towards a new burst within about a minute and send alerts to observatories around the world, so that other instruments could study the event before it faded. You can read more about the mission on <a href="https://science.nasa.gov/" target="_blank" rel="noopener">NASA Science</a>.
+## What Survived the Fall Over Sumatra
 
-## Lessons for Hubble and Other Ageing Telescopes
+NASA expected most of the spacecraft to burn up, but said some components may have survived. It has not said which parts, or how many. The Associated Press reported that it was not yet clear how much of Swift burned up, and that NASA had expected some of the denser pieces to reach the ground. Live Science reported no damage or injuries. Videos on social media appear to show the fiery reentry, Space.com noted, though they have not been independently verified.
 
-Swift's loss has turned attention to the Hubble Space Telescope, which launched in 1990 and is expected to reenter by the mid-2030s based on recent analyses. NASA is now asking private companies for ideas to boost Hubble's orbit, upgrade its systems, guide it to a controlled reentry, or some mix of these. Any such mission would need to launch by 2032.
+Swift's fall is part of a much larger pattern. Space.com cited a 2025 report that found at least three large objects, such as dead satellites or spent rocket stages, fall back to Earth every day on average, and that number is expected to rise as satellite megaconstellations grow. India has its own stake in cleaning up orbit, as we covered in our report on <a href="/cosmoserve-base-1-space-debris-hyderabad/">Cosmoserve Base 1, a private space debris facility in Hyderabad</a>.
 
-NASA science chief Nicky Fox said the agency has more time to plan for Hubble than it had for Swift's rushed rescue. NASA Administrator Jared Isaacman said in a statement that "Hubble still has important science ahead of it." Updates on these plans are posted on <a href="https://www.nasa.gov/" target="_blank" rel="noopener">NASA's official website</a>.
+## How the Sun Dragged Swift Down
 
-## Why Space Debris and Reentries Matter for Everyone
+Swift had no thrusters, so it could never raise its own orbit. As the Sun grew more active over the past few years, the extra energy heated and puffed up Earth's upper atmosphere, which increased drag on satellites in low orbit.
 
-Swift's uncontrolled fall is a reminder that more and more objects are coming back from low Earth orbit, especially during periods of high solar activity. The chance of anyone being hurt is small, but space agencies and private firms are investing in ways to move, service or safely dispose of satellites. India is part of this effort too, as covered in our report on <a href="/cosmoserve-base-1-space-debris-hyderabad/">Cosmoserve Base 1, India's private space debris removal facility</a>. Sky watchers can also check our guide to the <a href="/november-2026-night-sky-supermoon-leonids/">November 2026 night sky</a>.
+NASA paused science work for a while to reduce drag, then resumed in late August. Swift went on to observe hundreds more targets, including the remains of exploded stars, active black holes in distant galaxies and comets. But each new observation added drag, and the observatory sank quickly again. On October 20 it reached 275 km (171 miles), could no longer cope, and went into safe mode. The operations team at Penn State then sent the command that ended the mission.
 
-## A Long Life for a Two-Year Mission
+## The $30 Million Rescue That Fell Short
 
-Swift outlived its planned lifetime many times over, helped produce thousands of research papers and changed how astronomers respond to sudden cosmic events. Its fiery end over Indonesia closes a mission that ran far beyond its design life, while the race to keep Hubble working is only beginning.
+In September 2025, NASA gave Arizona-based Katalyst Space a $30 million contract to push Swift into a higher orbit. Katalyst's LINK servicing spacecraft launched on July 3, 2026, aiming for an August capture.
+
+- LINK suffered propulsion and reaction wheel problems that stopped the meetup.
+- The servicing attempt ended in August without trying to boost Swift.
+- LINK itself crashed back to Earth on September 25, about six weeks before Swift.
+
+NASA astrophysics director Shawn Domagal-Goldman called the effort "high-risk, high-reward" and said it still moved US satellite servicing technology forward.
+
+## Gamma-Ray Bursts and Swift's Best-Known Finds
+
+Gamma-ray bursts are the brightest explosions known. Long bursts are thought to happen when a massive star runs out of fuel, collapses and forms a black hole that fires out jets of energy. Short bursts, lasting a fraction of a second, are thought to come from merging neutron stars.
+
+That is where Swift earned its reputation. It usually needed about one minute to swing its X-ray and ultraviolet/optical telescopes onto a new burst, and it sent alerts so that observatories around the world could follow up. Designed for a two-year primary mission after its launch on November 20, 2004, it worked for more than ten times as long. According to <a href="https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/" target="_blank" rel="noopener">NASA's end-of-mission review</a>, Swift observed more than 2,000 gamma-ray bursts, studied more than 1,400 supernovae and contributed data to about 7,000 published papers.
+
+| Event | When | Why it mattered |
+|---|---|---|
+| GRB 050509B | May 2005 | First afterglow seen from a short burst (it lasted 0.03 seconds), supporting the idea that short bursts come from neutron star mergers |
+| GRB 090423 | April 23, 2009 | The most distant cosmic explosion seen at the time, about 13.035 billion light-years away, from when the universe was about 630 million years old |
+| GRB 221009A, the "BOAT" | October 9, 2022 | Estimated at 70 times brighter than any burst seen before; Swift's X-ray Telescope found rings of X-ray "light echoes" bouncing off dust clouds in our galaxy |
+
+The BOAT, short for "brightest of all time", was so intense that it blinded most gamma-ray instruments in space. As <a href="https://www.nasa.gov/universe/NASA-missions-study-what-may-be-a-1-in-10000-year-gamma-ray-burst/" target="_blank" rel="noopener">NASA explained in 2023</a>, one analysis estimated that a burst this bright happens about once every 10,000 years. Beyond bursts, Swift watched stars being torn apart by black holes, ran an all-sky X-ray survey and studied asteroids and comets. Its archive holds nearly 22 years of data, including more than 1.5 million ultraviolet and optical images, about 12 terabytes in all.
+
+## Hubble Faces the Same Drag Problem
+
+Hubble, launched in 1990, also has no propulsion system, and NASA's analysis says it will likely reenter in 2033 or 2034. On October 29, NASA issued a request for information asking companies how they could boost Hubble to a higher orbit, service it to improve its abilities, or carry out a safe, controlled reentry at the end of its life. A mission would need to fly by 2032.
+
+Responses are due by 3 pm EST on Monday, November 30, which is 1:30 am IST on December 1. NASA Administrator Jared Isaacman said "Hubble still has important science ahead of it." Science chief Nicky Fox told the AP that NASA has more time to weigh Hubble options than it had for the rushed Swift effort. The full notice is on <a href="https://science.nasa.gov/news/nasa-explores-potential-commercial-servicing-for-hubble-telescope/" target="_blank" rel="noopener">NASA's Hubble servicing page</a>.
+
+## What Swift Leaves Behind
+
+Swift was built to study one kind of explosion for two years. It ended up serving as an early warning system for much of astronomy for over two decades, and its data will keep feeding research long after the spacecraft burned up over Sumatra. For more on what to see in the sky this month, read our <a href="/november-2026-night-sky-supermoon-leonids/">November 2026 night sky guide</a>.

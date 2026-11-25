@@ -1,80 +1,96 @@
 ---
-title: "Herzog Taps Eisenkot to Form Israel Government, Sidelining Netanyahu"
+title: "Eisenkot Coalition Bid: Talks, Seat Math and Israel's Dec 6 Deadline"
 slug: "herzog-taps-eisenkot-form-israel-government"
-description: "Israel's President Herzog picked Gadi Eisenkot to form the next government after 67 MKs backed him against 46 for Netanyahu. Here is what happens next."
+description: "Gadi Eisenkot has until December 6 to form Israel's next government. Latest on talks with Likud and UTJ, the seat arithmetic and every Basic Law deadline."
 date: 2026-11-08T06:40:00+05:30
+updated: 2026-11-25T21:30:00+05:30
 category: "World"
 tags: ["israel", "gadi eisenkot", "benjamin netanyahu", "isaac herzog", "knesset", "israel election 2026"]
-keywords: "Eisenkot form government, Herzog mandate Eisenkot, Israel coalition talks, Netanyahu Eisenkot, Israel election 2026"
+keywords: "Eisenkot form government, Eisenkot coalition talks, Israel coalition deadline, Netanyahu Eisenkot unity talks, Israel election 2026"
 image: "/images/posts/herzog-taps-eisenkot-form-israel-government.webp"
 imageAlt: "Graphic on President Herzog asking Gadi Eisenkot to form Israel's next government"
 author: "Editorial Staff"
 sources:
   - name: "The Times of Israel: President Herzog taps Eisenkot to form coalition, but path remains fraught"
     url: "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
-  - name: "The Jerusalem Post: Eisenkot set to receive mandate to form Israeli government"
-    url: "https://www.jpost.com/israel-election-2026/article-913989"
-  - name: "JNS: Herzog: 67 MKs recommend Eisenkot, 46 Netanyahu; mandate to be assigned Sunday"
-    url: "https://www.jns.org/news/israel-news/herzog-67-mks-recommend-eisenkot-46-netanyahu-mandate-to-be-assigned-sunday"
-  - name: "Morning Star: World in brief, November 7, 2026"
-    url: "https://morningstaronline.co.uk/article/world-brief-november-7-2026"
+  - name: "Al Jazeera: Will Eisenkot be able to form Israel's next government amid divided opposition?"
+    url: "https://aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition"
+  - name: "The Times of Israel: Eisenkot said prioritizing efforts to form coalition with ultra-Orthodox"
+    url: "https://timesofisrael.com/eisenkot-said-prioritizing-efforts-to-form-coalition-with-ultra-orthodox/"
+  - name: "The Jerusalem Post: Coalition talks at a crossroads as Eisenkot, Netanyahu battle for haredi parties"
+    url: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914903"
+  - name: "Al Jazeera: Can Netanyahu and Eisenkot form a unity government in Israel?"
+    url: "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel"
+  - name: "Al Jazeera: Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker"
+    url: "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
+  - name: "The Jerusalem Post: Herzog meets new Knesset speaker as Eisenkot bloc strengthens parliamentary control"
+    url: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915436"
+  - name: "The Times of Israel: Eisenkot: I'll form emergency government if efforts to establish broad coalition fail"
+    url: "https://www.timesofisrael.com/eisenkot-ill-form-emergency-government-if-efforts-to-establish-broad-coalition-fail/"
+  - name: "The Times of Israel: Shekel is world's 3rd worst performer as investors fret over Israel's political paralysis"
+    url: "https://www.timesofisrael.com/shekel-is-worlds-3rd-worst-performer-as-investors-fret-over-israels-political-paralysis/"
+  - name: "The Times of Israel: Yashar, Likud remain split on key issues after latest unity talks"
+    url: "https://www.timesofisrael.com/yashar-likud-remain-split-on-key-issues-after-latest-unity-talks-address-the-judicial-issue/"
+  - name: "The Times of Israel: UTJ to seek rabbis' okay to formally open coalition talks with Eisenkot bloc"
+    url: "https://www.timesofisrael.com/utj-to-seek-rabbis-okay-to-formally-open-coalition-talks-with-eisenkot-bloc/"
+  - name: "Knesset: Basic Law: The Government (English text)"
+    url: "https://main.knesset.gov.il/EN/activity/Documents/BasicLawsPDF/BasicLawTheGovernment.pdf"
 ---
 
-Israeli President Isaac Herzog announced on Saturday evening, November 7, that he will ask former army chief Gadi Eisenkot to form the country's next government. The decision follows consultations with every party elected to the new Knesset, in which 67 lawmakers recommended Eisenkot for prime minister and 46 backed incumbent Benjamin Netanyahu. Eisenkot is due to formally receive the mandate on Sunday at 5 pm local time at the President's Residence in Jerusalem, but building a working majority will be far harder than winning recommendations.
+Israeli President Isaac Herzog announced on Saturday, November 7, that former army chief Gadi Eisenkot would get the first chance to form Israel's next government, and handed him the mandate on Sunday, November 8. In consultations, 67 lawmakers recommended Eisenkot and 46 recommended caretaker Prime Minister Benjamin Netanyahu, while United Torah Judaism (UTJ) recommended no one. Eisenkot's deadline is **December 6**, which Herzog can push to **December 20** at most. Recommendations are not seats, and a 61-seat majority has proved hard to find.
 
-## How the October 27 Election Left No Clear Winner
+## Update (25 November 2026)
 
-Israelis voted for the 26th Knesset on October 27, 2026. According to The Jerusalem Post, no bloc reached the 61 seats needed for a majority in the 120-member parliament. Netanyahu's bloc won 53 seats, while the opposition "change bloc" led by Eisenkot won 48. The Arab-led parties, Ra'am and the Joint List, together took a record 19 seats.
+Seventeen days into the mandate there is no coalition deal, and 11 days remain before December 6. What has happened since November 8:
 
-The Central Elections Committee ratified the results and said the integrity of the vote was not harmed. That statement came despite a Shin Bet investigation into alleged foreign funding aimed at influencing Arab voters, as well as claims from a right-wing group that around 200,000 votes were tainted. Netanyahu described reports about the election as an "earthquake for Israeli democracy," JNS reported.
+- **November 10:** The new Knesset was sworn in. Netanyahu stays on as caretaker prime minister.
+- **November 15, 22 and 23:** Netanyahu's Likud and Eisenkot's Yashar held three rounds of unity talks. None produced significant progress, according to <a href="https://www.timesofisrael.com/yashar-likud-remain-split-on-key-issues-after-latest-unity-talks-address-the-judicial-issue/" target="_blank" rel="noopener">The Times of Israel</a>. The gaps are over who would be prime minister first, repeal of the outgoing government's judicial overhaul, which Yashar wants, and universal military service. Likud MK Miki Zohar called the talks a "sham".
+- **November 17:** Yashar's Matan Kahana defeated Likud's Ofir Katz 66 to 52 to become Knesset speaker. Eisenkot's bloc and the Arab-led parties supplied the votes, with one Arab lawmaker absent. The ultra-Orthodox parties did not back Kahana.
+- **November 20:** Eisenkot said that if a broad coalition fails, he will put "a national emergency government" to a Knesset vote before December 6, even if it relies on Arab parties' support or abstention. Yisrael Beytenu leader Avigdor Liberman has pledged to vote against such a government. B'Yachad leader Naftali Bennett reportedly told Eisenkot he would not support one at this stage.
+- **November 24:** UTJ lawmakers said they would seek their rabbis' approval before formally opening coalition talks with Eisenkot's bloc. The rabbis had rejected his earlier offer to cap yeshiva exemptions at 3% of each annual cohort, and they want no quotas at all. UTJ chair Yaakov Asher said no decisions had been made. Israeli TV reported the bloc is also weighing a short-lived minority government of five or six senior ministers, which would dissolve the Knesset for a new election if no one else joins.
+- **Shas**, as of mid-November, publicly backed Netanyahu and said it was not negotiating with the rival bloc.
 
-## Who Recommended Whom to the President
+The deadlock has hit the currency. The shekel has fallen more than 8% against the US dollar since the eve of the October 27 vote, making it the third worst performer among 31 widely traded currencies.
 
-Under Israeli law, the president consults each party and then chooses the lawmaker seen as most likely to form a government. The recommendations broke down as follows, based on reporting by The Jerusalem Post:
+## The 61-Seat Arithmetic
 
-| Candidate | Parties recommending | Total MKs |
+No bloc won a majority in the 120-member Knesset on October 27. Netanyahu's former coalition fell to 53 seats, down from 64 in 2022. Eisenkot's four Jewish-led parties (Yashar, B'Yachad, the Democrats and Yisrael Beytenu) hold 48, and the Arab-led Ra'am (8) and Joint List (11) took a record 19. Each route reported so far runs into a veto:
+
+| Combination | Seats | What blocks it |
 |---|---|---|
-| Gadi Eisenkot (Yashar) | Yashar, B'Yachad, Democrats, Yisrael Beytenu, plus Ra'am and the Joint List | 67 |
-| Benjamin Netanyahu (Likud) | Likud, Otzma Yehudit, Religious Zionist Party, Zehut, Shas | 46 |
-| No recommendation | United Torah Judaism | 7 |
+| Eisenkot's bloc alone | 48 | Far short of 61; would need others to abstain |
+| Bloc + UTJ (7) | 55 | Still 6 short; UTJ wants a draft exemption with no quotas |
+| Bloc + UTJ + Shas (6) | 61 | Shas says it is not negotiating with the bloc |
+| Bloc + Ra'am, Joint List abstaining | 56 vs 53 | Liberman and Bennett reject relying on Arab parties |
+| Bloc + both Arab-led parties | 67 | Eisenkot has ruled out bringing Arab parties into government |
+| Yashar + Likud unity deal | Majority | Both leaders claim the premiership; Eisenkot refuses to serve under Netanyahu |
 
-The Arab parties recommended Eisenkot without committing to join his coalition. Herzog himself cautioned that the tally does not settle who can actually govern, pointing to what he called "mutual vetoes" between and within the blocs.
+The 56 to 53 case assumes the Joint List abstains or stays away; experts told Al Jazeera it depends on how all three groups vote.
 
-## The 61-Seat Puzzle Facing Eisenkot
+## The Haredi Draft Dispute Behind the Talks
 
-Eisenkot's own bloc holds 48 seats. Hawkish members of that bloc have publicly rejected relying on Ra'am and the Joint List, which removes the simplest route to a majority. Eisenkot has also said he will not partner with Netanyahu, and that anyone who held a major position of power on October 7, 2023 should leave public life.
+Military service for ultra-Orthodox (Haredi) men is UTJ's central issue. Its earlier demands, reported by <a href="https://www.jpost.com/israel-news/politics-and-diplomacy/article-914903" target="_blank" rel="noopener">The Jerusalem Post</a>, included deferred service for full-time yeshiva students, a personal commitment from all 48 bloc lawmakers to pass an exemption law, an override clause if the High Court strikes it down, and an immediate halt to arrests of draft evaders.
 
-He has set four conditions for coalition partners, according to The Times of Israel:
+The framework now reported would drop enlistment quotas, add biometric checks against fake yeshiva enrolment and expand army tracks for Haredi men. The sticking point is timing. UTJ wants a Knesset law halting arrests before any government is sworn in, while Eisenkot prefers a cabinet decision after it forms. Courts complicate both options: in June 2024 the High Court ruled that the state must begin drafting eligible Haredi men, and in September it annulled a July law that had paused arrests for seven months.
 
-- Recognising Hamas as a terrorist organisation and committing to destroy its military and governing power
-- Recognising Israel as a Jewish and democratic state
-- Accepting the values of the Declaration of Independence
-- Mandatory service for all citizens
+This sits awkwardly with Eisenkot's four coalition conditions: recognising Hamas as a terrorist organisation, recognising Israel as a Jewish and democratic state, accepting the values of the Declaration of Independence, and mandatory service for all. Liberman has said he will accept "painful compromises" on enlistment, while Democrats leader Yair Golan has said the Haredim will not get a blank check.
 
-The most discussed path runs through the ultra-Orthodox parties. United Torah Judaism has 7 seats and Shas has 6. On Friday, Yisrael Beytenu leader Avigdor Liberman said he was ready to accept "painful compromises" on Haredi military enlistment to form a government without Netanyahu or the Arab parties. If UTJ joined and Shas chose not to oppose, the arithmetic would reach a razor-thin 61.
+## Every Deadline From Here, With Dates
 
-That route has its own problems. Liberman, Yashar, B'Yachad and the Democrats all campaigned on ending broad military exemptions for Haredi men. Democrats leader Yair Golan said he is open to working with the Haredi parties but will not give them "a blank check." Shas, for its part, called reports that it could join an Eisenkot government "total fake news," while leaving open the option of not joining the opposition either.
+The steps come from <a href="https://main.knesset.gov.il/EN/activity/Documents/BasicLawsPDF/BasicLawTheGovernment.pdf" target="_blank" rel="noopener">Basic Law: The Government</a>. We counted from November 8, assuming each step runs its full length.
 
-## Netanyahu Calls for a National Unity Government
+| Step (Basic Law article) | Rule | Calendar date |
+|---|---|---|
+| Mandate given (Art. 7) | First candidate chosen after consultations | 8 Nov 2026 |
+| First deadline (Art. 8) | 28 days | 6 Dec 2026 |
+| Maximum extension (Art. 8) | Up to 14 more days | 20 Dec 2026 |
+| President decides (Art. 9) | 3 days to pick another MK or tell the speaker no government is possible | By 9 Dec, or 23 Dec if extended |
+| Second candidate (Art. 9) | 28 days | Up to 6 Jan 2027, or 20 Jan 2027 |
+| Majority petition (Art. 10) | 61 MKs have 21 days to name a candidate in writing; president acts in 2 days; that MK gets 14 days | Up to 12 Feb 2027, or 26 Feb 2027 |
+| Dissolution (Art. 11) | Knesset deemed dissolved; election on the last Tuesday within 90 days | Within about 90 days of the final failure |
 
-In a pre-recorded video on Saturday, Netanyahu called for a "national unity government" that would include all the partners from his previous coalition, including Religious Zionism, Otzma Yehudit and the ultra-Orthodox parties. He described a government that relies on Arab parties as dangerous. The Times of Israel noted that his wording has shifted since polling day, when he spoke of a "strong, national, right-wing coalition."
+The president can skip a second candidate and inform the speaker at once, and a candidate can present a government before the deadline, as Eisenkot says he will.
 
-Eisenkot's Yashar party called the video "hysterical" and accused Netanyahu of dividing Israeli society. Yashar has said Likud could join an Eisenkot-led government, but did not extend that offer to Netanyahu himself. Eisenkot wrote on X that "now is the time" for a national emergency government.
+## What to Watch Before December 6
 
-## Deadlines Under Israel's Basic Law
-
-The rules for forming a government are set out in Israel's Basic Law: The Government, and the <a href="https://main.knesset.gov.il/en" target="_blank" rel="noopener">Knesset</a> is expected to be sworn in on November 10 regardless of how talks progress. The timeline, as summarised by The Jerusalem Post, works like this:
-
-1. Eisenkot gets 28 days to form a government, which Herzog can extend by up to 14 days.
-2. If he fails, the president has 3 days to pick another lawmaker or tell the Knesset speaker that no government is possible. Reports suggest Netanyahu could be next in line.
-3. A second candidate gets 28 days with no extension.
-4. After that, 61 lawmakers can jointly ask for a specific member, who would get 14 days.
-5. If every attempt fails, the Knesset dissolves and Israel heads to another election, with the outgoing government staying on as caretaker.
-
-## Why the Outcome Matters Beyond Israel
-
-A government led by Eisenkot would push Netanyahu and his allies into opposition, and the coalition conditions Eisenkot has set put the war against Hamas and military service at the centre of the talks. Whoever governs will make decisions that matter for stability across West Asia, a region that many countries, including India, follow closely. Official updates on the process are published by the <a href="https://www.gov.il/en" target="_blank" rel="noopener">Government of Israel</a>. For other recent political upheavals abroad, see our report on how <a href="/paraguay-president-pena-removed-ueno-bank/">Paraguay's Senate removed President Pena</a>.
-
-## What to Watch in the Coming Weeks
-
-The key signals will be whether United Torah Judaism accepts a formal offer, whether Liberman's partners agree to soften their stance on Haredi enlistment, and whether any Likud members break with Netanyahu. With 28 days on the clock from Sunday, Eisenkot has a clear mandate on paper but a narrow and uncertain path to a working majority.
+Three questions stand out for the next 11 days: whether UTJ's rabbis approve formal talks and the arrest dispute is settled, whether Liberman and Bennett would vote against or abstain on a minority government, and whether Herzog grants an extension. Eisenkot and Netanyahu have also clashed publicly over whether Iran is an immediate security threat. For background on that front, see our report on <a href="/trump-iran-war-effectively-over-qatar-talks/">Trump's comments on the Iran war</a>.

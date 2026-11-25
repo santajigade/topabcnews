@@ -1,8 +1,9 @@
 ---
-title: "E20 Petrol Row: Karnataka Finds 31% Ethanol, Oil Companies Disagree"
+title: "E20 Petrol Row: Karnataka Finds 31% Ethanol, Centre Says Samples Pass"
 slug: "karnataka-ethanol-petrol-tests-e20-row"
-description: "Karnataka says petrol samples had up to 31.2% ethanol, above the E20 limit. IOCL, BPCL and HPCL reject the findings, citing flawed sampling procedures."
+description: "Karnataka says petrol samples had up to 31.2% ethanol, above the E20 limit. The Centre says all 893 samples it tested, 56 in Karnataka, met BIS norms."
 date: 2026-11-07T19:20:00+05:30
+updated: 2026-11-25T21:30:00+05:30
 category: "Automobile"
 tags: ["E20 petrol", "ethanol blending", "Karnataka", "IOCL", "fuel quality"]
 keywords: "E20 petrol Karnataka, ethanol in petrol 31%, IOCL HPCL BPCL ethanol, E20 mileage"
@@ -10,54 +11,93 @@ image: "/images/posts/karnataka-ethanol-petrol-tests-e20-row.webp"
 imageAlt: "E20 petrol ethanol row in Karnataka featured graphic"
 author: "Editorial Staff"
 sources:
-  - name: "ThePrint, OMCs reject Karnataka's claim of excess ethanol in petrol"
-    url: "https://theprint.in/india/omcs-reject-karnatakas-claim-of-excess-ethanol-in-petrol-say-tests-did-not-follow-prescribed-norms/3092883/"
-  - name: "Telangana Today, Rahul questions E20 petrol after Karnataka tests"
-    url: "https://telanganatoday.com/rahul-questions-e20-petrol-after-karnataka-tests-flag-excess-ethanol"
-  - name: "NextIAS headlines summary of The Hindu and Indian Express, November 7, 2026"
-    url: "https://www.nextias.com/ca/headlines-of-the-day/07-11-2026/88145"
+  - name: "Business Standard, Centre counters Karnataka's E20 claims, says samples meet quality standards (7 Nov 2026)"
+    url: "https://www.business-standard.com/india-news/centre-counters-karnataka-s-e20-claims-says-samples-meet-quality-standards-126110700854_1.html"
+  - name: "Business Today, Centre rejects Karnataka's 31% ethanol claim, says all 893 samples passed (7 Nov 2026)"
+    url: "https://www.businesstoday.in/latest/economy/story/e20-petrol-row-centre-rejects-karnatakas-31-ethanol-claim-says-all-893-samples-passed-quality-tests-566319-2026-11-07"
+  - name: "Deccan Chronicle, Karnataka stands by E20 findings, seeks independent fuel testing nationwide (9 Nov 2026)"
+    url: "https://www.deccanchronicle.com/amp/southern-states/karnataka/karnataka-stands-by-e20-findings-seeks-independent-fuel-testing-nationwide-2002962"
+  - name: "The Week, Karnataka challenges oil marketing companies over E20 petrol ethanol blending (9 Nov 2026)"
+    url: "https://www.theweek.in/news/india/2026/11/09/karnataka-challenges-oil-marketing-companies-over-e20-petrol-ethanol-blending.amp.html"
+  - name: "Siasat (PTI), Fuel row escalates as Karnataka stands by E20 excess ethanol findings (9 Nov 2026)"
+    url: "https://www.siasat.com/fuel-row-escalates-as-karnataka-stands-by-e20-excess-ethanol-findings-3572266/"
+  - name: "PIB factsheet, Ethanol Blending in India"
+    url: "https://pib.gov.in/FactsheetDetails.aspx?Id=150699"
+  - name: "Autocar India, Worried about E20 fuel? We answer your questions"
+    url: "https://www.autocarindia.com/auto-features/worried-about-e20-fuel-we-answer-all-your-burning-questions-440826"
+  - name: "Indian Oil, Citizen Charter for retail outlets"
+    url: "https://iocl.com/download/Citizen_Charter_RO.pdf"
 ---
 
-A fresh dispute has broken out over the quality of petrol sold in Karnataka. The state government says lab tests found ethanol levels as high as 31.2% in petrol samples from several districts, well above the 20% blend allowed under India's E20 programme. The three big public sector oil marketing companies (OMCs), Indian Oil, Bharat Petroleum and Hindustan Petroleum, have rejected the claim, saying the tests did not follow the procedure laid down in law. The row has now turned political, and many vehicle owners are asking what is really in their fuel tank.
+Karnataka's consumer affairs department says lab tests found up to 31.2% ethanol in petrol sold in the state, well above the 19% to 21% band allowed for E20 fuel. The Union Petroleum Ministry and the three public sector oil marketing companies (OMCs), Indian Oil (IOCL), Bharat Petroleum (BPCL) and Hindustan Petroleum (HPCL), reject the finding. They say the state did not follow the legal sampling procedure and that their own tests of 893 samples, 56 of them from Karnataka, all came within limits.
 
-## What Karnataka's Tests Claim
+| | Karnataka's tests | Centre and OMC tests |
+|---|---|---|
+| Who tested | NABL accredited, ISO certified third party lab | IOCL, BPCL and HPCL |
+| Samples | Pumps in seven districts, October 2026 exercise | 893 samples in 27 states and UTs, 56 in Karnataka |
+| Ethanol found | 26% to 31% at some outlets; 31.2% (IOCL), 30.5% (HPCL) | All within 19% to 21%; Karnataka average 19.30% |
+| Legal limit (IS 17021) | 19% to 21% | 19% to 21% |
 
-Karnataka's Minister for Food, Civil Supplies, Consumer Affairs and Legal Metrology, Rizwan Arshad, announced the findings at a press conference on November 6, 2026, according to ThePrint and Telangana Today. Samples were collected from fuel stations in seven areas: Bengaluru, Bengaluru Rural, Kolar, Chikkaballapura, Ramanagara, Mangaluru and Tumakuru.
+## Update (25 November 2026)
 
-The results were issued by the Shriram Research Institute in Bengaluru, which Telangana Today describes as an NABL accredited laboratory. The state's release reportedly put ethanol content at 26% to 31% at certain outlets. The highest readings cited were 31.2% in an Indian Oil sample and 30.5% in an HPCL sample. The state has asked for action against the companies.
+On November 9, Karnataka's Food, Civil Supplies and Consumer Affairs Minister Rizwan Arshad said the state stands by its findings, according to Deccan Chronicle and a PTI report. He said OMC labs had not reported ethanol percentages for the first 63 samples the state sent them, and argued that the blend is fixed at the six OMC terminals serving Karnataka, not at the pump.
 
-### Key highlights
+According to PTI, the minister said the state will accept the joint inspection the OMCs proposed and will keep doing periodic random tests through third party labs. Karnataka has also asked every state to run its own checks and wants the Centre to order nationwide testing by accredited third party agencies. We could not find any report of a joint retest result as of 25 November 2026.
 
-- Highest reported ethanol level: 31.2% (IOCL sample), followed by 30.5% (HPCL sample)
-- Permitted range for E20 petrol under BIS standard IS 17021: 19% to 21%
-- Areas sampled: seven, across Bengaluru region, Kolar, Chikkaballapura, Ramanagara, Mangaluru and Tumakuru
-- Testing lab: Shriram Research Institute, Bengaluru
-- OMC response: joint statement on November 6 rejecting the findings
+## What the Centre and Oil Companies Say
 
-## Why Oil Companies Reject the Findings
+The <a href="https://www.business-standard.com/india-news/centre-counters-karnataka-s-e20-claims-says-samples-meet-quality-standards-126110700854_1.html" target="_blank" rel="noopener">Petroleum Ministry's statement of November 7</a>, reported by Business Standard, says IS 17021:2018 (amended in August 2025) allows three test methods: FTIR, water extraction, or gas chromatography. The OMCs say Karnataka's lab certificates do not state which method, dilution or reference material was used, so the 26% to 31% figures cannot be checked independently.
 
-In a joint statement issued on Friday, IOCL, BPCL and HPCL said the claims are "not supported by testing" done under the prescribed statutory and technical procedures, ThePrint reported. They said the E20 petrol they supply across India, including Karnataka, meets IS 17021, the <a href="https://www.bis.gov.in/" target="_blank" rel="noopener">Bureau of Indian Standards</a> specification for ethanol blended petrol.
+They also point to density. Karnataka's samples read 0.742 to 0.749 g/cm³, lower than the 0.752 to 0.760 g/cm³ the OMCs see in their own E20. The companies say a lower density does not fit with a higher ethanol content.
 
-The companies pointed to the rules on how fuel must be sampled. Under the Motor Spirit and High Speed Diesel Control Order of 2005 and the Marketing Discipline Guidelines 2024, six one litre samples are drawn at a pump. Two go to the dealer, two are kept by the oil company or the department, and two are sent to a notified laboratory. Labels must be jointly signed.
+## How Fuel Samples Must Be Taken
 
-According to the OMCs, the samples behind the October 2026 tests were taken without their representatives present. They say they have not received the retained samples, outlet wise details or full lab reports despite asking for them. They also argue the third party lab certificates do not carry enough technical detail to check the ethanol figures independently, so neither the companies nor the dealers could ask for a retest.
+Much of the dispute comes down to procedure. Under the Motor Spirit and High Speed Diesel Control Order, 2005, read with the Marketing Discipline Guidelines 2024, an inspection works like this:
 
-## Political Reaction Grows
+| Step | Rule |
+|---|---|
+| Samples drawn | Six samples of one litre each from the pump |
+| With the dealer | Two samples |
+| Retained by OMC or department | Two samples, kept for any retest |
+| Sent for testing | Two samples to an authorised laboratory |
 
-The issue quickly drew national attention. On November 7, Congress leader Rahul Gandhi posted on X attacking the E20 policy, Telangana Today reported. Citing 14 samples, he said 11 contained more than 20% ethanol and claimed that IOCL, HPCL, BPCL, Nayara and Shell samples all crossed the limit. He also raised concerns about mileage and maintenance costs and the lack of ethanol content labels at fuel stations. The oil companies have not accepted these claims, and the Centre's response had not been reported at the time of writing.
+The OMCs say their representatives were not present during the October exercise and that they have not received the retained samples, outlet wise details or full lab reports. Karnataka says its sampling followed Clause 8(3) of the same 2005 order.
 
-## Why Ethanol Blending Matters
+## What E20 Means for Your Car or Bike
 
-India started blending ethanol into petrol as a pilot in 2001 and expanded it through the National Policy on Biofuels, 2018. The <a href="https://mopng.gov.in/" target="_blank" rel="noopener">Ministry of Petroleum and Natural Gas</a> oversees the programme.
+- **Bought new from April 2023 onwards:** Petrol models made from April 2023 had to be E20 compatible under the government roadmap, Autocar India reports. Check the fuel filler flap, the owner's manual or your dealer.
+- **Older vehicles:** Compatibility varies by model and year. The parts most at risk are rubber and plastic: hoses, seals, O-rings, gaskets and some fuel pipes. ARAI's tests found no significant corrosion in metal parts. Autocar India suggests servicing on schedule and replacing worn parts at an authorised workshop.
+- **Mileage:** The ministry cites studies by IOCL, ARAI and SIAM showing a 1% to 2% drop for vehicles calibrated for E20, and 3% to 6% for some others. In Autocar India's own tests, a 2024 Maruti Dzire lost 3.84% compared with E10, while a 2016 Dzire lost 12.42%.
+- **Insurance and warranty:** The <a href="https://pib.gov.in/FactsheetDetails.aspx?Id=150699" target="_blank" rel="noopener">government's ethanol blending factsheet</a> says insurers and automakers have stated that E20 does not affect insurance or warranty, and SIAM has said warranties will be honoured for vehicles running on fuel that meets the specification.
 
-Figures cited by the OMCs and reported by Telangana Today show the scale. Since the 2014-15 ethanol supply year, blending has saved more than Rs 1.97 lakh crore in foreign exchange, replaced about 316 lakh tonnes of crude oil and paid farmers over Rs 1.66 lakh crore. In the 2025-26 supply year, which ended on October 31, 2026, the three public sector OMCs blended 1,134 crore litres of ethanol against petrol sales of about 5,673 crore litres, which works out to roughly 20%.
+One estimate cited in the row puts the yearly cost to consumers at about Rs 1.01 lakh crore (Rs 62,000 crore from lost mileage and Rs 39,000 crore in repairs). The ministry disputes it.
 
-## What It Means for Car and Bike Owners
+## How to Check Fuel and Complain at the Pump
 
-For most motorists the key question is whether a higher than declared ethanol share could affect their vehicle. Critics of the policy, including Rahul Gandhi, argue that excess ethanol could reduce mileage and raise maintenance costs. However, no official finding has yet confirmed that petrol at Karnataka pumps is actually outside the BIS limit, since the two sides dispute how the samples were collected and tested.
+You cannot measure ethanol share at a pump, but Indian Oil's <a href="https://iocl.com/download/Citizen_Charter_RO.pdf" target="_blank" rel="noopener">citizen charter for retail outlets</a> lists checks any customer can ask for:
 
-Until the matter is settled, owners who notice a sudden drop in mileage or starting trouble can keep fuel bills, note the station, and raise a complaint with the oil company or the state legal metrology department. Readers tracking the wider auto market can also see our report on <a href="/fada-october-2026-vehicle-retail-sales/">October 2026 vehicle retail sales</a>.
+1. **Filter paper test:** A drop of petrol on filter paper should evaporate in about two minutes without a stain. The dealer must give you filter paper on request.
+2. **Density check:** Fill a 500 ml jar from the nozzle, take the density and temperature with the hydrometer and thermometer, and compare it with the reference density in the outlet register.
+3. **Complaint:** Write in the outlet's complaint book, or call the oil company officer whose name and number are displayed at the pump. Keep the cash memo.
 
-## What Happens Next
+## Why the Row Matters for E20
 
-The dispute is likely to turn on whether a joint retest can be done under the rules both sides recognise. Karnataka wants action against the companies, while the OMCs want the retained samples and full lab reports. A verified test following the Control Order procedure would give consumers a clear answer on what is in their petrol, and that is what drivers in the state will be waiting for.
+According to the ministry, since the 2014-15 supply year blending has saved over Rs 1.97 lakh crore in foreign exchange and paid farmers more than Rs 1.66 lakh crore. In the 2025-26 supply year, which ended on October 31, 2026, the OMCs blended 1,134 crore litres of ethanol into about 5,673 crore litres of petrol, close to 20%.
+
+Congress leader Rahul Gandhi backed Karnataka's findings on social media, calling it "petrol theft from the public's vehicles", Business Today reported. The OMCs point out that more than 30 crore two wheelers and 4 crore four wheelers have run on E20 for over three years without widespread fuel related breakdowns. See also our report on <a href="/fada-october-2026-vehicle-retail-sales/">October 2026 vehicle retail sales</a>.
+
+## E20 Petrol: Common Questions
+
+**What is the legal ethanol limit in E20 petrol?**
+Under BIS standard IS 17021, E20 petrol must have between 19% and 21% ethanol.
+
+**Is my vehicle E20 compatible?**
+Petrol vehicles made from April 2023 had to be E20 compatible. For older vehicles, check the fuel flap, the owner's manual or an authorised dealer.
+
+**Does E20 reduce mileage?**
+Ministry cited studies show a 1% to 2% drop for E20 calibrated vehicles and 3% to 6% for some others.
+
+**How can I test petrol quality at a pump?**
+Ask for a filter paper test and a density check, which Indian Oil's citizen charter lists as checks any customer can request at an outlet.
+
+*This article is general information, not professional advice.*

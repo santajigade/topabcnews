@@ -9,6 +9,7 @@ keywords: "Sao Paulo Grand Prix 2026, Brazil GP grid, Norris pole Interlagos, F1
 image: "/images/posts/sao-paulo-grand-prix-2026-norris-pole.webp"
 imageAlt: "Graphic for the 2026 Formula 1 Sao Paulo Grand Prix with Lando Norris on pole"
 author: "Editorial Staff"
+noindex: true
 sources:
   - name: "Formula1.com: Norris beats Russell to pole position in dramatic rain-affected Sao Paulo qualifying"
     url: "https://www.formula1.com/en/latest/article/norris-beats-russell-to-pole-position-in-dramatic-rain-affected-sao-paolo-qualifying.2V60rhlQjdS5my1uFrOKUH"
