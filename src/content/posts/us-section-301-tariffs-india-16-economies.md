@@ -3,6 +3,7 @@ title: "US Section 301 Tariffs: India Among 16 Economies, What USTR Alleges"
 slug: "us-section-301-tariffs-india-16-economies"
 description: "The US may soon add Section 301 tariffs on India and 15 others over excess capacity. What USTR says about India's $42 billion surplus, sectors and timing."
 date: 2026-11-25T18:55:00+05:30
+updated: 2026-11-26T06:59:00+05:30
 category: "World"
 tags: ["US tariffs", "Section 301", "India US trade", "USTR", "excess capacity"]
 keywords: "Section 301 tariffs India, US tariffs India November 2026, USTR excess capacity probe, India US trade deal, Jamieson Greer tariffs"
@@ -22,9 +23,36 @@ sources:
     url: "https://swarajyamag.com/news-brief/india-amongst-16-economies-facing-fresh-us-tariffs-over-alleged-industrial-overcapacity-and-subsidies"
   - name: "News On AIR, White House says India to face temporary 10 per cent tariff (Feb 21, 2026)"
     url: "https://www.newsonair.gov.in/white-house-says-india-to-face-temporary-10-per-cent-tariff-after-new-us-order"
+  - name: "USTR, USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations (Nov 25, 2026)"
+    url: "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+  - name: "Baker McKenzie Global Import Blog, USTR Proposes Section 301 Tariffs on 14 Economies (Nov 25, 2026)"
+    url: "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+  - name: "Sandler, Travis & Rosenberg, Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners (Nov 2026)"
+    url: "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners"
 ---
 
 The United States is preparing new tariffs on India and 15 other economies after an investigation, opened in March, into what Washington calls industrial excess capacity. The Wall Street Journal reported on Tuesday, November 24, that US Trade Representative Jamieson Greer could publish his findings as early as this week, according to a PTI report carried by <a href="https://www.business-standard.com/world-news/us-planning-to-hike-tariffs-against-india-15-other-countries-report-126112401230_1.html" target="_blank" rel="noopener">Business Standard</a>. The final rates are not yet known, but the report said they would come on top of tariffs already in place.
+
+## Update (November 26, 2026): USTR Proposes Up to 25% on India
+
+On November 25, USTR published its findings and proposed tariffs on 14 of the 16 economies. India faces a proposed tariff of **up to 25%** on all goods, net of existing Section 301 duties. That falls to **17%** if India reaches an Agreement on Reciprocal Trade that responds to USTR's findings, according to the <a href="https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural" target="_blank" rel="noopener">USTR announcement</a>. USTR named health (pharmaceuticals and medical devices), steel, solar and information and communications technology as India's sectors of concern. No determination was made for Mexico or Norway, and USTR gave no reason.
+
+| Economy | Proposed rate | Lower or alternate rate |
+|---|---|---|
+| India | Up to 25% | 17% with a trade agreement |
+| Vietnam | Up to 35% | 20% with a trade agreement |
+| China | Up to 20% (10% on some goods) | Up to 40% if engagement falls short |
+| Singapore | Up to 20% | 10% with a trade agreement |
+| Bangladesh | Up to 18% | Up to 20% |
+| Cambodia, Indonesia, Malaysia, Thailand | Up to 18% | Up to 25% |
+| EU, Japan, Switzerland | 15% | 20% |
+| South Korea, Taiwan | 15% | 25% |
+
+Alternate rates are from law firms Baker McKenzie and Sandler, Travis & Rosenberg. For all economies except China, goods already covered by Section 232 duties are excluded: steel, aluminium and copper items, cars and auto parts, wood products, patented pharmaceuticals and semiconductors. Each economy also has an annex of exempt goods, and a mechanism for a set volume of textiles and apparel at a lower rate is under consideration, <a href="https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/" target="_blank" rel="noopener">Baker McKenzie</a> noted.
+
+Written comments and requests to appear are due by **January 5, 2027**, and a public hearing starts on **January 25, 2027**. No effective date has been proposed. Baker McKenzie expects final action in early 2027.
+
+The original report from November 25 follows.
 
 What is known so far:
 
